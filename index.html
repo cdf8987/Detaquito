@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>De Taquito</title>
+    <link rel="icon" href="assets/logo-de-taquito.png">
+    <link rel="stylesheet" href="styles.css?v=20260604-5">
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="header-bg" aria-hidden="true"></div>
+      <nav class="topbar" aria-label="Principal">
+        <a class="brand" href="#inicio" aria-label="De Taquito">
+          <span class="brand-mark">
+            <img src="assets/logo-de-taquito.png" alt="">
+          </span>
+          <span>De Taquito</span>
+        </a>
+        <div class="nav-actions">
+          <a href="#productos">Productos</a>
+          <a href="#fuentes">Fuentes</a>
+        </div>
+      </nav>
+      <section class="controls-band" aria-label="Filtros de productos">
+        <div class="controls-grid">
+          <div class="search-row">
+            <label class="search-box" for="searchInput">
+              <span aria-hidden="true">Buscar</span>
+              <input id="searchInput" type="search" placeholder="Buscar grafica, monitor, SSD..." autocomplete="off">
+            </label>
+            <button id="searchButton" class="search-button" type="button">Comparar</button>
+          </div>
+
+          <details class="filters-panel">
+            <summary>Filtros</summary>
+            <div class="filters-grid">
+              <label>
+                Categoria
+                <select id="categorySelect"></select>
+              </label>
+
+              <label>
+                Tienda
+                <select id="storeSelect"></select>
+              </label>
+
+              <label>
+                Ordenar
+                <select id="sortSelect">
+                  <option value="best">Mejor precio</option>
+                  <option value="saving">Mayor ahorro</option>
+                  <option value="name">Nombre</option>
+                </select>
+              </label>
+
+              <label>
+                Moneda
+                <select id="currencySelect">
+                  <option value="original">Original</option>
+                  <option value="UYU">UYU</option>
+                  <option value="USD">USD</option>
+                </select>
+              </label>
+
+              <label class="toggle">
+                <input id="stockOnly" type="checkbox" checked>
+                <span>Solo disponibles</span>
+              </label>
+            </div>
+          </details>
+        </div>
+        <p id="rateStatus" class="rate-status"></p>
+      </section>
+      <section id="inicio" class="hero">
+        <div>
+          <div class="hero-brand">
+            <img src="assets/logo-de-taquito.png" alt="Logo de De Taquito">
+            <p class="eyebrow">Precios claros, sin carrito</p>
+          </div>
+          <h1>Compara hardware en tiendas de Uruguay.</h1>
+          <p class="hero-copy">
+            Busca componentes y perifericos, revisa el precio mas bajo, la tienda de origen,
+            la disponibilidad y el enlace directo a la oferta.
+          </p>
+        </div>
+        <aside class="hero-panel" aria-label="Mejor oferta destacada">
+          <span class="panel-label">Comparador</span>
+          <strong id="heroDealName">Cargando...</strong>
+          <span id="heroDealPrice" class="hero-price"></span>
+          <span id="heroDealStore" class="muted"></span>
+        </aside>
+      </section>
+    </header>
+
+    <main>
+      <section id="productos" class="content results-section" hidden>
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Comparativa</p>
+            <h2 id="resultsTitle">Productos encontrados</h2>
+          </div>
+          <p id="resultCount" class="muted"></p>
+        </div>
+        <div id="sourceStatus" class="source-status" aria-live="polite"></div>
+        <div id="productsGrid" class="products-grid" aria-live="polite"></div>
+      </section>
+
+      <section id="ofertas" class="content deals-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Destacados</p>
+            <h2>Ofertas del dia</h2>
+          </div>
+          <p class="muted">Seleccion manual para publicar promociones rapidamente</p>
+        </div>
+        <div id="dealsGrid" class="deals-grid"></div>
+      </section>
+
+      <section class="ad-band" aria-label="Publicidad destacada">
+        <div id="topAd" class="content ad-slot ad-slot-wide"></div>
+      </section>
+
+      <section id="fuentes" class="sources-band">
+        <div class="content source-layout">
+          <div>
+            <p class="eyebrow">Fuentes</p>
+          <h2>Tiendas conectadas</h2>
+          </div>
+          <p>
+            El buscador consulta precios reales en las tiendas conectadas y muestra la mejor
+            opcion disponible con enlace directo a cada producto.
+          </p>
+          <div id="storesGrid" class="stores-grid" aria-label="Tiendas incluidas"></div>
+          <div id="bottomAd" class="ad-slot ad-slot-wide source-ad"></div>
+        </div>
+      </section>
+    </main>
+
+    <template id="productTemplate">
+      <article class="product-card">
+        <div class="product-media">
+          <img class="product-img" alt="">
+          <div class="product-visual" aria-hidden="true"></div>
+          <span class="category-pill"></span>
+        </div>
+        <div class="product-info">
+          <div class="product-title-row">
+            <h3></h3>
+            <span class="saving-badge"></span>
+          </div>
+          <p class="specs"></p>
+          <div class="best-price">
+            <span>Mejor precio</span>
+            <strong></strong>
+            <small></small>
+          </div>
+          <button class="detail-button" type="button">Ver detalle</button>
+          <div class="offers"></div>
+        </div>
+      </article>
+    </template>
+
+    <template id="dealTemplate">
+      <article class="deal-card">
+        <div class="deal-media">
+          <img class="deal-img" alt="">
+          <div class="deal-visual" aria-hidden="true"></div>
+          <span class="deal-badge"></span>
+        </div>
+        <div class="deal-info">
+          <span class="deal-category"></span>
+          <h3></h3>
+          <p></p>
+          <div class="deal-price">
+            <strong></strong>
+            <span></span>
+          </div>
+          <a target="_blank" rel="noopener">Ir a la tienda</a>
+        </div>
+      </article>
+    </template>
+
+    <div id="productModal" class="modal" hidden>
+      <div class="modal-backdrop" data-close-modal></div>
+      <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <button class="modal-close" type="button" data-close-modal aria-label="Cerrar detalle">Cerrar</button>
+        <div class="modal-layout">
+          <div class="modal-media">
+            <img id="modalImage" alt="">
+            <div id="modalVisual" class="product-visual" aria-hidden="true"></div>
+          </div>
+          <div class="modal-info">
+            <span id="modalCategory" class="category-pill"></span>
+            <h2 id="modalTitle"></h2>
+            <p id="modalSpecs" class="muted"></p>
+            <div class="modal-best">
+              <span>Mejor precio</span>
+              <strong id="modalBestPrice"></strong>
+              <small id="modalBestStore"></small>
+            </div>
+            <p id="modalMeta" class="modal-meta"></p>
+            <div class="alert-box">
+              <label for="targetPriceInput">Avisarme si baja de</label>
+              <div>
+                <input id="targetPriceInput" type="number" min="1" step="1" placeholder="Precio objetivo">
+                <button id="saveAlertButton" type="button">Guardar alerta</button>
+              </div>
+              <p id="alertStatus" class="modal-meta"></p>
+            </div>
+          </div>
+        </div>
+        <div class="modal-table-wrap">
+          <div class="history-panel">
+            <div>
+              <span class="panel-label">Historial</span>
+              <strong id="modalHistoryTitle">Ultimas consultas</strong>
+            </div>
+            <div id="modalHistory" class="history-list"></div>
+          </div>
+          <table class="modal-table">
+            <thead>
+              <tr>
+                <th>Tienda</th>
+                <th>Precio</th>
+                <th>Estado</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody id="modalOffers"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <script src="app.js?v=20260604-6"></script>
+  </body>
+</html>
