@@ -112,7 +112,10 @@
             <p class="eyebrow">Destacados</p>
             <h2>Ofertas del dia</h2>
           </div>
-          <p class="muted">Precios reales detectados automaticamente en tiendas conectadas</p>
+          <div class="deals-actions">
+            <p class="muted">Precios reales detectados automaticamente en tiendas conectadas</p>
+            <button id="refreshDealsButton" class="ghost-button" type="button">Actualizar ofertas</button>
+          </div>
         </div>
         <div id="dealsGrid" class="deals-grid"></div>
       </section>
@@ -172,6 +175,7 @@
           <span class="deal-category"></span>
           <h3></h3>
           <p></p>
+          <span class="deal-updated"></span>
           <div class="deal-price">
             <strong></strong>
             <span></span>
@@ -233,6 +237,6 @@
       </section>
     </div>
 
-    <script src="app.js?v=20260605-3"></script>
+    <script src="app.js?v=20260605-5"></script>
   </body>
 </html>

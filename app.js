@@ -218,6 +218,7 @@ const template = document.querySelector("#productTemplate");
 const dealTemplate = document.querySelector("#dealTemplate");
 const storesGrid = document.querySelector("#storesGrid");
 const dealsGrid = document.querySelector("#dealsGrid");
+const refreshDealsButton = document.querySelector("#refreshDealsButton");
 const topAd = document.querySelector("#topAd");
 const bottomAd = document.querySelector("#bottomAd");
 const rateStatus = document.querySelector("#rateStatus");
@@ -492,25 +493,43 @@ async function loadExchangeRate() {
     if (!Number.isFinite(Number(data.USD_TO_UYU))) throw new Error("Cotizacion invalida");
     exchangeRate = data;
   } catch {
-    exchangeRate = {
-      USD_TO_UYU: 40,
-      source: "Referencia fija",
-      fallback: true
-    };
+    try {
+      const response = await fetch("data/live-rates.json");
+      if (!response.ok) throw new Error("No se pudo cargar cotizacion estatica");
+      const data = await response.json();
+      if (!Number.isFinite(Number(data.USD_TO_UYU))) throw new Error("Cotizacion estatica invalida");
+      exchangeRate = data;
+    } catch {
+      exchangeRate = {
+        USD_TO_UYU: 40,
+        source: "Referencia fija",
+        fallback: true
+      };
+    }
   }
 }
 
-async function loadAutomaticDeals() {
+async function loadAutomaticDeals({ refresh = false } = {}) {
   automaticDealsLoaded = false;
+  if (refreshDealsButton) refreshDealsButton.disabled = true;
+  renderDeals();
   try {
-    const response = await fetch("/api/deals?limit=3");
+    const response = await fetch(`/api/deals?limit=3${refresh ? "&refresh=1" : ""}`);
     if (!response.ok) throw new Error("No se pudieron cargar ofertas automaticas");
     const data = await response.json();
     automaticDeals = Array.isArray(data.deals) ? data.deals : [];
   } catch {
-    automaticDeals = [];
+    try {
+      const response = await fetch(`data/live-deals.json${refresh ? `?v=${Date.now()}` : ""}`);
+      if (!response.ok) throw new Error("No se pudieron cargar ofertas estaticas");
+      const data = await response.json();
+      automaticDeals = Array.isArray(data.deals) ? data.deals : [];
+    } catch {
+      automaticDeals = [];
+    }
   } finally {
     automaticDealsLoaded = true;
+    if (refreshDealsButton) refreshDealsButton.disabled = false;
   }
 }
 
@@ -810,6 +829,7 @@ function renderDeals() {
     node.querySelector(".deal-category").textContent = `${deal.category || "Oferta"} · ${deal.store || "Tienda"}`;
     node.querySelector("h3").textContent = deal.title;
     node.querySelector("p").textContent = deal.text || "";
+    node.querySelector(".deal-updated").textContent = deal.generatedAt ? `Actualizado ${formatDateTime(deal.generatedAt)}` : "Precio consultado recientemente";
     node.querySelector(".deal-price strong").textContent = deal.priceText;
     node.querySelector(".deal-price span").textContent = deal.oldPriceText || "";
     node.querySelector("a").href = deal.url;
@@ -968,6 +988,10 @@ currencySelect.addEventListener("change", (event) => {
 stockOnly.addEventListener("change", (event) => {
   state.stockOnly = event.target.checked;
   render();
+});
+
+refreshDealsButton?.addEventListener("click", () => {
+  loadAutomaticDeals({ refresh: true }).then(() => renderDeals());
 });
 
 async function init() {

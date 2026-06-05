@@ -54,3 +54,16 @@ La seccion publica ofertas automaticas por defecto:
 - Manuales: `data/deals.json` queda como base opcional para promociones fijas o sponsors, pero no se usa como precio diario por defecto.
 
 Las ofertas automaticas usan cache para no consultar tiendas en cada visita.
+
+## GitHub Pages
+
+GitHub Pages no ejecuta `server.js`, por eso los endpoints `/api/search`, `/api/deals` y `/api/rates` no funcionan directamente ahi.
+
+Para la portada estatica, la web usa estos archivos cuando no hay servidor:
+
+- `data/live-deals.json`
+- `data/live-rates.json`
+
+La accion `.github/workflows/update-static-data.yml` los actualiza automaticamente cada 6 horas y tambien se puede ejecutar manualmente desde la pestaña Actions de GitHub.
+
+Para que el comparador con busqueda real funcione en produccion, hace falta desplegar `server.js` en un servicio con Node como Render, Railway, Fly.io o un VPS.

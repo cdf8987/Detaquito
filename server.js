@@ -1263,4 +1263,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { searchAll, searchShop, buildCatalog, buildAutomaticDeals, shops, server, detectCategory };
+module.exports = { searchAll, searchShop, buildCatalog, buildAutomaticDeals, getExchangeRates, shops, server, detectCategory };
