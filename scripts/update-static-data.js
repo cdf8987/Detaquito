@@ -25,6 +25,10 @@ async function main() {
     products: []
   };
 
+  if (!catalogData.products?.length) {
+    catalogData.error = catalogData.error || "La actualizacion termino sin productos. Revisa si las tiendas bloquearon la consulta o si no respondieron desde GitHub Actions.";
+  }
+
   writeJson("live-catalog.json", catalogData);
 
   writeJson("live-deals.json", catalog.status === "fulfilled" ? {
