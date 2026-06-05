@@ -439,6 +439,20 @@ async function loadStaticCatalog() {
 
 async function searchStaticCatalog(query) {
   const catalog = await loadStaticCatalog();
+  if (!Array.isArray(catalog.products) || !catalog.products.length) {
+    return {
+      query,
+      generatedAt: catalog.generatedAt || "",
+      sources: catalog.sources || [],
+      products: [],
+      matchMode: "static-empty",
+      cache: {
+        hit: true,
+        cachedAt: catalog.generatedAt || null
+      },
+      emptyCatalog: true
+    };
+  }
   const products = (catalog.products || [])
     .filter((product) => productMatchesStaticQuery(product, query))
     .slice(0, 40);
@@ -956,19 +970,20 @@ async function searchRealPrices() {
       state.sources = data.sources || [];
       state.cache = data.cache || null;
       state.lastGeneratedAt = data.generatedAt || "";
-      state.message = offers
+      state.message = data.emptyCatalog
+        ? "Catalogo automatico pendiente. Ejecuta la accion de GitHub para generar precios reales."
+        : offers
         ? `${offers} ofertas del catalogo actualizado automaticamente`
         : "No encontramos ofertas en el catalogo actualizado";
     } catch {
-      state.mode = "demo";
-      state.products = demoProducts;
+      state.mode = "real";
+      state.products = [];
       state.resultsVisible = true;
-      state.message = "No pudimos cargar el catalogo actualizado. Mostramos ejemplos para mantener la vista.";
-      state.sourceSummary = "";
+      state.message = "Catalogo automatico no disponible en esta publicacion.";
+      state.sourceSummary = "Sube data/live-catalog.json y ejecuta la accion Actualizar datos estaticos en GitHub.";
       state.sources = [];
       state.cache = null;
       state.lastGeneratedAt = "";
-      renderHeroPrompt();
     }
   } finally {
     state.loading = false;
