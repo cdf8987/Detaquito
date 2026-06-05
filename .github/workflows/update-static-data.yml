@@ -1,0 +1,26 @@
+name: Actualizar datos estaticos
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-static-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm run update:static-data
+      - name: Guardar datos actualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live-catalog.json data/live-deals.json data/live-rates.json
+          git diff --cached --quiet || git commit -m "Actualizar ofertas y cotizacion"
+          git push
