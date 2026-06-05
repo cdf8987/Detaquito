@@ -95,6 +95,7 @@ let ads = [...defaultAds];
 let deals = [...defaultDeals];
 let automaticDeals = [];
 let automaticDealsLoaded = false;
+let staticCatalog = null;
 const seenAdImpressions = new Set();
 
 const demoProducts = [
@@ -408,6 +409,50 @@ function slug(value = "") {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "") || "anuncio";
+}
+
+function searchText(value = "") {
+  return String(value)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
+function productMatchesStaticQuery(product, query) {
+  const tokens = searchText(query).split(/[^a-z0-9]+/).filter((token) => token.length > 1);
+  const haystack = searchText([
+    product.name,
+    product.category,
+    product.specs,
+    ...(product.offers || []).map((offer) => `${offer.name || ""} ${offer.store || ""}`)
+  ].join(" "));
+  return tokens.every((token) => haystack.includes(token));
+}
+
+async function loadStaticCatalog() {
+  if (staticCatalog) return staticCatalog;
+  const response = await fetch(`data/live-catalog.json?v=${Date.now()}`);
+  if (!response.ok) throw new Error("No se pudo cargar el catalogo estatico");
+  staticCatalog = await response.json();
+  return staticCatalog;
+}
+
+async function searchStaticCatalog(query) {
+  const catalog = await loadStaticCatalog();
+  const products = (catalog.products || [])
+    .filter((product) => productMatchesStaticQuery(product, query))
+    .slice(0, 40);
+  return {
+    query,
+    generatedAt: catalog.generatedAt || "",
+    sources: catalog.sources || [],
+    products,
+    matchMode: "static",
+    cache: {
+      hit: true,
+      cachedAt: catalog.generatedAt || null
+    }
+  };
 }
 
 function adId(ad) {
@@ -900,15 +945,31 @@ async function searchRealPrices() {
       : "No encontramos ofertas reales para esa busqueda";
     if (data.cache?.hit && offers) state.message = `${state.message} - cache reciente`;
   } catch (error) {
-    state.mode = "demo";
-    state.products = demoProducts;
-    state.resultsVisible = true;
-    state.message = "Servidor no disponible. Mostramos ejemplos para mantener la vista.";
-    state.sourceSummary = "";
-    state.sources = [];
-    state.cache = null;
-    state.lastGeneratedAt = "";
-    renderHeroPrompt();
+    try {
+      const data = await searchStaticCatalog(query);
+      state.mode = "real";
+      state.products = data.products || [];
+      state.category = "Todas";
+      state.store = "Todas";
+      const offers = state.products.reduce((sum, product) => sum + product.offers.length, 0);
+      state.sourceSummary = data.generatedAt ? `Catalogo actualizado: ${formatDateTime(data.generatedAt)}` : "Catalogo estatico";
+      state.sources = data.sources || [];
+      state.cache = data.cache || null;
+      state.lastGeneratedAt = data.generatedAt || "";
+      state.message = offers
+        ? `${offers} ofertas del catalogo actualizado automaticamente`
+        : "No encontramos ofertas en el catalogo actualizado";
+    } catch {
+      state.mode = "demo";
+      state.products = demoProducts;
+      state.resultsVisible = true;
+      state.message = "No pudimos cargar el catalogo actualizado. Mostramos ejemplos para mantener la vista.";
+      state.sourceSummary = "";
+      state.sources = [];
+      state.cache = null;
+      state.lastGeneratedAt = "";
+      renderHeroPrompt();
+    }
   } finally {
     state.loading = false;
     setupCategories();

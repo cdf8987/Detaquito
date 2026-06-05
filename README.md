@@ -61,9 +61,12 @@ GitHub Pages no ejecuta `server.js`, por eso los endpoints `/api/search`, `/api/
 
 Para la portada estatica, la web usa estos archivos cuando no hay servidor:
 
+- `data/live-catalog.json`
 - `data/live-deals.json`
 - `data/live-rates.json`
 
 La accion `.github/workflows/update-static-data.yml` los actualiza automaticamente cada 6 horas y tambien se puede ejecutar manualmente desde la pestaña Actions de GitHub.
+
+En GitHub Pages, el buscador compara contra `data/live-catalog.json`. No es una consulta en vivo, pero permite distribuir la pagina como sitio estatico con precios renovados automaticamente.
 
 Para que el comparador con busqueda real funcione en produccion, hace falta desplegar `server.js` en un servicio con Node como Render, Railway, Fly.io o un VPS.
