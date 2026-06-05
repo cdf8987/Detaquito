@@ -448,6 +448,7 @@ async function searchStaticCatalog(query) {
       matchMode: "static-empty",
       cache: {
         hit: true,
+        type: "static",
         cachedAt: catalog.generatedAt || null
       },
       emptyCatalog: true
@@ -464,9 +465,45 @@ async function searchStaticCatalog(query) {
     matchMode: "static",
     cache: {
       hit: true,
+      type: "static",
       cachedAt: catalog.generatedAt || null
     }
   };
+}
+
+function fallbackVisualForCategory(category = "") {
+  const visuals = {
+    Graficas: {
+      visual: "linear-gradient(135deg, #172026 0 46%, #0b7a28 47% 72%, #f5a524 73%)",
+      shape: "polygon(7% 28%, 82% 28%, 94% 50%, 82% 72%, 18% 72%, 18% 84%, 7% 84%)"
+    },
+    Monitores: {
+      visual: "linear-gradient(145deg, #111a20 0 58%, #0a9a62 59% 70%, #e7edf0 71%)",
+      shape: "polygon(5% 10%, 95% 10%, 95% 68%, 58% 68%, 58% 84%, 76% 84%, 76% 94%, 24% 94%, 24% 84%, 42% 84%, 42% 68%, 5% 68%)"
+    },
+    Almacenamiento: {
+      visual: "linear-gradient(135deg, #172026, #26333b 58%, #d6b45f 59%)",
+      shape: "polygon(5% 36%, 88% 28%, 96% 50%, 88% 72%, 5% 64%)"
+    },
+    Procesadores: {
+      visual: "radial-gradient(circle at 50% 50%, #f5a524 0 20%, #172026 21% 52%, #0a9a62 53%)",
+      shape: "polygon(18% 18%, 82% 18%, 82% 82%, 18% 82%)"
+    },
+    Perifericos: {
+      visual: "linear-gradient(160deg, #ffffff, #dbe2e6 52%, #00897b)",
+      shape: "ellipse(34% 48% at 50% 50%)"
+    }
+  };
+  return visuals[category] || {
+    visual: "linear-gradient(135deg, #26333b, #0a9a62 62%, #f5a524)",
+    shape: "polygon(10% 18%, 90% 18%, 90% 78%, 10% 78%)"
+  };
+}
+
+function applyFallbackVisual(visual, category) {
+  const fallback = fallbackVisualForCategory(category);
+  visual.style.setProperty("--visual", fallback.visual);
+  visual.style.setProperty("--shape", fallback.shape);
 }
 
 function adId(ad) {
@@ -627,10 +664,11 @@ function renderSourceStatus() {
   `);
 
   if (state.cache?.hit) {
+    const staticCatalog = state.cache.type === "static";
     chips.unshift(`
       <span class="source-chip cache">
-        Cache
-        <small>resultado reciente</small>
+        ${staticCatalog ? "Catalogo" : "Cache"}
+        <small>${staticCatalog ? "actualizado" : "resultado reciente"}</small>
       </span>
     `);
   }
@@ -661,6 +699,7 @@ function renderProduct(product, productIndex) {
 
   const visual = node.querySelector(".product-visual");
   const image = node.querySelector(".product-img");
+  applyFallbackVisual(visual, product.category);
   if (product.image) {
     image.src = product.image;
     image.alt = product.name;
@@ -679,8 +718,8 @@ function renderProduct(product, productIndex) {
   } else {
     image.hidden = true;
     visual.hidden = false;
-    visual.style.setProperty("--visual", product.visual);
-    visual.style.setProperty("--shape", product.shape);
+    if (product.visual) visual.style.setProperty("--visual", product.visual);
+    if (product.shape) visual.style.setProperty("--shape", product.shape);
   }
   node.querySelector(".category-pill").textContent = product.category;
   node.querySelector("h3").textContent = product.name;
@@ -846,7 +885,7 @@ function render() {
   const inlineAd = ads.find((ad) => ad.position === "inline");
   items.forEach((product, index) => {
     productsGrid.appendChild(renderProduct(product, index));
-    if (inlineAd && index === 1) {
+    if (inlineAd && index === 4) {
       const adNode = document.createElement("div");
       adNode.className = "ad-slot product-ad";
       adNode.innerHTML = renderAd(inlineAd, "card");
@@ -957,7 +996,7 @@ async function searchRealPrices() {
         ? `${offers} alternativas aproximadas · ${okSources} tiendas respondieron`
         : `${offers} ofertas reales · ${okSources} tiendas respondieron`
       : "No encontramos ofertas reales para esa busqueda";
-    if (data.cache?.hit && offers) state.message = `${state.message} - cache reciente`;
+    if (data.cache?.hit && data.cache.type !== "static" && offers) state.message = `${state.message} - cache reciente`;
   } catch (error) {
     try {
       const data = await searchStaticCatalog(query);
