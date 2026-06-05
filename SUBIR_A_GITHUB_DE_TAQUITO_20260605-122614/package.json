@@ -1,0 +1,9 @@
+{
+  "name": "de-taquito",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "update:static-data": "node scripts/update-static-data.js"
+  }
+}

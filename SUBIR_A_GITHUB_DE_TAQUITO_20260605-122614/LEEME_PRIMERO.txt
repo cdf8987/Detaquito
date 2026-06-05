@@ -1,0 +1,26 @@
+﻿DE TAQUITO - CARPETA LISTA PARA GITHUB
+
+Subi TODO el contenido de esta carpeta al repositorio, no la carpeta entera como subcarpeta.
+
+Tiene que quedar asi en GitHub:
+
+.github/workflows/update-static-data.yml
+scripts/update-static-data.js
+assets/logo-de-taquito.png
+assets/hero-products.png
+data/live-catalog.json
+index.html
+app.js
+server.js
+styles.css
+package.json
+
+Despues de subir:
+1. GitHub > Settings > Actions > General > Workflow permissions
+2. Elegir Read and write permissions
+3. GitHub > Actions > Actualizar datos estaticos > Run workflow
+4. Esperar que termine en verde
+5. Abrir GitHub Pages y presionar Ctrl+F5
+
+Si el logo no aparece, revisar que exista exactamente:
+assets/logo-de-taquito.png
