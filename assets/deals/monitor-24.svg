@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Monitor">
+  <rect width="640" height="360" fill="#f7fbf8"/>
+  <ellipse cx="320" cy="302" rx="170" ry="24" fill="#dfe8e3"/>
+  <rect x="116" y="58" width="408" height="218" rx="18" fill="#111b21"/>
+  <rect x="136" y="78" width="368" height="178" rx="8" fill="#dfe8e9"/>
+  <path d="M136 78h368v178H136z" fill="url(#screen)"/>
+  <rect x="288" y="276" width="64" height="34" rx="4" fill="#26333b"/>
+  <path d="M230 312h180l28 20H202z" fill="#172026"/>
+  <defs>
+    <linearGradient id="screen" x1="136" y1="78" x2="504" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b7a28"/>
+      <stop offset=".48" stop-color="#0a9a62"/>
+      <stop offset=".5" stop-color="#e7edf0"/>
+      <stop offset="1" stop-color="#cfd9de"/>
+    </linearGradient>
+  </defs>
+</svg>
