@@ -572,6 +572,11 @@ select {
   font-weight: 900;
 }
 
+.deal-live .deal-badge {
+  color: var(--white);
+  background: var(--green);
+}
+
 .deal-info {
   display: grid;
   gap: 10px;

@@ -61,14 +61,40 @@ const defaultDeals = [
     badge: "Oferta del dia",
     text: "Buen punto de entrada para actualizar una PC gamer o notebook compatible.",
     url: "https://thotcomputacion.com.uy/",
-    image: "",
+    image: "assets/deals/ssd-nvme.svg",
     tone: "green"
+  },
+  {
+    title: "Monitor 24 pulgadas 100Hz",
+    category: "Monitores",
+    store: "Hard PC",
+    priceText: "US$ 119",
+    oldPriceText: "US$ 139",
+    badge: "Popular",
+    text: "Formato comodo para escritorio, estudio y gaming casual.",
+    url: "https://www.hardpc.com.uy/",
+    image: "assets/deals/monitor-24.svg",
+    tone: "graphite"
+  },
+  {
+    title: "Mouse gamer inalambrico",
+    category: "Perifericos",
+    store: "Banifox",
+    priceText: "US$ 24",
+    oldPriceText: "US$ 32",
+    badge: "Precio bajo",
+    text: "Accesorio rapido para completar setup sin gastar demasiado.",
+    url: "https://www.banifox.com/",
+    image: "assets/deals/mouse-gamer.svg",
+    tone: "amber"
   }
 ];
 
 let stores = [...defaultStores];
 let ads = [...defaultAds];
 let deals = [...defaultDeals];
+let automaticDeals = [];
+let automaticDealsLoaded = false;
 const seenAdImpressions = new Set();
 
 const demoProducts = [
@@ -474,6 +500,20 @@ async function loadExchangeRate() {
   }
 }
 
+async function loadAutomaticDeals() {
+  automaticDealsLoaded = false;
+  try {
+    const response = await fetch("/api/deals?limit=3");
+    if (!response.ok) throw new Error("No se pudieron cargar ofertas automaticas");
+    const data = await response.json();
+    automaticDeals = Array.isArray(data.deals) ? data.deals : [];
+  } catch {
+    automaticDeals = [];
+  } finally {
+    automaticDealsLoaded = true;
+  }
+}
+
 function renderRateStatus() {
   const rate = Number(exchangeRate.USD_TO_UYU || 40);
   const source = exchangeRate.source || "Referencia fija";
@@ -741,12 +781,31 @@ function render() {
 
 function renderDeals() {
   dealsGrid.innerHTML = "";
-  deals.forEach((deal) => {
+  const visibleDeals = automaticDeals
+    .map((deal) => ({
+      ...deal,
+      source: "auto",
+      badge: deal.badge || "Precio real"
+    }))
+    .slice(0, 3);
+
+  if (!visibleDeals.length) {
+    dealsGrid.innerHTML = `
+      <div class="empty-state">
+        <strong>${automaticDealsLoaded ? "No pudimos actualizar ofertas reales ahora." : "Actualizando ofertas reales..."}</strong>
+        <span>${automaticDealsLoaded ? "La seccion evita mostrar precios manuales desactualizados. Volvera a intentar al recargar." : "Estamos consultando tiendas conectadas para traer precios vigentes."}</span>
+      </div>
+    `;
+    return;
+  }
+
+  visibleDeals.forEach((deal) => {
     const node = dealTemplate.content.firstElementChild.cloneNode(true);
     const image = node.querySelector(".deal-img");
     const visual = node.querySelector(".deal-visual");
 
     node.classList.add(`deal-${deal.tone || "green"}`);
+    if (deal.source === "auto") node.classList.add("deal-live");
     node.querySelector(".deal-badge").textContent = deal.badge || "Oferta";
     node.querySelector(".deal-category").textContent = `${deal.category || "Oferta"} · ${deal.store || "Tienda"}`;
     node.querySelector("h3").textContent = deal.title;
@@ -921,6 +980,7 @@ async function init() {
   renderRateStatus();
   renderHeroPrompt();
   render();
+  loadAutomaticDeals().then(() => renderDeals());
 }
 
 init();

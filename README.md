@@ -45,3 +45,12 @@ Campos utiles:
 - `tone`: `green`, `amber` o `graphite`.
 
 Las metricas basicas se guardan en `data/ad-metrics.json` y tambien se pueden consultar en `/api/ads/metrics`.
+
+## Ofertas del dia
+
+La seccion publica ofertas automaticas por defecto:
+
+- Automaticas: el servidor consulta precios reales en pocas busquedas semilla y las expone en `/api/deals?limit=3`.
+- Manuales: `data/deals.json` queda como base opcional para promociones fijas o sponsors, pero no se usa como precio diario por defecto.
+
+Las ofertas automaticas usan cache para no consultar tiendas en cada visita.

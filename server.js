@@ -10,6 +10,7 @@ const AD_METRICS_FILE = path.join(ROOT, "data", "ad-metrics.json");
 const USD_TO_UYU = 40;
 const RATES_TTL_MS = 30 * 60 * 1000;
 const CATALOG_TTL_MS = 45 * 60 * 1000;
+const DEALS_TTL_MS = 30 * 60 * 1000;
 const SEARCH_TTL_MS = 20 * 60 * 1000;
 const SEARCH_CACHE_MAX = 80;
 const FETCH_TIMEOUT_MS = 9000;
@@ -19,6 +20,7 @@ const BROU_RATES_URL = "https://www.brou.com.uy/c/portal/render_portlet?p_l_id=2
 const DOLAR_API_URL = "https://uy.dolarapi.com/v1/cotizaciones/usd";
 let ratesCache = null;
 let catalogCache = null;
+let automaticDealsCache = null;
 const searchCache = new Map();
 let priceHistoryCache = null;
 let adMetricsCache = null;
@@ -1100,6 +1102,103 @@ async function buildCatalog({ refresh = false } = {}) {
   return data;
 }
 
+function dealTone(category = "") {
+  if (category === "Monitores" || category === "Graficas") return "graphite";
+  if (category === "Perifericos" || category === "Procesadores") return "amber";
+  return "green";
+}
+
+function automaticDealFromProduct(product, generatedAt) {
+  const best = product.offers?.[0];
+  if (!best) return null;
+  const storeCount = productStoreCountServer(product);
+  return {
+    title: product.name,
+    category: product.category || detectCategory(product.name),
+    store: best.store,
+    priceText: best.priceText,
+    oldPriceText: "",
+    badge: "Precio real",
+    text: `Oferta detectada automaticamente. Comparada en ${storeCount} tienda${storeCount === 1 ? "" : "s"}.`,
+    url: best.url,
+    image: product.image || best.image || "",
+    tone: dealTone(product.category || detectCategory(product.name)),
+    source: "auto",
+    generatedAt
+  };
+}
+
+function productStoreCountServer(product) {
+  return new Set((product.offers || []).map((offer) => offer.store)).size;
+}
+
+function dealKey(deal) {
+  return `${compactSearchText(deal.title)}:${compactSearchText(deal.store)}:${deal.priceText || ""}`;
+}
+
+async function buildAutomaticDeals({ refresh = false, limit = 3 } = {}) {
+  const now = Date.now();
+  const safeLimit = Math.max(1, Math.min(Number(limit) || 3, 6));
+  if (!refresh && automaticDealsCache && now - automaticDealsCache.fetchedAt < DEALS_TTL_MS) {
+    return {
+      ...automaticDealsCache.data,
+      cache: {
+        hit: true,
+        cachedAt: new Date(automaticDealsCache.fetchedAt).toISOString()
+      }
+    };
+  }
+
+  const seeds = loadCatalogSeeds();
+  const preferred = ["ssd", "monitor", "mouse", "rtx", "ryzen", "notebook"]
+    .filter((seed) => seeds.some((candidate) => compactSearchText(candidate) === compactSearchText(seed)));
+  const selectedSeeds = (preferred.length ? preferred : seeds).slice(0, 4);
+  const generatedAt = new Date().toISOString();
+  const byKey = new Map();
+  const sources = [];
+
+  for (const seed of selectedSeeds) {
+    try {
+      const data = await searchAll(seed);
+      sources.push({
+        seed,
+        ok: true,
+        products: data.products?.length || 0,
+        cache: Boolean(data.cache?.hit)
+      });
+      (data.products || []).forEach((product) => {
+        const deal = automaticDealFromProduct(product, generatedAt);
+        if (deal && !byKey.has(dealKey(deal))) byKey.set(dealKey(deal), deal);
+      });
+    } catch (error) {
+      sources.push({
+        seed,
+        ok: false,
+        products: 0,
+        error: error.message
+      });
+    }
+    if (byKey.size >= safeLimit * 2) break;
+  }
+
+  const deals = [...byKey.values()]
+    .sort((a, b) => (parsePrice(a.priceText)?.priceUYU || Number.POSITIVE_INFINITY) - (parsePrice(b.priceText)?.priceUYU || Number.POSITIVE_INFINITY))
+    .slice(0, safeLimit);
+  const data = {
+    generatedAt,
+    source: "automatic",
+    seeds: selectedSeeds,
+    sources,
+    deals,
+    cache: {
+      hit: false,
+      cachedAt: null
+    }
+  };
+  automaticDealsCache = { fetchedAt: now, data };
+  return data;
+}
+
 const server = http.createServer(async (req, res) => {
   const requestUrl = new URL(req.url, `http://${req.headers.host}`);
 
@@ -1116,6 +1215,13 @@ const server = http.createServer(async (req, res) => {
   if (requestUrl.pathname === "/api/catalog") {
     const refresh = requestUrl.searchParams.get("refresh") === "1";
     sendJson(res, 200, await buildCatalog({ refresh }));
+    return;
+  }
+
+  if (requestUrl.pathname === "/api/deals") {
+    const refresh = requestUrl.searchParams.get("refresh") === "1";
+    const limit = Number(requestUrl.searchParams.get("limit") || 3);
+    sendJson(res, 200, await buildAutomaticDeals({ refresh, limit }));
     return;
   }
 
@@ -1157,4 +1263,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { searchAll, searchShop, buildCatalog, shops, server, detectCategory };
+module.exports = { searchAll, searchShop, buildCatalog, buildAutomaticDeals, shops, server, detectCategory };
