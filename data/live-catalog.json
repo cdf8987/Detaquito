@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T16:22:05.401Z",
+  "generatedAt": "2026-06-11T20:36:27.700Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -675,19 +675,6 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "Monitor Gigabyte GS27QX 27″ 240hz IPS",
-          "url": "https://thotcomputacion.com.uy/producto/monitor-gigabyte-gs27qx-27-240hz-ips/",
-          "image": "assets/catalog/monitor-gigabyte-gs27qx-27-240hz-ips-thot-co-092516ebc61fa528.png",
-          "stock": true,
-          "amount": 330,
-          "currency": "USD",
-          "priceText": "US$ 330",
-          "priceUYU": 13200,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "Thot Computacion",
           "name": "Monitor HP OMEN 27″ FHD IPS 165Hz",
           "url": "https://thotcomputacion.com.uy/producto/monitor-hp-omen-27-fhd-ips-165hz/",
           "image": "assets/catalog/monitor-hp-omen-27-fhd-ips-165hz-thot-comput-b3ac8e7ea9d114bf.png",
@@ -748,6 +735,19 @@
           "currency": "USD",
           "priceText": "US$ 100",
           "priceUYU": 4000,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Monitor Samsung Essential S3 24″ 100Hz IPS FHD",
+          "url": "https://thotcomputacion.com.uy/producto/monitor-samsung-essential-s3-24-100hz-ips-fhd/",
+          "image": "assets/catalog/monitor-samsung-essential-s3-24-100hz-ips-fh-b7312814d7567316.png",
+          "stock": true,
+          "amount": 115,
+          "currency": "USD",
+          "priceText": "US$ 115",
+          "priceUYU": 4600,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
@@ -1301,7 +1301,7 @@
           "store": "Thot Computacion",
           "name": "Mother Gigabyte B850M Eagle WiFi6e ICE",
           "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b850m-eagle-wifi6e-ice/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/05/Mother_Gigabyte_B850M_Eagle_WiFi6e_ICE_1.png",
+          "image": "assets/catalog/mother-gigabyte-b850m-eagle-wifi6e-ice-thot--f4eb43ca459d7e10.png",
           "stock": true,
           "amount": 220,
           "currency": "USD",
@@ -1790,7 +1790,7 @@
           "store": "Hard PC",
           "name": "Soporte para monitor hasta 32\" y notebook hasta 15.6\"",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/accesorios/soporte-para-monitor-hasta-32-y-notebook-hasta-156-sop95/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70364.jpg",
+          "image": "assets/catalog/soporte-para-monitor-hasta-32-y-notebook-has-7bcb7c7208002646.jpg",
           "stock": true,
           "amount": 34.11,
           "currency": "USD",
@@ -2022,23 +2022,10 @@
         },
         {
           "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS ROSA",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
-          "stock": false,
+          "stock": true,
           "amount": 10.03,
           "currency": "USD",
           "priceText": "US$ 10,03",
@@ -2064,6 +2051,19 @@
           "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38068.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS ROSA",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -2219,7 +2219,7 @@
           "store": "Hard PC",
           "name": "AORUS - Z890 AORUS ELITE WIFI7 - Motherboard - ATX - LGA1851 Socket - Intel Z890 - para Intel Core Ultra - None - Z890 A",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/aorus-z890-aorus-elite-wifi7-motherboard-atx-lga1851-socket-intel-z890-para-intel-core-ultra-none-z890-a-mb371aor66/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71320.jpg",
+          "image": "assets/catalog/aorus-z890-aorus-elite-wifi7-motherboard-atx-886a2c8638bab153.jpg",
           "stock": false,
           "amount": 581.55,
           "currency": "USD",
@@ -3039,6 +3039,19 @@
         },
         {
           "store": "TComponentes",
+          "name": "RTX 3070 8GB ZOTAC TWING. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3070-8gb-zotac-twing",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 430,
+          "currency": "USD",
+          "priceText": "US$ 430",
+          "priceUYU": 17200,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "TComponentes",
           "name": "RX 7900XT 20GB XFX SPEEDSTER. NUEVO INGRESO!!",
           "url": "https://www.tcomponentes.com.uy/product-page/rx-7900xt-20gb-xfx-speedster",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3047,19 +3060,6 @@
           "currency": "USD",
           "priceText": "US$ 969",
           "priceUYU": 38760,
-          "category": "Otros",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MOUSEPAD GENIUS GX-P500 GAMER",
-          "url": "https://www.tcomponentes.com.uy/product-page/mousepad-genius-gx-p500-gamer",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 24,
-          "currency": "USD",
-          "priceText": "US$ 24",
-          "priceUYU": 960,
           "category": "Otros",
           "catalogSeed": "gtx"
         },
@@ -3377,110 +3377,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "MONITOR XIAOMI 200HZ 30\" CURVED. USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-xiaomi-200hz-30-curved",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 259,
-          "currency": "USD",
-          "priceText": "US$ 259",
-          "priceUYU": 10360,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING 25″ GS25F2 – 200HZ 1MS",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-25-gs25f2-200hz-1ms",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 219,
-          "currency": "USD",
-          "priceText": "US$ 219",
-          "priceUYU": 8760,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR TEROS 27 FHD 1MS 120HZ IPS",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-teros-27-fhd-1ms-120hz-ips",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 199,
-          "currency": "USD",
-          "priceText": "US$ 199",
-          "priceUYU": 7960,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GIGABYTE GAMER GS34WQC 34″ 2K 120HZ 1MS",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gigabyte-gamer-gs34wqc-34-2k-120hz-1ms",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 449,
-          "currency": "USD",
-          "priceText": "US$ 449",
-          "priceUYU": 17960,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR SAMSUNG ODYSSEY G6 27″ OLED QHD 240HZ",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-samsung-odyssey-g6-27-oled-qhd-240hz",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1799,
-          "currency": "USD",
-          "priceText": "US$ 1.799",
-          "priceUYU": 71960,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMER COMSTAR 22″ VA FHD 100HZ",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gamer-comstar-22-va-fhd-100hz",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 109,
-          "currency": "USD",
-          "priceText": "US$ 109",
-          "priceUYU": 4360,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMER COMSTAR 24″ VA FHD 100HZ",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gamer-comstar-24-va-fhd-100hz",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 119,
-          "currency": "USD",
-          "priceText": "US$ 119",
-          "priceUYU": 4760,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GIGABYTE GAMING 27″ GS27FA – 180HZ 1MS",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gigabyte-gaming-27-gs27fa-180hz-1ms",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 249,
-          "currency": "USD",
-          "priceText": "US$ 249",
-          "priceUYU": 9960,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
           "name": "NOTEBOOK CHUWI DUALCORE N4020, 8GB, 256GB, 15,6\" FHD, ESPAÑOL",
           "url": "https://www.tcomponentes.com.uy/product-page/notebook-chuwi-dualcore-n4020-8gb-256gb-15-6-fhd-espa%C3%B1ol",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3582,6 +3478,422 @@
           "priceUYU": 12760,
           "category": "Notebooks",
           "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "FUENTE SF850X 80P GOLD ANTEC",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-sf850x-80p-gold-antec",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 239,
+          "currency": "USD",
+          "priceText": "US$ 239",
+          "priceUYU": 9560,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "FUENTE UD1000GM 80P GOLD GIGABYTE",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-ud1000gm-80p-gold-gigabyte",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 165,
+          "currency": "USD",
+          "priceText": "US$ 165",
+          "priceUYU": 6600,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "FUENTE UD850GM 80P GOLD GIGABYTE",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-ud850gm-80p-gold-gigabyte",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "FUENTE 750W 80 PLUS BRONZE FULL MODULAR STARKGEAR",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-750w-80-plus-bronze-full-modular-starkgear",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 71,
+          "currency": "USD",
+          "priceText": "US$ 71",
+          "priceUYU": 2840,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "I5 11400F + H510 + 16GB 3200MHZ+ 512GB + RX 6700XT + 600W 80P + GABINETE MSI MAG. EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/i5-11400f-h510-16gb-3200mhz-512gb-rx-6700xt-600w-80p-gabinete-msi-mag",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 890,
+          "currency": "USD",
+          "priceText": "US$ 890",
+          "priceUYU": 35600,
+          "category": "Gabinetes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RYZEN 3 5300G + RAM 16GB 3200MHZ + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/ryzen-3-5300g-radeon-vega-graphics-7",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 579,
+          "currency": "USD",
+          "priceText": "US$ 579",
+          "priceUYU": 23160,
+          "category": "Procesadores",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RYZEN 5 5600GT + RADEON VEGA GRAPHICS 7 + RAM 16GB 3200MHZ + 512GB. IDEAL PRIMER PC",
+          "url": "https://www.tcomponentes.com.uy/product-page/ryzen-5-5600gt-radeon-vega-graphics-7",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 724,
+          "currency": "USD",
+          "priceText": "US$ 724",
+          "priceUYU": 28960,
+          "category": "Graficas",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I5 12400F + RX 580 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rx-580-8gb-ram-16gb-ddr4-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 959,
+          "currency": "USD",
+          "priceText": "US$ 959",
+          "priceUYU": 38360,
+          "category": "Procesadores",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "TECLADO LOGITECH G213 PRODIGY",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-logitech-g213-prodigy",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 55,
+          "currency": "USD",
+          "priceText": "US$ 55",
+          "priceUYU": 2200,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        },
+        {
+          "store": "TComponentes",
+          "name": "TECLADO HYPERX ALLOY RISE 75",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-hyperx-alloy-rise-75",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 229,
+          "currency": "USD",
+          "priceText": "US$ 229",
+          "priceUYU": 9160,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        },
+        {
+          "store": "TComponentes",
+          "name": "TECLADO GAMER MECÁNICO X-LIZZARD",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-gamer-mec%C3%A1nico-x-lizzard",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 64,
+          "currency": "USD",
+          "priceText": "US$ 64",
+          "priceUYU": 2560,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        },
+        {
+          "store": "TComponentes",
+          "name": "TECLADO HYPERX ALLOY ORIGINS ABS RED",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-hyperx-alloy-origins-abs-red",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 139,
+          "currency": "USD",
+          "priceText": "US$ 139",
+          "priceUYU": 5560,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        },
+        {
+          "store": "TComponentes",
+          "name": "TECLADO BE QUIET! LIGHT MOUNT SILENT TACTILE",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-be-quiet-light-mount-silent-tactile",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 189,
+          "currency": "USD",
+          "priceText": "US$ 189",
+          "priceUYU": 7560,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        },
+        {
+          "store": "TComponentes",
+          "name": "TECLADO BE QUIET! LIGHT MOUNT SILENT LINEAR",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-be-quiet-light-mount-silent-linear",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 189,
+          "currency": "USD",
+          "priceText": "US$ 189",
+          "priceUYU": 7560,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        },
+        {
+          "store": "TComponentes",
+          "name": "TECLADO BE QUIET! DARK MOUNT SILENT TACTILE",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-be-quiet-dark-mount-silent-tactile",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 299,
+          "currency": "USD",
+          "priceText": "US$ 299",
+          "priceUYU": 11960,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        },
+        {
+          "store": "TComponentes",
+          "name": "TECLADO BE QUIET! DARK MOUNT SILENT LINEAR",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-be-quiet-dark-mount-silent-linear",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 299,
+          "currency": "USD",
+          "priceText": "US$ 299",
+          "priceUYU": 11960,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G403 HERO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g403-hero",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 65,
+          "currency": "USD",
+          "priceText": "US$ 65",
+          "priceUYU": 2600,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G703 LIGHTSPEED INALÁMBRICO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g703-lightspeed-inal%C3%A1mbrico",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 77,
+          "currency": "USD",
+          "priceText": "US$ 77",
+          "priceUYU": 3080,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH PRO X SUPERLIGHT NEGRO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-pro-x-superlight-negro",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 129,
+          "currency": "USD",
+          "priceText": "US$ 129",
+          "priceUYU": 5160,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLUE",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g305-lightspeed-wireless",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 44,
+          "currency": "USD",
+          "priceText": "US$ 44",
+          "priceUYU": 1760,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLANCO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g305-lightspeed-wireless-blanco",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 44,
+          "currency": "USD",
+          "priceText": "US$ 44",
+          "priceUYU": 1760,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB NEGRO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g203-lightsync-rgb-negro",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 26,
+          "currency": "USD",
+          "priceText": "US$ 26",
+          "priceUYU": 1040,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB AZUL",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g203-lightsync-rgb-azul",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 26,
+          "currency": "USD",
+          "priceText": "US$ 26",
+          "priceUYU": 1040,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB BLANCO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g203-lightsync-rgb-blanco",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 26,
+          "currency": "USD",
+          "priceText": "US$ 26",
+          "priceUYU": 1040,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "TComponentes",
+          "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
+          "url": "https://www.tcomponentes.com.uy/product-page/playstation-5-digital-2-juegos",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 890,
+          "currency": "USD",
+          "priceText": "US$ 890",
+          "priceUYU": 35600,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GARANTÍA. EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-vivobook-m160ya-r7-7730u-16gb-1tb-16-casi-1-a%C3%B1o-de-garant%C3%ADa",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 799,
+          "currency": "USD",
+          "priceText": "US$ 799",
+          "priceUYU": 31960,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS TUF DASH F15 - I7 11375H + 24GB + RTX 3070 8GB + 2TB SSD + 240HZ. EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-tuf-dash-f15-i7-11375h-24gb-rtx-3070-8gb-2tb-ssd-240hz",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1199,
+          "currency": "USD",
+          "priceText": "US$ 1.199",
+          "priceUYU": 47960,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "iPad Air M4 128GB Wi-Fi 11\" Space Gray. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/lampara-xiaomi-mi-bedside-lamp-2",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 999,
+          "currency": "USD",
+          "priceText": "US$ 999",
+          "priceUYU": 39960,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "iPad Air M4 128GB Wi-Fi 13\" Space Gray. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/ipad-air-m4-128gb-wi-fi-13-space-gray",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1290,
+          "currency": "USD",
+          "priceText": "US$ 1.290",
+          "priceUYU": 51600,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS X515J - I3 1005G1 + 8GB DDR4 + SSD 256GB + 15,6\". USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-x515j-i3-1005g1-8gb-ddr4-ssd-256gb-15-6",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 419,
+          "currency": "USD",
+          "priceText": "US$ 419",
+          "priceUYU": 16760,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MacBook Air M5 16GB 512GB 15\" Midnight. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/macbook-air-m5-16gb-512gb-15-512gb-midnight",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1999,
+          "currency": "USD",
+          "priceText": "US$ 1.999",
+          "priceUYU": 79960,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MacBook Neo 13\" A18 Pro 8GB - 512GB Silver. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/macbook-neo-13-a18-pro-8gb-512gb-1",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1149,
+          "currency": "USD",
+          "priceText": "US$ 1.149",
+          "priceUYU": 45960,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
         },
         {
           "store": "TComponentes",
@@ -4526,6 +4838,27 @@
       ]
     },
     {
+      "name": "FUENTE 750W 80 PLUS BRONZE FULL MODULAR STARKGEAR",
+      "category": "Fuentes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "FUENTE 750W 80 PLUS BRONZE FULL MODULAR STARKGEAR",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-750w-80-plus-bronze-full-modular-starkgear",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 71,
+          "currency": "USD",
+          "priceText": "US$ 71",
+          "priceUYU": 2840,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
       "name": "GABINETE XIGMATEK MEDUSA ATX 1 FAN RGB CON FUENTE 450W 8P PC",
       "category": "Fuentes",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -4799,6 +5132,48 @@
       ]
     },
     {
+      "name": "FUENTE UD850GM 80P GOLD GIGABYTE",
+      "category": "Fuentes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "FUENTE UD850GM 80P GOLD GIGABYTE",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-ud850gm-80p-gold-gigabyte",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
+      "name": "FUENTE UD1000GM 80P GOLD GIGABYTE",
+      "category": "Fuentes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "FUENTE UD1000GM 80P GOLD GIGABYTE",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-ud1000gm-80p-gold-gigabyte",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 165,
+          "currency": "USD",
+          "priceText": "US$ 165",
+          "priceUYU": 6600,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
       "name": "KIT PIEZAS WATER COOLER - GABINETE - FUENTE",
       "category": "Fuentes",
       "specs": "Banifox - Disponible - Catalogo conectado",
@@ -4814,6 +5189,27 @@
           "currency": "USD",
           "priceText": "US$ 188",
           "priceUYU": 7520,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
+      "name": "FUENTE SF850X 80P GOLD ANTEC",
+      "category": "Fuentes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "FUENTE SF850X 80P GOLD ANTEC",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-sf850x-80p-gold-antec",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 239,
+          "currency": "USD",
+          "priceText": "US$ 239",
+          "priceUYU": 9560,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
@@ -5299,6 +5695,27 @@
           "priceUYU": 14360,
           "category": "Gabinetes",
           "catalogSeed": "motherboard"
+        }
+      ]
+    },
+    {
+      "name": "I5 11400F + H510 + 16GB 3200MHZ+ 512GB + RX 6700XT + 600W 80P + GABINETE MSI MAG. EQUIPO USADO",
+      "category": "Gabinetes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "I5 11400F + H510 + 16GB 3200MHZ+ 512GB + RX 6700XT + 600W 80P + GABINETE MSI MAG. EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/i5-11400f-h510-16gb-3200mhz-512gb-rx-6700xt-600w-80p-gabinete-msi-mag",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 890,
+          "currency": "USD",
+          "priceText": "US$ 890",
+          "priceUYU": 35600,
+          "category": "Gabinetes",
+          "catalogSeed": "fuente"
         }
       ]
     },
@@ -6542,27 +6959,6 @@
       ]
     },
     {
-      "name": "MONITOR GAMER COMSTAR 22″ VA FHD 100HZ",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMER COMSTAR 22″ VA FHD 100HZ",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gamer-comstar-22-va-fhd-100hz",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 109,
-          "currency": "USD",
-          "priceText": "US$ 109",
-          "priceUYU": 4360,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
       "name": "Monitor Portátil AOC LED IPS 15.6\" Full HD USB",
       "category": "Monitores",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -6626,6 +7022,27 @@
       ]
     },
     {
+      "name": "Monitor Samsung Essential S3 24″ 100Hz IPS FHD",
+      "category": "Monitores",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/monitor-samsung-essential-s3-24-100hz-ips-fh-b7312814d7567316.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Monitor Samsung Essential S3 24″ 100Hz IPS FHD",
+          "url": "https://thotcomputacion.com.uy/producto/monitor-samsung-essential-s3-24-100hz-ips-fhd/",
+          "image": "assets/catalog/monitor-samsung-essential-s3-24-100hz-ips-fh-b7312814d7567316.png",
+          "stock": true,
+          "amount": 115,
+          "currency": "USD",
+          "priceText": "US$ 115",
+          "priceUYU": 4600,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        }
+      ]
+    },
+    {
       "name": "MONITOR 24\" SAMSUNG ESSENTIAL S3 IPS FHD 100HZ (HDMI/VGA)",
       "category": "Monitores",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -6641,27 +7058,6 @@
           "currency": "USD",
           "priceText": "US$ 115,25",
           "priceUYU": 4610,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR GAMER COMSTAR 24″ VA FHD 100HZ",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMER COMSTAR 24″ VA FHD 100HZ",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gamer-comstar-24-va-fhd-100hz",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 119,
-          "currency": "USD",
-          "priceText": "US$ 119",
-          "priceUYU": 4760,
           "category": "Monitores",
           "catalogSeed": "monitor"
         }
@@ -6710,111 +7106,6 @@
       ]
     },
     {
-      "name": "MONITOR TEROS 27 FHD 1MS 120HZ IPS",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR TEROS 27 FHD 1MS 120HZ IPS",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-teros-27-fhd-1ms-120hz-ips",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 199,
-          "currency": "USD",
-          "priceText": "US$ 199",
-          "priceUYU": 7960,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR GAMING 25″ GS25F2 – 200HZ 1MS",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING 25″ GS25F2 – 200HZ 1MS",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-25-gs25f2-200hz-1ms",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 219,
-          "currency": "USD",
-          "priceText": "US$ 219",
-          "priceUYU": 8760,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR GIGABYTE GAMING 27″ GS27FA – 180HZ 1MS",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GIGABYTE GAMING 27″ GS27FA – 180HZ 1MS",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gigabyte-gaming-27-gs27fa-180hz-1ms",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 249,
-          "currency": "USD",
-          "priceText": "US$ 249",
-          "priceUYU": 9960,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR XIAOMI 200HZ 30\" CURVED. USADO",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR XIAOMI 200HZ 30\" CURVED. USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-xiaomi-200hz-30-curved",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 259,
-          "currency": "USD",
-          "priceText": "US$ 259",
-          "priceUYU": 10360,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "Monitor Gigabyte GS27QX 27″ 240hz IPS",
-      "category": "Monitores",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/monitor-gigabyte-gs27qx-27-240hz-ips-thot-co-092516ebc61fa528.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Monitor Gigabyte GS27QX 27″ 240hz IPS",
-          "url": "https://thotcomputacion.com.uy/producto/monitor-gigabyte-gs27qx-27-240hz-ips/",
-          "image": "assets/catalog/monitor-gigabyte-gs27qx-27-240hz-ips-thot-co-092516ebc61fa528.png",
-          "stock": true,
-          "amount": 330,
-          "currency": "USD",
-          "priceText": "US$ 330",
-          "priceUYU": 13200,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
       "name": "DELL MONITOR 23.8",
       "category": "Monitores",
       "specs": "Banifox - Disponible - Catalogo conectado",
@@ -6830,27 +7121,6 @@
           "currency": "USD",
           "priceText": "US$ 396",
           "priceUYU": 15840,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR GIGABYTE GAMER GS34WQC 34″ 2K 120HZ 1MS",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GIGABYTE GAMER GS34WQC 34″ 2K 120HZ 1MS",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gigabyte-gamer-gs34wqc-34-2k-120hz-1ms",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 449,
-          "currency": "USD",
-          "priceText": "US$ 449",
-          "priceUYU": 17960,
           "category": "Monitores",
           "catalogSeed": "monitor"
         }
@@ -6914,27 +7184,6 @@
           "currency": "USD",
           "priceText": "US$ 979",
           "priceUYU": 39160,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR SAMSUNG ODYSSEY G6 27″ OLED QHD 240HZ",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR SAMSUNG ODYSSEY G6 27″ OLED QHD 240HZ",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-samsung-odyssey-g6-27-oled-qhd-240hz",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1799,
-          "currency": "USD",
-          "priceText": "US$ 1.799",
-          "priceUYU": 71960,
           "category": "Monitores",
           "catalogSeed": "monitor"
         }
@@ -7217,13 +7466,13 @@
       "name": "Mother Gigabyte B850M Eagle WiFi6e ICE",
       "category": "Motherboards",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/05/Mother_Gigabyte_B850M_Eagle_WiFi6e_ICE_1.png",
+      "image": "assets/catalog/mother-gigabyte-b850m-eagle-wifi6e-ice-thot--f4eb43ca459d7e10.png",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "Mother Gigabyte B850M Eagle WiFi6e ICE",
           "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b850m-eagle-wifi6e-ice/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/05/Mother_Gigabyte_B850M_Eagle_WiFi6e_ICE_1.png",
+          "image": "assets/catalog/mother-gigabyte-b850m-eagle-wifi6e-ice-thot--f4eb43ca459d7e10.png",
           "stock": true,
           "amount": 220,
           "currency": "USD",
@@ -7238,13 +7487,13 @@
       "name": "AORUS - Z890 AORUS ELITE WIFI7 - Motherboard - ATX - LGA1851 Socket - Intel Z890 - para Intel Core Ultra - None - Z890 A",
       "category": "Motherboards",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71320.jpg",
+      "image": "assets/catalog/aorus-z890-aorus-elite-wifi7-motherboard-atx-886a2c8638bab153.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "AORUS - Z890 AORUS ELITE WIFI7 - Motherboard - ATX - LGA1851 Socket - Intel Z890 - para Intel Core Ultra - None - Z890 A",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/aorus-z890-aorus-elite-wifi7-motherboard-atx-lga1851-socket-intel-z890-para-intel-core-ultra-none-z890-a-mb371aor66/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71320.jpg",
+          "image": "assets/catalog/aorus-z890-aorus-elite-wifi7-motherboard-atx-886a2c8638bab153.jpg",
           "stock": false,
           "amount": 581.55,
           "currency": "USD",
@@ -7259,13 +7508,13 @@
       "name": "Soporte para monitor hasta 32\" y notebook hasta 15.6\"",
       "category": "Notebooks",
       "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70364.jpg",
+      "image": "assets/catalog/soporte-para-monitor-hasta-32-y-notebook-has-7bcb7c7208002646.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Soporte para monitor hasta 32\" y notebook hasta 15.6\"",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/accesorios/soporte-para-monitor-hasta-32-y-notebook-hasta-156-sop95/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70364.jpg",
+          "image": "assets/catalog/soporte-para-monitor-hasta-32-y-notebook-has-7bcb7c7208002646.jpg",
           "stock": true,
           "amount": 34.11,
           "currency": "USD",
@@ -7483,6 +7732,27 @@
           "priceUYU": 14673.599999999999,
           "category": "Notebooks",
           "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "NOTEBOOK ASUS X515J - I3 1005G1 + 8GB DDR4 + SSD 256GB + 15,6\". USADO",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS X515J - I3 1005G1 + 8GB DDR4 + SSD 256GB + 15,6\". USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-x515j-i3-1005g1-8gb-ddr4-ssd-256gb-15-6",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 419,
+          "currency": "USD",
+          "priceText": "US$ 419",
+          "priceUYU": 16760,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
         }
       ]
     },
@@ -7739,6 +8009,48 @@
       ]
     },
     {
+      "name": "MacBook Neo 13\" A18 Pro 8GB - 512GB Silver. APPLE!",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MacBook Neo 13\" A18 Pro 8GB - 512GB Silver. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/macbook-neo-13-a18-pro-8gb-512gb-1",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1149,
+          "currency": "USD",
+          "priceText": "US$ 1.149",
+          "priceUYU": 45960,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "NOTEBOOK ASUS TUF DASH F15 - I7 11375H + 24GB + RTX 3070 8GB + 2TB SSD + 240HZ. EQUIPO USADO",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS TUF DASH F15 - I7 11375H + 24GB + RTX 3070 8GB + 2TB SSD + 240HZ. EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-tuf-dash-f15-i7-11375h-24gb-rtx-3070-8gb-2tb-ssd-240hz",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1199,
+          "currency": "USD",
+          "priceText": "US$ 1.199",
+          "priceUYU": 47960,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
       "name": "Notebook HP VICTUS 15-FB3093DX R7 7445HS/16GB DDR5/SSD 512GB/15.6″/RTX4050/W11",
       "category": "Notebooks",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -7798,6 +8110,27 @@
           "priceUYU": 77199.6,
           "category": "Notebooks",
           "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
+      "name": "MacBook Air M5 16GB 512GB 15\" Midnight. APPLE!",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MacBook Air M5 16GB 512GB 15\" Midnight. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/macbook-air-m5-16gb-512gb-15-512gb-midnight",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1999,
+          "currency": "USD",
+          "priceText": "US$ 1.999",
+          "priceUYU": 79960,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
         }
       ]
     },
@@ -7903,27 +8236,6 @@
           "priceUYU": 96000,
           "category": "Notebooks",
           "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "MOUSEPAD GENIUS GX-P500 GAMER",
-      "category": "Otros",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MOUSEPAD GENIUS GX-P500 GAMER",
-          "url": "https://www.tcomponentes.com.uy/product-page/mousepad-genius-gx-p500-gamer",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 24,
-          "currency": "USD",
-          "priceText": "US$ 24",
-          "priceUYU": 960,
-          "category": "Otros",
-          "catalogSeed": "gtx"
         }
       ]
     },
@@ -8054,6 +8366,48 @@
       ]
     },
     {
+      "name": "GARANTÍA. EQUIPO USADO",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "GARANTÍA. EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-vivobook-m160ya-r7-7730u-16gb-1tb-16-casi-1-a%C3%B1o-de-garant%C3%ADa",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 799,
+          "currency": "USD",
+          "priceText": "US$ 799",
+          "priceUYU": 31960,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
+          "url": "https://www.tcomponentes.com.uy/product-page/playstation-5-digital-2-juegos",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 890,
+          "currency": "USD",
+          "priceText": "US$ 890",
+          "priceUYU": 35600,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
       "name": "RX 7900XT 20GB XFX SPEEDSTER. NUEVO INGRESO!!",
       "category": "Otros",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -8071,6 +8425,48 @@
           "priceUYU": 38760,
           "category": "Otros",
           "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
+      "name": "iPad Air M4 128GB Wi-Fi 11\" Space Gray. APPLE!",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "iPad Air M4 128GB Wi-Fi 11\" Space Gray. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/lampara-xiaomi-mi-bedside-lamp-2",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 999,
+          "currency": "USD",
+          "priceText": "US$ 999",
+          "priceUYU": 39960,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "iPad Air M4 128GB Wi-Fi 13\" Space Gray. APPLE!",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "iPad Air M4 128GB Wi-Fi 13\" Space Gray. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/ipad-air-m4-128gb-wi-fi-13-space-gray",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1290,
+          "currency": "USD",
+          "priceText": "US$ 1.290",
+          "priceUYU": 51600,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
         }
       ]
     },
@@ -8140,7 +8536,7 @@
     {
       "name": "MOUSE LOGITECH M170 WS BLANCO",
       "category": "Perifericos",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
+      "specs": "Hard PC - Disponible - Catalogo conectado",
       "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
       "offers": [
         {
@@ -8148,7 +8544,7 @@
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
-          "stock": false,
+          "stock": true,
           "amount": 10.03,
           "currency": "USD",
           "priceText": "US$ 10,03",
@@ -8348,6 +8744,69 @@
       ]
     },
     {
+      "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB AZUL",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB AZUL",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g203-lightsync-rgb-azul",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 26,
+          "currency": "USD",
+          "priceText": "US$ 26",
+          "priceUYU": 1040,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        }
+      ]
+    },
+    {
+      "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB BLANCO",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB BLANCO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g203-lightsync-rgb-blanco",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 26,
+          "currency": "USD",
+          "priceText": "US$ 26",
+          "priceUYU": 1040,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        }
+      ]
+    },
+    {
+      "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB NEGRO",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB NEGRO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g203-lightsync-rgb-negro",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 26,
+          "currency": "USD",
+          "priceText": "US$ 26",
+          "priceUYU": 1040,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        }
+      ]
+    },
+    {
       "name": "CORSAIR MOUSE PAD MM350 CHAMPION CH-9413520-WW",
       "category": "Perifericos",
       "specs": "Banifox - Disponible - Catalogo conectado",
@@ -8474,6 +8933,48 @@
       ]
     },
     {
+      "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLANCO",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLANCO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g305-lightspeed-wireless-blanco",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 44,
+          "currency": "USD",
+          "priceText": "US$ 44",
+          "priceUYU": 1760,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        }
+      ]
+    },
+    {
+      "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLUE",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLUE",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g305-lightspeed-wireless",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 44,
+          "currency": "USD",
+          "priceText": "US$ 44",
+          "priceUYU": 1760,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        }
+      ]
+    },
+    {
       "name": "TECLADO LOGITECH K650 GRAPHITE WS + BT",
       "category": "Perifericos",
       "specs": "Hard PC - Disponible - Catalogo conectado",
@@ -8554,6 +9055,69 @@
           "priceUYU": 2360,
           "category": "Perifericos",
           "catalogSeed": "teclado"
+        }
+      ]
+    },
+    {
+      "name": "TECLADO GAMER MECÁNICO X-LIZZARD",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "TECLADO GAMER MECÁNICO X-LIZZARD",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-gamer-mec%C3%A1nico-x-lizzard",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 64,
+          "currency": "USD",
+          "priceText": "US$ 64",
+          "priceUYU": 2560,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        }
+      ]
+    },
+    {
+      "name": "MOUSE LOGITECH G403 HERO",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G403 HERO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g403-hero",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 65,
+          "currency": "USD",
+          "priceText": "US$ 65",
+          "priceUYU": 2600,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        }
+      ]
+    },
+    {
+      "name": "MOUSE LOGITECH G703 LIGHTSPEED INALÁMBRICO",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH G703 LIGHTSPEED INALÁMBRICO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g703-lightspeed-inal%C3%A1mbrico",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 77,
+          "currency": "USD",
+          "priceText": "US$ 77",
+          "priceUYU": 3080,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
         }
       ]
     },
@@ -8642,6 +9206,27 @@
       ]
     },
     {
+      "name": "MOUSE LOGITECH PRO X SUPERLIGHT NEGRO",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MOUSE LOGITECH PRO X SUPERLIGHT NEGRO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-pro-x-superlight-negro",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 129,
+          "currency": "USD",
+          "priceText": "US$ 129",
+          "priceUYU": 5160,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        }
+      ]
+    },
+    {
       "name": "TECLADO HYPERX ALLOY ORIGINS ABS RED",
       "category": "Perifericos",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -8705,6 +9290,69 @@
       ]
     },
     {
+      "name": "TECLADO BE QUIET! LIGHT MOUNT SILENT LINEAR",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "TECLADO BE QUIET! LIGHT MOUNT SILENT LINEAR",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-be-quiet-light-mount-silent-linear",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 189,
+          "currency": "USD",
+          "priceText": "US$ 189",
+          "priceUYU": 7560,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        }
+      ]
+    },
+    {
+      "name": "TECLADO BE QUIET! LIGHT MOUNT SILENT TACTILE",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "TECLADO BE QUIET! LIGHT MOUNT SILENT TACTILE",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-be-quiet-light-mount-silent-tactile",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 189,
+          "currency": "USD",
+          "priceText": "US$ 189",
+          "priceUYU": 7560,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        }
+      ]
+    },
+    {
+      "name": "TECLADO HYPERX ALLOY RISE 75",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "TECLADO HYPERX ALLOY RISE 75",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-hyperx-alloy-rise-75",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 229,
+          "currency": "USD",
+          "priceText": "US$ 229",
+          "priceUYU": 9160,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        }
+      ]
+    },
+    {
       "name": "Teclado Steelseries Apex Pro TKL Black",
       "category": "Perifericos",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -8720,6 +9368,48 @@
           "currency": "USD",
           "priceText": "US$ 289,99",
           "priceUYU": 11599.6,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        }
+      ]
+    },
+    {
+      "name": "TECLADO BE QUIET! DARK MOUNT SILENT LINEAR",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "TECLADO BE QUIET! DARK MOUNT SILENT LINEAR",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-be-quiet-dark-mount-silent-linear",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 299,
+          "currency": "USD",
+          "priceText": "US$ 299",
+          "priceUYU": 11960,
+          "category": "Perifericos",
+          "catalogSeed": "teclado"
+        }
+      ]
+    },
+    {
+      "name": "TECLADO BE QUIET! DARK MOUNT SILENT TACTILE",
+      "category": "Perifericos",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "TECLADO BE QUIET! DARK MOUNT SILENT TACTILE",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-be-quiet-dark-mount-silent-tactile",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 299,
+          "currency": "USD",
+          "priceText": "US$ 299",
+          "priceUYU": 11960,
           "category": "Perifericos",
           "catalogSeed": "teclado"
         }
@@ -9251,6 +9941,27 @@
       ]
     },
     {
+      "name": "RYZEN 3 5300G + RAM 16GB 3200MHZ + 512GB",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "RYZEN 3 5300G + RAM 16GB 3200MHZ + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/ryzen-3-5300g-radeon-vega-graphics-7",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 579,
+          "currency": "USD",
+          "priceText": "US$ 579",
+          "priceUYU": 23160,
+          "category": "Procesadores",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
       "name": "Cpu Amd Ryzen 7 7800x3d Am5 Box S/fan",
       "category": "Procesadores",
       "specs": "Hard PC - Disponible - Catalogo conectado",
@@ -9310,6 +10021,27 @@
           "priceUYU": 35200,
           "category": "Procesadores",
           "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "INTEL I5 12400F + RX 580 8GB + RAM 16GB DDR4 + 512GB",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "INTEL I5 12400F + RX 580 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rx-580-8gb-ram-16gb-ddr4-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 959,
+          "currency": "USD",
+          "priceText": "US$ 959",
+          "priceUYU": 38360,
+          "category": "Procesadores",
+          "catalogSeed": "fuente"
         }
       ]
     },
