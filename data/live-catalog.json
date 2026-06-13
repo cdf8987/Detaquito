@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T04:52:44.166Z",
+  "generatedAt": "2026-06-13T09:35:01.117Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -1478,7 +1478,7 @@
           "store": "Hard PC",
           "name": "Notebook Acer Dualcore 2.8Ghz, 8GB, 256GB SSD, 15.6\" FHD Freedos",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-acer-dualcore-28ghz-8gb-256gb-ssd-156-fhd-freedos-not3242/",
-          "image": "assets/catalog/notebook-acer-dualcore-2-8ghz-8gb-256gb-ssd--04dcbcd7734dd15c.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72443.jpg",
           "stock": false,
           "amount": 349.71,
           "currency": "USD",
@@ -1491,7 +1491,7 @@
           "store": "Hard PC",
           "name": "Notebook HP Celeron 7305 1.1Ghz, 8GB, 256GB SSD, 14\" FHD, Win 10",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-hp-celeron-7305-11ghz-8gb-256gb-ssd-14-fhd-win-10-not3285/",
-          "image": "assets/catalog/notebook-hp-celeron-7305-1-1ghz-8gb-256gb-ss-2a3258770fff8c0b.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72447.jpg",
           "stock": false,
           "amount": 366.84,
           "currency": "USD",
@@ -1842,7 +1842,7 @@
           "store": "Hard PC",
           "name": "Notebook Convertible iView 4G Dualcore 2.4Ghz 4+64GB 10\" Win10 Pro",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-convertible-iview-4g-dualcore-24ghz-464gb-10-win10-pro-tab812/",
-          "image": "assets/catalog/notebook-convertible-iview-4g-dualcore-2-4gh-967a6d72b4390b6a.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72691.jpg",
           "stock": false,
           "amount": 181.28,
           "currency": "USD",
@@ -1855,7 +1855,7 @@
           "store": "Hard PC",
           "name": "Notebook Lenovo Dualcore 2.8Ghz, 4GB, 128GB SSD, 15.6\" HD, Win 11",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-lenovo-dualcore-28ghz-4gb-128gb-ssd-156-hd-win-11-not3246/",
-          "image": "assets/catalog/notebook-lenovo-dualcore-2-8ghz-4gb-128gb-ss-411585e4595f3d27.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72283.jpg",
           "stock": false,
           "amount": 308.32,
           "currency": "USD",
@@ -1868,7 +1868,7 @@
           "store": "Hard PC",
           "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
-          "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
           "stock": true,
           "amount": 342.6,
           "currency": "USD",
@@ -2987,19 +2987,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 3080 10GB ZOTAC TRINITY. USADA",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3080-10gb-zotac-trinity",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 490,
-          "currency": "USD",
-          "priceText": "US$ 490",
-          "priceUYU": 19600,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "TComponentes",
           "name": "RTX 3070TI 8GB PALIT GAMEROCK. USADA",
           "url": "https://www.tcomponentes.com.uy/product-page/rtx-3070ti-8gb-palit-gamerock",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3008,6 +2995,19 @@
           "currency": "USD",
           "priceText": "US$ 449",
           "priceUYU": 17960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RTX 3080 10GB ZOTAC TRINITY. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3080-10gb-zotac-trinity",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 490,
+          "currency": "USD",
+          "priceText": "US$ 490",
+          "priceUYU": 19600,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -3299,14 +3299,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7900xt-20gb-ram-16gb-ddr5-512gb",
+          "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7600-8gb-ram-16gb-ddr5-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 2244,
+          "amount": 1664,
           "currency": "USD",
-          "priceText": "US$ 2.244",
-          "priceUYU": 89760,
+          "priceText": "US$ 1.664",
+          "priceUYU": 66560,
           "category": "Procesadores",
           "catalogSeed": "intel"
         },
@@ -3325,15 +3325,41 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9070xt-16gb-ram-16gb-ddr5-512gb",
+          "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9060xt-8gb-ram-16gb-ddr5-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 2374,
+          "amount": 1754,
           "currency": "USD",
-          "priceText": "US$ 2.374",
-          "priceUYU": 94960,
+          "priceText": "US$ 1.754",
+          "priceUYU": 70160,
           "category": "Procesadores",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I5 12400F + RTX 3050 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3050-8gb-ram-16gb-ddr4-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1194,
+          "currency": "USD",
+          "priceText": "US$ 1.194",
+          "priceUYU": 47760,
+          "category": "Graficas",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RTX 5060TI 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rtx-5060ti-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1914,
+          "currency": "USD",
+          "priceText": "US$ 1.914",
+          "priceUYU": 76560,
+          "category": "Graficas",
           "catalogSeed": "intel"
         },
         {
@@ -3346,32 +3372,6 @@
           "currency": "USD",
           "priceText": "US$ 1.734",
           "priceUYU": 69360,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7600-8gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1664,
-          "currency": "USD",
-          "priceText": "US$ 1.664",
-          "priceUYU": 66560,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
-          "name": "INTEL I5 12400F + RTX 3050 6GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3050-6gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1044,
-          "currency": "USD",
-          "priceText": "US$ 1.044",
-          "priceUYU": 41760,
           "category": "Graficas",
           "catalogSeed": "intel"
         },
@@ -3582,6 +3582,110 @@
           "priceUYU": 12760,
           "category": "Notebooks",
           "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GABINETE DEEPCOOL CH780",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-deepcool-ch780",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 229,
+          "currency": "USD",
+          "priceText": "US$ 229",
+          "priceUYU": 9160,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC AX83 ARGB",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-ax83-argb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 75,
+          "currency": "USD",
+          "priceText": "US$ 75",
+          "priceUYU": 3000,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC AX85 ARGB",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-ax85-argb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 77,
+          "currency": "USD",
+          "priceText": "US$ 77",
+          "priceUYU": 3080,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC CX800 ARGB",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-cx800-argb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 101,
+          "currency": "USD",
+          "priceText": "US$ 101",
+          "priceUYU": 4040,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC CX700 ARGB",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-cx700-argb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 113,
+          "currency": "USD",
+          "priceText": "US$ 113",
+          "priceUYU": 4520,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC C8 ARGB",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-c8-argb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 189,
+          "currency": "USD",
+          "priceText": "US$ 189",
+          "priceUYU": 7560,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GABINETE BE QUIET! LIGHT BASE 500",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-be-quiet-light-base-500",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 149,
+          "currency": "USD",
+          "priceText": "US$ 149",
+          "priceUYU": 5960,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC AX81 ELITE + 4 FANS",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-ax81-elite-4-fans",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 74,
+          "currency": "USD",
+          "priceText": "US$ 74",
+          "priceUYU": 2960,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
         }
       ],
       "seeds": 16,
@@ -4759,6 +4863,27 @@
       ]
     },
     {
+      "name": "GABINETE ANTEC AX81 ELITE + 4 FANS",
+      "category": "Gabinetes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC AX81 ELITE + 4 FANS",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-ax81-elite-4-fans",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 74,
+          "currency": "USD",
+          "priceText": "US$ 74",
+          "priceUYU": 2960,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
       "name": "GABINETE ANTEC AX83 ARGB",
       "category": "Gabinetes",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -4864,6 +4989,48 @@
       ]
     },
     {
+      "name": "GABINETE ANTEC CX800 ARGB",
+      "category": "Gabinetes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC CX800 ARGB",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-cx800-argb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 101,
+          "currency": "USD",
+          "priceText": "US$ 101",
+          "priceUYU": 4040,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
+      "name": "GABINETE ANTEC CX700 ARGB",
+      "category": "Gabinetes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC CX700 ARGB",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-cx700-argb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 113,
+          "currency": "USD",
+          "priceText": "US$ 113",
+          "priceUYU": 4520,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
       "name": "Gabinete Cougar Uniface RGB Black",
       "category": "Gabinetes",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -4900,6 +5067,69 @@
           "currency": "USD",
           "priceText": "US$ 115",
           "priceUYU": 4600,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
+      "name": "GABINETE BE QUIET! LIGHT BASE 500",
+      "category": "Gabinetes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "GABINETE BE QUIET! LIGHT BASE 500",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-be-quiet-light-base-500",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 149,
+          "currency": "USD",
+          "priceText": "US$ 149",
+          "priceUYU": 5960,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
+      "name": "GABINETE ANTEC C8 ARGB",
+      "category": "Gabinetes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "GABINETE ANTEC C8 ARGB",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-c8-argb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 189,
+          "currency": "USD",
+          "priceText": "US$ 189",
+          "priceUYU": 7560,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
+      "name": "GABINETE DEEPCOOL CH780",
+      "category": "Gabinetes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "GABINETE DEEPCOOL CH780",
+          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-deepcool-ch780",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 229,
+          "currency": "USD",
+          "priceText": "US$ 229",
+          "priceUYU": 9160,
           "category": "Gabinetes",
           "catalogSeed": "gabinete"
         }
@@ -5557,21 +5787,21 @@
       ]
     },
     {
-      "name": "INTEL I5 12400F + RTX 3050 6GB + RAM 16GB DDR4 + 512GB",
+      "name": "INTEL I5 12400F + RTX 3050 8GB + RAM 16GB DDR4 + 512GB",
       "category": "Graficas",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "INTEL I5 12400F + RTX 3050 6GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3050-6gb",
+          "name": "INTEL I5 12400F + RTX 3050 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3050-8gb-ram-16gb-ddr4-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 1044,
+          "amount": 1194,
           "currency": "USD",
-          "priceText": "US$ 1.044",
-          "priceUYU": 41760,
+          "priceText": "US$ 1.194",
+          "priceUYU": 47760,
           "category": "Graficas",
           "catalogSeed": "intel"
         }
@@ -5656,6 +5886,27 @@
           "currency": "USD",
           "priceText": "US$ 1.734",
           "priceUYU": 69360,
+          "category": "Graficas",
+          "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
+      "name": "INTEL I7 14700F + RTX 5060TI 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+      "category": "Graficas",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RTX 5060TI 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rtx-5060ti-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1914,
+          "currency": "USD",
+          "priceText": "US$ 1.914",
+          "priceUYU": 76560,
           "category": "Graficas",
           "catalogSeed": "intel"
         }
@@ -6862,13 +7113,13 @@
       "name": "Notebook Convertible iView 4G Dualcore 2.4Ghz 4+64GB 10\" Win10 Pro",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/notebook-convertible-iview-4g-dualcore-2-4gh-967a6d72b4390b6a.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72691.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Notebook Convertible iView 4G Dualcore 2.4Ghz 4+64GB 10\" Win10 Pro",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-convertible-iview-4g-dualcore-24ghz-464gb-10-win10-pro-tab812/",
-          "image": "assets/catalog/notebook-convertible-iview-4g-dualcore-2-4gh-967a6d72b4390b6a.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72691.jpg",
           "stock": false,
           "amount": 181.28,
           "currency": "USD",
@@ -6904,13 +7155,13 @@
       "name": "Notebook Lenovo Dualcore 2.8Ghz, 4GB, 128GB SSD, 15.6\" HD, Win 11",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/notebook-lenovo-dualcore-2-8ghz-4gb-128gb-ss-411585e4595f3d27.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72283.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Notebook Lenovo Dualcore 2.8Ghz, 4GB, 128GB SSD, 15.6\" HD, Win 11",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-lenovo-dualcore-28ghz-4gb-128gb-ssd-156-hd-win-11-not3246/",
-          "image": "assets/catalog/notebook-lenovo-dualcore-2-8ghz-4gb-128gb-ss-411585e4595f3d27.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72283.jpg",
           "stock": false,
           "amount": 308.32,
           "currency": "USD",
@@ -6946,13 +7197,13 @@
       "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
       "category": "Notebooks",
       "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
-          "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
           "stock": true,
           "amount": 342.6,
           "currency": "USD",
@@ -6967,13 +7218,13 @@
       "name": "Notebook Acer Dualcore 2.8Ghz, 8GB, 256GB SSD, 15.6\" FHD Freedos",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/notebook-acer-dualcore-2-8ghz-8gb-256gb-ssd--04dcbcd7734dd15c.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72443.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Notebook Acer Dualcore 2.8Ghz, 8GB, 256GB SSD, 15.6\" FHD Freedos",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-acer-dualcore-28ghz-8gb-256gb-ssd-156-fhd-freedos-not3242/",
-          "image": "assets/catalog/notebook-acer-dualcore-2-8ghz-8gb-256gb-ssd--04dcbcd7734dd15c.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72443.jpg",
           "stock": false,
           "amount": 349.71,
           "currency": "USD",
@@ -6988,13 +7239,13 @@
       "name": "Notebook HP Celeron 7305 1.1Ghz, 8GB, 256GB SSD, 14\" FHD, Win 10",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/notebook-hp-celeron-7305-1-1ghz-8gb-256gb-ss-2a3258770fff8c0b.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72447.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Notebook HP Celeron 7305 1.1Ghz, 8GB, 256GB SSD, 14\" FHD, Win 10",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-hp-celeron-7305-11ghz-8gb-256gb-ssd-14-fhd-win-10-not3285/",
-          "image": "assets/catalog/notebook-hp-celeron-7305-1-1ghz-8gb-256gb-ss-2a3258770fff8c0b.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72447.jpg",
           "stock": false,
           "amount": 366.84,
           "currency": "USD",
@@ -8917,42 +9168,21 @@
       ]
     },
     {
-      "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
+      "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
       "category": "Procesadores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7900xt-20gb-ram-16gb-ddr5-512gb",
+          "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9060xt-8gb-ram-16gb-ddr5-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 2244,
+          "amount": 1754,
           "currency": "USD",
-          "priceText": "US$ 2.244",
-          "priceUYU": 89760,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-      "category": "Procesadores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9070xt-16gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2374,
-          "currency": "USD",
-          "priceText": "US$ 2.374",
-          "priceUYU": 94960,
+          "priceText": "US$ 1.754",
+          "priceUYU": 70160,
           "category": "Procesadores",
           "catalogSeed": "intel"
         }
