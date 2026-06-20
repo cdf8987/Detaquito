@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T09:43:26.426Z",
+  "generatedAt": "2026-06-20T14:32:55.439Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -2048,32 +2048,6 @@
         },
         {
           "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS NEGRO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-negro-13001/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4021.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38068.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS ROSA",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
@@ -2090,6 +2064,32 @@
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS NEGRO",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-negro-13001/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4021.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38068.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -3221,19 +3221,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "AMD RYZEN 5 7600X AM5",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600x-am5",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 341,
-          "currency": "USD",
-          "priceText": "US$ 341",
-          "priceUYU": 13640,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "TComponentes",
           "name": "AMD RYZEN 5 4500 AM4",
           "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-4500-am4",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3294,6 +3281,19 @@
           "currency": "USD",
           "priceText": "US$ 269",
           "priceUYU": 10760,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
+        },
+        {
+          "store": "TComponentes",
+          "name": "AMD RYZEN 5 7600 AM5",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600-am5",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 289,
+          "currency": "USD",
+          "priceText": "US$ 289",
+          "priceUYU": 11560,
           "category": "Procesadores",
           "catalogSeed": "ryzen"
         },
@@ -4267,10 +4267,10 @@
     },
     {
       "shop": "PC Compu",
-      "ok": true,
+      "ok": false,
       "offers": [],
       "seeds": 16,
-      "error": ""
+      "error": "ssd: This operation was aborted"
     },
     {
       "shop": "Pc Parts Uy",
@@ -10151,6 +10151,27 @@
           "priceUYU": 11000,
           "category": "Procesadores",
           "catalogSeed": "radeon"
+        }
+      ]
+    },
+    {
+      "name": "AMD RYZEN 5 7600 AM5",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "AMD RYZEN 5 7600 AM5",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600-am5",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 289,
+          "currency": "USD",
+          "priceText": "US$ 289",
+          "priceUYU": 11560,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
         }
       ]
     },
