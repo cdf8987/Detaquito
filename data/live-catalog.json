@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T05:19:24.695Z",
+  "generatedAt": "2026-06-21T10:06:30.580Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -2048,6 +2048,19 @@
         },
         {
           "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS ROSA",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
@@ -2077,19 +2090,6 @@
           "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38068.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS ROSA",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -2883,19 +2883,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 3070TI 8GB PALIT GAMEROCK. USADA",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3070ti-8gb-palit-gamerock",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 449,
-          "currency": "USD",
-          "priceText": "US$ 449",
-          "priceUYU": 17960,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
-        },
-        {
-          "store": "TComponentes",
           "name": "RTX 3080 10GB ZOTAC TRINITY. USADA",
           "url": "https://www.tcomponentes.com.uy/product-page/rtx-3080-10gb-zotac-trinity",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -2904,6 +2891,19 @@
           "currency": "USD",
           "priceText": "US$ 490",
           "priceUYU": 19600,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RTX 3070TI 8GB PALIT GAMEROCK. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3070ti-8gb-palit-gamerock",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 449,
+          "currency": "USD",
+          "priceText": "US$ 449",
+          "priceUYU": 17960,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -3507,32 +3507,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK CHUWI CORE I3 3.9GHZ, 8GB, 256GB, 14\" FHD, ESPAÑOL",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-chuwi-core-i3-3-9ghz-8gb-256gb-14-fhd-espa%C3%B1ol",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 419,
-          "currency": "USD",
-          "priceText": "US$ 419",
-          "priceUYU": 16760,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK CHUWI CORE I3 4.4GHZ, 16GB, 512GB, 14\" QHD, ESPAÑOL",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-chuwi-core-i3-4-4ghz-16gb-512gb-14-qhd-espa%C3%B1ol",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 482,
-          "currency": "USD",
-          "priceText": "US$ 482",
-          "priceUYU": 19280,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "TComponentes",
           "name": "NOTEBOOK LENOVO RYZEN 5 4.3GHZ, 8GB, 256GB SSD, 15.6\" FHD",
           "url": "https://www.tcomponentes.com.uy/product-page/notebook-lenovo-ryzen-5-4-3ghz-8gb-256gb-ssd-15-6-fhd",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3541,45 +3515,6 @@
           "currency": "USD",
           "priceText": "US$ 569",
           "priceUYU": 22760,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK DELL RYZEN 7 4.5GHZ, 16GB, 512GB, 15.6\" FHD TOUCH",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-dell-ryzen-7-4-5ghz-16gb-512gb-15-6-fhd-touch",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 849,
-          "currency": "USD",
-          "priceText": "US$ 849",
-          "priceUYU": 33960,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK ASUS DUALCORE 2.8GHZ, 4GB, 128GB EMMC, 15.6\" FHD, WIN 11",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-dualcore-2-8ghz-4gb-128gb-emmc-15-6-fhd-win-11",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 369,
-          "currency": "USD",
-          "priceText": "US$ 369",
-          "priceUYU": 14760,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK CONVERTIBLE IVIEW 4G DUALCORE 2.4GHZ 4+64GB 10\" WIN10 PRO",
-          "url": "https://www.tcomponentes.com.uy/product-page/note-lenovo-ultra-9-275hz-5-4ghz-64gb-2tb-ssd-16-oled-240hz-rtx-5090-24gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 209,
-          "currency": "USD",
-          "priceText": "US$ 209",
-          "priceUYU": 8360,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         },
@@ -3598,14 +3533,79 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD TOUCH",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i3-3-8ghz-8gb-256gb-ssd-15-6-fhd-touch",
+          "name": "NOTEBOOK LENOVO CORE 5 120U 5.0GHZ, 8GB, 256GB SSD, 15.6\" FHD",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-lenovo-core-5-120u-5-0ghz-8gb-256gb-ssd-15-6-fhd",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 569,
+          "amount": 619,
           "currency": "USD",
-          "priceText": "US$ 569",
-          "priceUYU": 22760,
+          "priceText": "US$ 619",
+          "priceUYU": 24760,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK CONVERTIBLE IVIEW 4G DUALCORE 2.4GHZ 4+64GB 10\" WIN10 PRO",
+          "url": "https://www.tcomponentes.com.uy/product-page/note-lenovo-ultra-9-275hz-5-4ghz-64gb-2tb-ssd-16-oled-240hz-rtx-5090-24gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 209,
+          "currency": "USD",
+          "priceText": "US$ 209",
+          "priceUYU": 8360,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK LENOVO RYZEN 7 4.5GHZ, 16GB, 1TB SSD, 15.6\" FHD TOUCH",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-lenovo-ryzen-7-4-5ghz-16gb-1tb-ssd-15-6-fhd-touch",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 909,
+          "currency": "USD",
+          "priceText": "US$ 909",
+          "priceUYU": 36360,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK CHUWI RYZEN 5 4.6GHZ, 16GB, 512GB, 16\" FHD+, ESPAÑOL",
+          "url": "https://www.tcomponentes.com.uy/product-page/copia-de-notebook-chuwi-ryzen-5-4-6ghz-16gb-512gb-16-fhd-espa%C3%B1ol",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 739,
+          "currency": "USD",
+          "priceText": "US$ 739",
+          "priceUYU": 29560,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 15.6\" FHD, WIN11",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-ryzen-5-4-3ghz-8gb-512gb-ssd-15-6-fhd-win11",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 620,
+          "currency": "USD",
+          "priceText": "US$ 620",
+          "priceUYU": 24800,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD, ESPAÑOL",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-core-i3-3-8ghz-8gb-256gb-ssd-15-6-fhd-espa%C3%B1ol",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 619,
+          "currency": "USD",
+          "priceText": "US$ 619",
+          "priceUYU": 24760,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         },
@@ -3923,110 +3923,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-acer-aspire-3-15-ryzen-7-5700-16gb-480gb-ssd-15-6",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 469,
-          "currency": "USD",
-          "priceText": "US$ 469",
-          "priceUYU": 18760,
-          "category": "Notebooks",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK ASUS TUF I5 10300H + 12GB + 512GB SSD + GTX 1650 4GB + 144HZ + 15,6\". EQUIPO USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-tuf-i5-10300h-12gb-512gb-ssd-gtx-1650-4gb-144hz-15-6",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 599,
-          "currency": "USD",
-          "priceText": "US$ 599",
-          "priceUYU": 23960,
-          "category": "Notebooks",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "TComponentes",
-          "name": "PLAYSTATION STANDAR + 1 JOYSTICK. SONY",
-          "url": "https://www.tcomponentes.com.uy/product-page/playstation-standar-1-joystick",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 630,
-          "currency": "USD",
-          "priceText": "US$ 630",
-          "priceUYU": 25200,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "TComponentes",
-          "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
-          "url": "https://www.tcomponentes.com.uy/product-page/playstation-5-digital-2-juegos",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 890,
-          "currency": "USD",
-          "priceText": "US$ 890",
-          "priceUYU": 35600,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "TComponentes",
-          "name": "GARANTÍA. EQUIPO USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-vivobook-m160ya-r7-7730u-16gb-1tb-16-casi-1-a%C3%B1o-de-garant%C3%ADa",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 799,
-          "currency": "USD",
-          "priceText": "US$ 799",
-          "priceUYU": 31960,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "TComponentes",
-          "name": "CARGA. SONY",
-          "url": "https://www.tcomponentes.com.uy/product-page/playstation-standar-2-joysticks-base-de-carga",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 679,
-          "currency": "USD",
-          "priceText": "US$ 679",
-          "priceUYU": 27160,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "TComponentes",
-          "name": "IPHONE 14 PRO 128GB DEEP PURPLE 85% BATERIA. APPLE!",
-          "url": "https://www.tcomponentes.com.uy/product-page/iphone-14-pro-128gb-deep-purple-85-bateria",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 635,
-          "currency": "USD",
-          "priceText": "US$ 635",
-          "priceUYU": 25400,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "TComponentes",
-          "name": "IPHONE 15 128GB BLUE 87% BATERIA. APPLE!",
-          "url": "https://www.tcomponentes.com.uy/product-page/iphone-15-pro-max-256gb-reacondicionado",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 620,
-          "currency": "USD",
-          "priceText": "US$ 620",
-          "priceUYU": 24800,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "TComponentes",
           "name": "MOTHERBOARD B840 D3HP GIGABYTE. DDR5",
           "url": "https://www.tcomponentes.com.uy/product-page/motherboard-b840-d3hp-gigabyte",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -4235,7 +4131,7 @@
         }
       ],
       "seeds": 16,
-      "error": ""
+      "error": "memoria ram: terminated"
     },
     {
       "shop": "NNET",
@@ -4284,7 +4180,7 @@
       "ok": true,
       "offers": [],
       "seeds": 16,
-      "error": ""
+      "error": "radeon: terminated"
     },
     {
       "shop": "Infinit Technology",
@@ -8097,90 +7993,6 @@
       ]
     },
     {
-      "name": "NOTEBOOK ASUS DUALCORE 2.8GHZ, 4GB, 128GB EMMC, 15.6\" FHD, WIN 11",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK ASUS DUALCORE 2.8GHZ, 4GB, 128GB EMMC, 15.6\" FHD, WIN 11",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-dualcore-2-8ghz-4gb-128gb-emmc-15-6-fhd-win-11",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 369,
-          "currency": "USD",
-          "priceText": "US$ 369",
-          "priceUYU": 14760,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK CHUWI CORE I3 3.9GHZ, 8GB, 256GB, 14\" FHD, ESPAÑOL",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK CHUWI CORE I3 3.9GHZ, 8GB, 256GB, 14\" FHD, ESPAÑOL",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-chuwi-core-i3-3-9ghz-8gb-256gb-14-fhd-espa%C3%B1ol",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 419,
-          "currency": "USD",
-          "priceText": "US$ 419",
-          "priceUYU": 16760,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-acer-aspire-3-15-ryzen-7-5700-16gb-480gb-ssd-15-6",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 469,
-          "currency": "USD",
-          "priceText": "US$ 469",
-          "priceUYU": 18760,
-          "category": "Notebooks",
-          "catalogSeed": "memoria ram"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK CHUWI CORE I3 4.4GHZ, 16GB, 512GB, 14\" QHD, ESPAÑOL",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK CHUWI CORE I3 4.4GHZ, 16GB, 512GB, 14\" QHD, ESPAÑOL",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-chuwi-core-i3-4-4ghz-16gb-512gb-14-qhd-espa%C3%B1ol",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 482,
-          "currency": "USD",
-          "priceText": "US$ 482",
-          "priceUYU": 19280,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
       "name": "Notebook Acer Aspire Lite AL14-52P-53FX I5 120U/8Gb/512Gb PCIe/14″/Free DOS",
       "category": "Notebooks",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -8219,27 +8031,6 @@
           "priceUYU": 22438.800000000003,
           "category": "Notebooks",
           "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD TOUCH",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD TOUCH",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i3-3-8ghz-8gb-256gb-ssd-15-6-fhd-touch",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 569,
-          "currency": "USD",
-          "priceText": "US$ 569",
-          "priceUYU": 22760,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
         }
       ]
     },
@@ -8307,6 +8098,69 @@
       ]
     },
     {
+      "name": "NOTEBOOK ASUS CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD, ESPAÑOL",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD, ESPAÑOL",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-core-i3-3-8ghz-8gb-256gb-ssd-15-6-fhd-espa%C3%B1ol",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 619,
+          "currency": "USD",
+          "priceText": "US$ 619",
+          "priceUYU": 24760,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
+      "name": "NOTEBOOK LENOVO CORE 5 120U 5.0GHZ, 8GB, 256GB SSD, 15.6\" FHD",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK LENOVO CORE 5 120U 5.0GHZ, 8GB, 256GB SSD, 15.6\" FHD",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-lenovo-core-5-120u-5-0ghz-8gb-256gb-ssd-15-6-fhd",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 619,
+          "currency": "USD",
+          "priceText": "US$ 619",
+          "priceUYU": 24760,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
+      "name": "NOTEBOOK ASUS RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 15.6\" FHD, WIN11",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 15.6\" FHD, WIN11",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-ryzen-5-4-3ghz-8gb-512gb-ssd-15-6-fhd-win11",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 620,
+          "currency": "USD",
+          "priceText": "US$ 620",
+          "priceUYU": 24800,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
       "name": "Notebook Asus Ryzen 5 4.3Ghz, 8GB, 512GB SSD, 15.6\" FHD, Win11",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -8349,6 +8203,27 @@
       ]
     },
     {
+      "name": "NOTEBOOK CHUWI RYZEN 5 4.6GHZ, 16GB, 512GB, 16\" FHD+, ESPAÑOL",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK CHUWI RYZEN 5 4.6GHZ, 16GB, 512GB, 16\" FHD+, ESPAÑOL",
+          "url": "https://www.tcomponentes.com.uy/product-page/copia-de-notebook-chuwi-ryzen-5-4-6ghz-16gb-512gb-16-fhd-espa%C3%B1ol",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 739,
+          "currency": "USD",
+          "priceText": "US$ 739",
+          "priceUYU": 29560,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
       "name": "NOTEBOOK HP RYZEN 7 4.5GHZ, 16GB, 512GB SSD, 15.6\" FHD, WIN11 PRO",
       "category": "Notebooks",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -8370,21 +8245,21 @@
       ]
     },
     {
-      "name": "NOTEBOOK DELL RYZEN 7 4.5GHZ, 16GB, 512GB, 15.6\" FHD TOUCH",
+      "name": "NOTEBOOK LENOVO RYZEN 7 4.5GHZ, 16GB, 1TB SSD, 15.6\" FHD TOUCH",
       "category": "Notebooks",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK DELL RYZEN 7 4.5GHZ, 16GB, 512GB, 15.6\" FHD TOUCH",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-dell-ryzen-7-4-5ghz-16gb-512gb-15-6-fhd-touch",
+          "name": "NOTEBOOK LENOVO RYZEN 7 4.5GHZ, 16GB, 1TB SSD, 15.6\" FHD TOUCH",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-lenovo-ryzen-7-4-5ghz-16gb-1tb-ssd-15-6-fhd-touch",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 849,
+          "amount": 909,
           "currency": "USD",
-          "priceText": "US$ 849",
-          "priceUYU": 33960,
+          "priceText": "US$ 909",
+          "priceUYU": 36360,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         }
@@ -8660,132 +8535,6 @@
           "priceUYU": 17160,
           "category": "Otros",
           "catalogSeed": "radeon"
-        }
-      ]
-    },
-    {
-      "name": "IPHONE 15 128GB BLUE 87% BATERIA. APPLE!",
-      "category": "Otros",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "IPHONE 15 128GB BLUE 87% BATERIA. APPLE!",
-          "url": "https://www.tcomponentes.com.uy/product-page/iphone-15-pro-max-256gb-reacondicionado",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 620,
-          "currency": "USD",
-          "priceText": "US$ 620",
-          "priceUYU": 24800,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        }
-      ]
-    },
-    {
-      "name": "PLAYSTATION STANDAR + 1 JOYSTICK. SONY",
-      "category": "Otros",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "PLAYSTATION STANDAR + 1 JOYSTICK. SONY",
-          "url": "https://www.tcomponentes.com.uy/product-page/playstation-standar-1-joystick",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 630,
-          "currency": "USD",
-          "priceText": "US$ 630",
-          "priceUYU": 25200,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        }
-      ]
-    },
-    {
-      "name": "IPHONE 14 PRO 128GB DEEP PURPLE 85% BATERIA. APPLE!",
-      "category": "Otros",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "IPHONE 14 PRO 128GB DEEP PURPLE 85% BATERIA. APPLE!",
-          "url": "https://www.tcomponentes.com.uy/product-page/iphone-14-pro-128gb-deep-purple-85-bateria",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 635,
-          "currency": "USD",
-          "priceText": "US$ 635",
-          "priceUYU": 25400,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        }
-      ]
-    },
-    {
-      "name": "CARGA. SONY",
-      "category": "Otros",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "CARGA. SONY",
-          "url": "https://www.tcomponentes.com.uy/product-page/playstation-standar-2-joysticks-base-de-carga",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 679,
-          "currency": "USD",
-          "priceText": "US$ 679",
-          "priceUYU": 27160,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        }
-      ]
-    },
-    {
-      "name": "GARANTÍA. EQUIPO USADO",
-      "category": "Otros",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "GARANTÍA. EQUIPO USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-vivobook-m160ya-r7-7730u-16gb-1tb-16-casi-1-a%C3%B1o-de-garant%C3%ADa",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 799,
-          "currency": "USD",
-          "priceText": "US$ 799",
-          "priceUYU": 31960,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
-        }
-      ]
-    },
-    {
-      "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
-      "category": "Otros",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
-          "url": "https://www.tcomponentes.com.uy/product-page/playstation-5-digital-2-juegos",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 890,
-          "currency": "USD",
-          "priceText": "US$ 890",
-          "priceUYU": 35600,
-          "category": "Otros",
-          "catalogSeed": "memoria ram"
         }
       ]
     },
