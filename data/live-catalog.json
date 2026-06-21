@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T10:06:30.580Z",
+  "generatedAt": "2026-06-21T14:33:18.256Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -2048,19 +2048,6 @@
         },
         {
           "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS ROSA",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
@@ -2090,6 +2077,19 @@
           "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38068.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS ROSA",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -2167,7 +2167,7 @@
           "store": "Hard PC",
           "name": "MOTHERBOARD GIGABYTE H610M S2H (1700) 12VA",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/motherboard-gigabyte-h610m-s2h-1700-12va-17722/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4596.jpg",
+          "image": "assets/catalog/motherboard-gigabyte-h610m-s2h-1700-12va-har-0fa7407d0c2b05cf.jpg",
           "stock": false,
           "amount": 116.73,
           "currency": "USD",
@@ -2883,19 +2883,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 3080 10GB ZOTAC TRINITY. USADA",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3080-10gb-zotac-trinity",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 490,
-          "currency": "USD",
-          "priceText": "US$ 490",
-          "priceUYU": 19600,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
-        },
-        {
-          "store": "TComponentes",
           "name": "RTX 3070TI 8GB PALIT GAMEROCK. USADA",
           "url": "https://www.tcomponentes.com.uy/product-page/rtx-3070ti-8gb-palit-gamerock",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -2904,6 +2891,19 @@
           "currency": "USD",
           "priceText": "US$ 449",
           "priceUYU": 17960,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RTX 3080 10GB ZOTAC TRINITY. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3080-10gb-zotac-trinity",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 490,
+          "currency": "USD",
+          "priceText": "US$ 490",
+          "priceUYU": 19600,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -3325,58 +3325,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7900xt-20gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2244,
-          "currency": "USD",
-          "priceText": "US$ 2.244",
-          "priceUYU": 89760,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rtx-5060-8gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1784,
-          "currency": "USD",
-          "priceText": "US$ 1.784",
-          "priceUYU": 71360,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 12700F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5060-8gb-ram-16gb-ddr4-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1514,
-          "currency": "USD",
-          "priceText": "US$ 1.514",
-          "priceUYU": 60560,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
-          "name": "INTEL I5 12400F + RTX 3050 6GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3050-6gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1044,
-          "currency": "USD",
-          "priceText": "US$ 1.044",
-          "priceUYU": 41760,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
           "name": "INTEL I7 12700F + RTX 5050 8GB + RAM 16GB DDR4 + 512GB",
           "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5050-8gb-ram-16gb-ddr4-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3390,15 +3338,67 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9070xt-16gb-ram-16gb-ddr5-512gb",
+          "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9060xt-8gb-ram-16gb-ddr5-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 2374,
+          "amount": 1754,
           "currency": "USD",
-          "priceText": "US$ 2.374",
-          "priceUYU": 94960,
+          "priceText": "US$ 1.754",
+          "priceUYU": 70160,
           "category": "Procesadores",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7900xt-20gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 2244,
+          "currency": "USD",
+          "priceText": "US$ 2.244",
+          "priceUYU": 89760,
+          "category": "Procesadores",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I5 12400F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3060-8gb-ram-16gb-ddr4-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1264,
+          "currency": "USD",
+          "priceText": "US$ 1.264",
+          "priceUYU": 50560,
+          "category": "Graficas",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7600-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1664,
+          "currency": "USD",
+          "priceText": "US$ 1.664",
+          "priceUYU": 66560,
+          "category": "Procesadores",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I5 12400F + RTX 3050 6GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3050-6gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1044,
+          "currency": "USD",
+          "priceText": "US$ 1.044",
+          "priceUYU": 41760,
+          "category": "Graficas",
           "catalogSeed": "intel"
         },
         {
@@ -3923,6 +3923,110 @@
         },
         {
           "store": "TComponentes",
+          "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-acer-aspire-3-15-ryzen-7-5700-16gb-480gb-ssd-15-6",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 469,
+          "currency": "USD",
+          "priceText": "US$ 469",
+          "priceUYU": 18760,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ASUS TUF I5 10300H + 12GB + 512GB SSD + GTX 1650 4GB + 144HZ + 15,6\". EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-tuf-i5-10300h-12gb-512gb-ssd-gtx-1650-4gb-144hz-15-6",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 599,
+          "currency": "USD",
+          "priceText": "US$ 599",
+          "priceUYU": 23960,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "PLAYSTATION STANDAR + 1 JOYSTICK. SONY",
+          "url": "https://www.tcomponentes.com.uy/product-page/playstation-standar-1-joystick",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 630,
+          "currency": "USD",
+          "priceText": "US$ 630",
+          "priceUYU": 25200,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
+          "url": "https://www.tcomponentes.com.uy/product-page/playstation-5-digital-2-juegos",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 890,
+          "currency": "USD",
+          "priceText": "US$ 890",
+          "priceUYU": 35600,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "GARANTÍA. EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-vivobook-m160ya-r7-7730u-16gb-1tb-16-casi-1-a%C3%B1o-de-garant%C3%ADa",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 799,
+          "currency": "USD",
+          "priceText": "US$ 799",
+          "priceUYU": 31960,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "CARGA. SONY",
+          "url": "https://www.tcomponentes.com.uy/product-page/playstation-standar-2-joysticks-base-de-carga",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 679,
+          "currency": "USD",
+          "priceText": "US$ 679",
+          "priceUYU": 27160,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "IPHONE 14 PRO 128GB DEEP PURPLE 85% BATERIA. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/iphone-14-pro-128gb-deep-purple-85-bateria",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 635,
+          "currency": "USD",
+          "priceText": "US$ 635",
+          "priceUYU": 25400,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
+          "name": "IPHONE 15 128GB BLUE 87% BATERIA. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/iphone-15-pro-max-256gb-reacondicionado",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 620,
+          "currency": "USD",
+          "priceText": "US$ 620",
+          "priceUYU": 24800,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "TComponentes",
           "name": "MOTHERBOARD B840 D3HP GIGABYTE. DDR5",
           "url": "https://www.tcomponentes.com.uy/product-page/motherboard-b840-d3hp-gigabyte",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -4131,7 +4235,7 @@
         }
       ],
       "seeds": 16,
-      "error": "memoria ram: terminated"
+      "error": ""
     },
     {
       "shop": "NNET",
@@ -4180,7 +4284,7 @@
       "ok": true,
       "offers": [],
       "seeds": 16,
-      "error": "radeon: terminated"
+      "error": ""
     },
     {
       "shop": "Infinit Technology",
@@ -6460,21 +6564,21 @@
       ]
     },
     {
-      "name": "INTEL I7 12700F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
+      "name": "INTEL I5 12400F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
       "category": "Graficas",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "INTEL I7 12700F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5060-8gb-ram-16gb-ddr4-512gb",
+          "name": "INTEL I5 12400F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3060-8gb-ram-16gb-ddr4-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 1514,
+          "amount": 1264,
           "currency": "USD",
-          "priceText": "US$ 1.514",
-          "priceUYU": 60560,
+          "priceText": "US$ 1.264",
+          "priceUYU": 50560,
           "category": "Graficas",
           "catalogSeed": "intel"
         }
@@ -6496,27 +6600,6 @@
           "currency": "USD",
           "priceText": "US$ 1.554",
           "priceUYU": 62160,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
-      "category": "Graficas",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rtx-5060-8gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1784,
-          "currency": "USD",
-          "priceText": "US$ 1.784",
-          "priceUYU": 71360,
           "category": "Graficas",
           "catalogSeed": "intel"
         }
@@ -7555,13 +7638,13 @@
       "name": "MOTHERBOARD GIGABYTE H610M S2H (1700) 12VA",
       "category": "Motherboards",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4596.jpg",
+      "image": "assets/catalog/motherboard-gigabyte-h610m-s2h-1700-12va-har-0fa7407d0c2b05cf.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "MOTHERBOARD GIGABYTE H610M S2H (1700) 12VA",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/motherboard-gigabyte-h610m-s2h-1700-12va-17722/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4596.jpg",
+          "image": "assets/catalog/motherboard-gigabyte-h610m-s2h-1700-12va-har-0fa7407d0c2b05cf.jpg",
           "stock": false,
           "amount": 116.73,
           "currency": "USD",
@@ -7989,6 +8072,27 @@
           "priceUYU": 14673.599999999999,
           "category": "Notebooks",
           "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-acer-aspire-3-15-ryzen-7-5700-16gb-480gb-ssd-15-6",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 469,
+          "currency": "USD",
+          "priceText": "US$ 469",
+          "priceUYU": 18760,
+          "category": "Notebooks",
+          "catalogSeed": "memoria ram"
         }
       ]
     },
@@ -8535,6 +8639,132 @@
           "priceUYU": 17160,
           "category": "Otros",
           "catalogSeed": "radeon"
+        }
+      ]
+    },
+    {
+      "name": "IPHONE 15 128GB BLUE 87% BATERIA. APPLE!",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "IPHONE 15 128GB BLUE 87% BATERIA. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/iphone-15-pro-max-256gb-reacondicionado",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 620,
+          "currency": "USD",
+          "priceText": "US$ 620",
+          "priceUYU": 24800,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "PLAYSTATION STANDAR + 1 JOYSTICK. SONY",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "PLAYSTATION STANDAR + 1 JOYSTICK. SONY",
+          "url": "https://www.tcomponentes.com.uy/product-page/playstation-standar-1-joystick",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 630,
+          "currency": "USD",
+          "priceText": "US$ 630",
+          "priceUYU": 25200,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "IPHONE 14 PRO 128GB DEEP PURPLE 85% BATERIA. APPLE!",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "IPHONE 14 PRO 128GB DEEP PURPLE 85% BATERIA. APPLE!",
+          "url": "https://www.tcomponentes.com.uy/product-page/iphone-14-pro-128gb-deep-purple-85-bateria",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 635,
+          "currency": "USD",
+          "priceText": "US$ 635",
+          "priceUYU": 25400,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "CARGA. SONY",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "CARGA. SONY",
+          "url": "https://www.tcomponentes.com.uy/product-page/playstation-standar-2-joysticks-base-de-carga",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 679,
+          "currency": "USD",
+          "priceText": "US$ 679",
+          "priceUYU": 27160,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "GARANTÍA. EQUIPO USADO",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "GARANTÍA. EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-vivobook-m160ya-r7-7730u-16gb-1tb-16-casi-1-a%C3%B1o-de-garant%C3%ADa",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 799,
+          "currency": "USD",
+          "priceText": "US$ 799",
+          "priceUYU": 31960,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "PLAYSTATION 5 DIGITAL + 2 JUEGOS. SONY",
+          "url": "https://www.tcomponentes.com.uy/product-page/playstation-5-digital-2-juegos",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 890,
+          "currency": "USD",
+          "priceText": "US$ 890",
+          "priceUYU": 35600,
+          "category": "Otros",
+          "catalogSeed": "memoria ram"
         }
       ]
     },
@@ -10240,6 +10470,48 @@
       ]
     },
     {
+      "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7600-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1664,
+          "currency": "USD",
+          "priceText": "US$ 1.664",
+          "priceUYU": 66560,
+          "category": "Procesadores",
+          "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
+      "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9060xt-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1754,
+          "currency": "USD",
+          "priceText": "US$ 1.754",
+          "priceUYU": 70160,
+          "category": "Procesadores",
+          "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
       "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
       "category": "Procesadores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -10255,27 +10527,6 @@
           "currency": "USD",
           "priceText": "US$ 2.244",
           "priceUYU": 89760,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-      "category": "Procesadores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9070xt-16gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2374,
-          "currency": "USD",
-          "priceText": "US$ 2.374",
-          "priceUYU": 94960,
           "category": "Procesadores",
           "catalogSeed": "intel"
         }
