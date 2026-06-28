@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T19:45:50.454Z",
+  "generatedAt": "2026-06-28T04:51:52.390Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -1528,9 +1528,9 @@
         },
         {
           "store": "Hard PC",
-          "name": "Tarjeta Palit Geforce Rtx 5060ti Infinity3 Oc 16gb",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/tarjeta-de-video/tarjeta-palit-geforce-rtx-5060ti-infinity3-oc-16gb-01255060ts19/",
-          "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-infinity3-o-683b0e88bdca9159.jpg",
+          "name": "Tarjeta Palit Geforce Rtx 5060ti White Oc 16gb D7",
+          "url": "https://www.hardpc.com.uy/catalogo/componentes/tarjeta-de-video/tarjeta-palit-geforce-rtx-5060ti-white-oc-16gb-d7-01257506tu19/",
+          "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-white-oc-16-8d29307040f7d5f9.jpg",
           "stock": true,
           "amount": 956.79,
           "currency": "USD",
@@ -1894,7 +1894,7 @@
           "store": "Hard PC",
           "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
+          "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
           "stock": true,
           "amount": 342.6,
           "currency": "USD",
@@ -2048,6 +2048,19 @@
         },
         {
           "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS ROSA",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
@@ -2077,19 +2090,6 @@
           "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38068.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS ROSA",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -2883,14 +2883,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 3070TI 8GB PALIT GAMEROCK. USADA",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3070ti-8gb-palit-gamerock",
+          "name": "RTX 3080 10GB ZOTAC TRINITY. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3080-10gb-zotac-trinity",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 449,
+          "amount": 490,
           "currency": "USD",
-          "priceText": "US$ 449",
-          "priceUYU": 17960,
+          "priceText": "US$ 490",
+          "priceUYU": 19600,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -2909,14 +2909,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 3080 10GB ZOTAC TRINITY. USADA",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3080-10gb-zotac-trinity",
+          "name": "RTX 3070TI 8GB PALIT GAMEROCK. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3070ti-8gb-palit-gamerock",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 490,
+          "amount": 449,
           "currency": "USD",
-          "priceText": "US$ 490",
-          "priceUYU": 19600,
+          "priceText": "US$ 449",
+          "priceUYU": 17960,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -2974,14 +2974,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 3050 8GB INNO3D TWIN",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-8gb-inno3d-twin",
+          "name": "RTX 3050 6GB INNO3D TWIN",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-6gb-inno3d-twin",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 359,
+          "amount": 329,
           "currency": "USD",
-          "priceText": "US$ 359",
-          "priceUYU": 14360,
+          "priceText": "US$ 329",
+          "priceUYU": 13160,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -3221,6 +3221,19 @@
         },
         {
           "store": "TComponentes",
+          "name": "AMD RYZEN 5 7600X AM5",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600x-am5",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 341,
+          "currency": "USD",
+          "priceText": "US$ 341",
+          "priceUYU": 13640,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
+        },
+        {
+          "store": "TComponentes",
           "name": "AMD RYZEN 5 4500 AM4",
           "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-4500-am4",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3286,19 +3299,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "AMD RYZEN 5 7600 AM5",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600-am5",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 289,
-          "currency": "USD",
-          "priceText": "US$ 289",
-          "priceUYU": 11560,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "TComponentes",
           "name": "INTEL I3 13100F",
           "url": "https://www.tcomponentes.com.uy/product-page/intel-i3-13100f",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3325,6 +3325,32 @@
         },
         {
           "store": "TComponentes",
+          "name": "INTEL I7 12700F + RTX 5050 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5050-8gb-ram-16gb-ddr4-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1554,
+          "currency": "USD",
+          "priceText": "US$ 1.554",
+          "priceUYU": 62160,
+          "category": "Graficas",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9060xt-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1754,
+          "currency": "USD",
+          "priceText": "US$ 1.754",
+          "priceUYU": 70160,
+          "category": "Procesadores",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
           "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
           "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7900xt-20gb-ram-16gb-ddr5-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3338,28 +3364,28 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rtx-5060-8gb-ram-16gb-ddr5-512gb",
+          "name": "INTEL I5 12400F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3060-8gb-ram-16gb-ddr4-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 1784,
+          "amount": 1264,
           "currency": "USD",
-          "priceText": "US$ 1.784",
-          "priceUYU": 71360,
+          "priceText": "US$ 1.264",
+          "priceUYU": 50560,
           "category": "Graficas",
           "catalogSeed": "intel"
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 12700F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5060-8gb-ram-16gb-ddr4-512gb",
+          "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7600-8gb-ram-16gb-ddr5-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 1514,
+          "amount": 1664,
           "currency": "USD",
-          "priceText": "US$ 1.514",
-          "priceUYU": 60560,
-          "category": "Graficas",
+          "priceText": "US$ 1.664",
+          "priceUYU": 66560,
+          "category": "Procesadores",
           "catalogSeed": "intel"
         },
         {
@@ -3377,45 +3403,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 12700F + RTX 5050 8GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5050-8gb-ram-16gb-ddr4-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1554,
-          "currency": "USD",
-          "priceText": "US$ 1.554",
-          "priceUYU": 62160,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9070xt-16gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2374,
-          "currency": "USD",
-          "priceText": "US$ 2.374",
-          "priceUYU": 94960,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING MO27Q3",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-mo27q3",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 990,
-          "currency": "USD",
-          "priceText": "US$ 990",
-          "priceUYU": 39600,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
           "name": "MONITOR GAMING MO27Q28G",
           "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-mo27q28g",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3424,6 +3411,19 @@
           "currency": "USD",
           "priceText": "US$ 849",
           "priceUYU": 33960,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MONITOR GAMING GS25F14",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-gs25f14-1",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
@@ -3455,27 +3455,27 @@
         },
         {
           "store": "TComponentes",
-          "name": "MONITOR GAMING GS25F14",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-gs25f14-1",
+          "name": "MONITOR GAMING MO27Q3",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-mo27q3",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 159,
+          "amount": 990,
           "currency": "USD",
-          "priceText": "US$ 159",
-          "priceUYU": 6360,
+          "priceText": "US$ 990",
+          "priceUYU": 39600,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
         {
           "store": "TComponentes",
-          "name": "MONITOR GAMING 27\" GS27QA",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-27-gs27qa",
+          "name": "MONITOR GAMING 34\" GS34WQC",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-34-gs34wqc",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 280,
+          "amount": 359,
           "currency": "USD",
-          "priceText": "US$ 280",
-          "priceUYU": 11200,
+          "priceText": "US$ 359",
+          "priceUYU": 14360,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
@@ -3494,14 +3494,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "MONITOR GAMING 27\" GS27FA",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-27-gs27fa",
+          "name": "MONITOR GAMING 25\" GS25F2",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-25-gs25f2",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 199,
+          "amount": 189,
           "currency": "USD",
-          "priceText": "US$ 199",
-          "priceUYU": 7960,
+          "priceText": "US$ 189",
+          "priceUYU": 7560,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
@@ -5121,21 +5121,21 @@
       ]
     },
     {
-      "name": "RTX 3050 8GB INNO3D TWIN",
+      "name": "RTX 3050 6GB INNO3D TWIN",
       "category": "Graficas",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "RTX 3050 8GB INNO3D TWIN",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-8gb-inno3d-twin",
+          "name": "RTX 3050 6GB INNO3D TWIN",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-6gb-inno3d-twin",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 359,
+          "amount": 329,
           "currency": "USD",
-          "priceText": "US$ 359",
-          "priceUYU": 14360,
+          "priceText": "US$ 329",
+          "priceUYU": 13160,
           "category": "Graficas",
           "catalogSeed": "rtx"
         }
@@ -5499,16 +5499,16 @@
       ]
     },
     {
-      "name": "Tarjeta Palit Geforce Rtx 5060ti Infinity3 Oc 16gb",
+      "name": "Tarjeta Palit Geforce Rtx 5060ti White Oc 16gb D7",
       "category": "Graficas",
       "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-infinity3-o-683b0e88bdca9159.jpg",
+      "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-white-oc-16-8d29307040f7d5f9.jpg",
       "offers": [
         {
           "store": "Hard PC",
-          "name": "Tarjeta Palit Geforce Rtx 5060ti Infinity3 Oc 16gb",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/tarjeta-de-video/tarjeta-palit-geforce-rtx-5060ti-infinity3-oc-16gb-01255060ts19/",
-          "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-infinity3-o-683b0e88bdca9159.jpg",
+          "name": "Tarjeta Palit Geforce Rtx 5060ti White Oc 16gb D7",
+          "url": "https://www.hardpc.com.uy/catalogo/componentes/tarjeta-de-video/tarjeta-palit-geforce-rtx-5060ti-white-oc-16gb-d7-01257506tu19/",
+          "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-white-oc-16-8d29307040f7d5f9.jpg",
           "stock": true,
           "amount": 956.79,
           "currency": "USD",
@@ -5730,21 +5730,21 @@
       ]
     },
     {
-      "name": "INTEL I7 12700F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
+      "name": "INTEL I5 12400F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
       "category": "Graficas",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "INTEL I7 12700F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5060-8gb-ram-16gb-ddr4-512gb",
+          "name": "INTEL I5 12400F + RTX 5060 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3060-8gb-ram-16gb-ddr4-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 1514,
+          "amount": 1264,
           "currency": "USD",
-          "priceText": "US$ 1.514",
-          "priceUYU": 60560,
+          "priceText": "US$ 1.264",
+          "priceUYU": 50560,
           "category": "Graficas",
           "catalogSeed": "intel"
         }
@@ -5766,27 +5766,6 @@
           "currency": "USD",
           "priceText": "US$ 1.554",
           "priceUYU": 62160,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
-      "category": "Graficas",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rtx-5060-8gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1784,
-          "currency": "USD",
-          "priceText": "US$ 1.784",
-          "priceUYU": 71360,
           "category": "Graficas",
           "catalogSeed": "intel"
         }
@@ -6423,42 +6402,21 @@
       ]
     },
     {
-      "name": "MONITOR GAMING 27\" GS27FA",
+      "name": "MONITOR GAMING 25\" GS25F2",
       "category": "Monitores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "MONITOR GAMING 27\" GS27FA",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-27-gs27fa",
+          "name": "MONITOR GAMING 25\" GS25F2",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-25-gs25f2",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 199,
+          "amount": 189,
           "currency": "USD",
-          "priceText": "US$ 199",
-          "priceUYU": 7960,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR GAMING 27\" GS27QA",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING 27\" GS27QA",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-27-gs27qa",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 280,
-          "currency": "USD",
-          "priceText": "US$ 280",
-          "priceUYU": 11200,
+          "priceText": "US$ 189",
+          "priceUYU": 7560,
           "category": "Monitores",
           "catalogSeed": "monitor"
         }
@@ -6501,6 +6459,27 @@
           "currency": "USD",
           "priceText": "US$ 330",
           "priceUYU": 13200,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        }
+      ]
+    },
+    {
+      "name": "MONITOR GAMING 34\" GS34WQC",
+      "category": "Monitores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MONITOR GAMING 34\" GS34WQC",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-34-gs34wqc",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 359,
+          "currency": "USD",
+          "priceText": "US$ 359",
+          "priceUYU": 14360,
           "category": "Monitores",
           "catalogSeed": "monitor"
         }
@@ -7035,13 +7014,13 @@
       "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
       "category": "Notebooks",
       "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
+      "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
+          "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
           "stock": true,
           "amount": 342.6,
           "currency": "USD",
@@ -8670,27 +8649,6 @@
       ]
     },
     {
-      "name": "AMD RYZEN 5 7600 AM5",
-      "category": "Procesadores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "AMD RYZEN 5 7600 AM5",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600-am5",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 289,
-          "currency": "USD",
-          "priceText": "US$ 289",
-          "priceUYU": 11560,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
       "name": "CPU AMD Ryzen 5 9600 AM5",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -8985,6 +8943,48 @@
       ]
     },
     {
+      "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7600-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1664,
+          "currency": "USD",
+          "priceText": "US$ 1.664",
+          "priceUYU": 66560,
+          "category": "Procesadores",
+          "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
+      "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RX 9060XT 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9060xt-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1754,
+          "currency": "USD",
+          "priceText": "US$ 1.754",
+          "priceUYU": 70160,
+          "category": "Procesadores",
+          "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
       "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
       "category": "Procesadores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -9000,27 +9000,6 @@
           "currency": "USD",
           "priceText": "US$ 2.244",
           "priceUYU": 89760,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-      "category": "Procesadores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9070xt-16gb-ram-16gb-ddr5-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2374,
-          "currency": "USD",
-          "priceText": "US$ 2.374",
-          "priceUYU": 94960,
           "category": "Procesadores",
           "catalogSeed": "intel"
         }
