@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:42:47.698Z",
+  "generatedAt": "2026-07-06T04:39:48.023Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -688,19 +688,6 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "Monitor Gigabyte MO27Q2A ICE 27″ QD-OLED",
-          "url": "https://thotcomputacion.com.uy/producto/monitor-gigabyte-mo27q2a-ice-27-qd-oled/",
-          "image": "assets/catalog/monitor-gigabyte-mo27q2a-ice-27-qd-oled-thot-fd42e056eb35f00d.png",
-          "stock": true,
-          "amount": 879,
-          "currency": "USD",
-          "priceText": "US$ 879",
-          "priceUYU": 35160,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "Thot Computacion",
           "name": "Monitor Samsung Essential S3 22″ 100Hz IPS FHD",
           "url": "https://thotcomputacion.com.uy/producto/monitor-samsung-essential-s3-22-100hz-ips-fhd/",
           "image": "assets/catalog/monitor-samsung-essential-s3-22-100hz-ips-fh-0b4673b50d2302f3.png",
@@ -748,6 +735,19 @@
           "currency": "USD",
           "priceText": "US$ 104,99",
           "priceUYU": 4199.599999999999,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Monitor Teros TE-2714S 27″ FHD 144Hz 1Ms",
+          "url": "https://thotcomputacion.com.uy/producto/monitor-teros-te-2714s-27-fhd-144hz-1ms/",
+          "image": "assets/catalog/monitor-teros-te-2714s-27-fhd-144hz-1ms-thot-46e24e103dec85dd.jpg",
+          "stock": true,
+          "amount": 134.99,
+          "currency": "USD",
+          "priceText": "US$ 134,99",
+          "priceUYU": 5399.6,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
@@ -1515,14 +1515,14 @@
         },
         {
           "store": "Hard PC",
-          "name": "Tarjeta Palit Geforce Rtx 5060ti Infinity3 Oc 16gb",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/tarjeta-de-video/tarjeta-palit-geforce-rtx-5060ti-infinity3-oc-16gb-01255060ts19/",
-          "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-infinity3-o-683b0e88bdca9159.jpg",
+          "name": "Tarjeta Palit Geforce Rtx 5060ti White Oc 16gb D7",
+          "url": "https://www.hardpc.com.uy/catalogo/componentes/tarjeta-de-video/tarjeta-palit-geforce-rtx-5060ti-white-oc-16gb-d7-01257506tu19/",
+          "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-white-oc-16-8d29307040f7d5f9.jpg",
           "stock": true,
-          "amount": 956.79,
+          "amount": 956.5,
           "currency": "USD",
-          "priceText": "US$ 956,79",
-          "priceUYU": 38271.6,
+          "priceText": "US$ 956,5",
+          "priceUYU": 38260,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -1816,7 +1816,7 @@
           "store": "Hard PC",
           "name": "Soporte Unitek para Notebook 360° con HUB USB desmontable",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/accesorios/soporte-unitek-para-notebook-360-con-hub-usb-desmontable-sop105/",
-          "image": "assets/catalog/soporte-unitek-para-notebook-360-con-hub-usb-d463898193df41d3.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71745.jpg",
           "stock": false,
           "amount": 69.8,
           "currency": "USD",
@@ -1829,7 +1829,7 @@
           "store": "Hard PC",
           "name": "MEMORIA NOTEBOOK DDR4 8GB PATRIOT 3200MHZ",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/memorias/memoria-notebook-ddr4-8gb-patriot-3200mhz-19150/",
-          "image": "assets/catalog/memoria-notebook-ddr4-8gb-patriot-3200mhz-ha-e77d3a633648cb64.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_39881.jpg",
           "stock": false,
           "amount": 103.5,
           "currency": "USD",
@@ -1842,25 +1842,12 @@
           "store": "Hard PC",
           "name": "Notebook Convertible iView 4G Dualcore 2.4Ghz 4+64GB 10\" Win10 Pro",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-convertible-iview-4g-dualcore-24ghz-464gb-10-win10-pro-tab812/",
-          "image": "assets/catalog/notebook-convertible-iview-4g-dualcore-2-4gh-967a6d72b4390b6a.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72691.jpg",
           "stock": false,
           "amount": 181.28,
           "currency": "USD",
           "priceText": "US$ 181,28",
           "priceUYU": 7251.2,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "Hard PC",
-          "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
-          "stock": true,
-          "amount": 342.6,
-          "currency": "USD",
-          "priceText": "US$ 342,6",
-          "priceUYU": 13704,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         },
@@ -2009,32 +1996,6 @@
         },
         {
           "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS BLANCO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS NEGRO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-negro-13001/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4021.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38068.jpg",
@@ -2051,6 +2012,32 @@
           "name": "MOUSE LOGITECH M170 WS ROSA",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
           "image": "https://www.hardpc.com.uy/imgs/productos/productos30_38066.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS BLANCO",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72345.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS NEGRO",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-negro-13001/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4021.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -2597,19 +2584,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "SSD M.2 NVME HIKSEMI WAVE 256GB. NVME",
-          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-256gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 75,
-          "currency": "USD",
-          "priceText": "US$ 75",
-          "priceUYU": 3000,
-          "category": "Almacenamiento",
-          "catalogSeed": "ssd"
-        },
-        {
-          "store": "TComponentes",
           "name": "SSD M.2 NVME HIKSEMI WAVE 1024GB. NVME",
           "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-1024gb",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -2636,6 +2610,19 @@
         },
         {
           "store": "TComponentes",
+          "name": "SSD M.2 NVME HIKSEMI WAVE 256GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-256gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 75,
+          "currency": "USD",
+          "priceText": "US$ 75",
+          "priceUYU": 3000,
+          "category": "Almacenamiento",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "TComponentes",
           "name": "SSD M.2 NVME 500GB KINGSTON NV3. NVME",
           "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-500gb-kingston-nv3",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -2644,32 +2631,6 @@
           "currency": "USD",
           "priceText": "US$ 162",
           "priceUYU": 6480,
-          "category": "Almacenamiento",
-          "catalogSeed": "nvme"
-        },
-        {
-          "store": "TComponentes",
-          "name": "SSD M.2 NVME KINGSTON NV3 1000GB. NVME",
-          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-1000gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 249,
-          "currency": "USD",
-          "priceText": "US$ 249",
-          "priceUYU": 9960,
-          "category": "Almacenamiento",
-          "catalogSeed": "nvme"
-        },
-        {
-          "store": "TComponentes",
-          "name": "SSD M.2 NVME KINGSTON NV3 500GB. NVME",
-          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-500gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 159,
-          "currency": "USD",
-          "priceText": "US$ 159",
-          "priceUYU": 6360,
           "category": "Almacenamiento",
           "catalogSeed": "nvme"
         },
@@ -2688,6 +2649,32 @@
         },
         {
           "store": "TComponentes",
+          "name": "SSD M.2 NVME HIKSEMI WAVE 1024GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-1024gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 239,
+          "currency": "USD",
+          "priceText": "US$ 239",
+          "priceUYU": 9560,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KINGSTON NV3 500GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-500gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
           "name": "SSD M.2 NVME HIKSEMI WAVE 256GB. NVME",
           "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-256gb",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -2701,14 +2688,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "SSD M.2 NVME HIKSEMI WAVE 1024GB. NVME",
-          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-1024gb",
+          "name": "SSD M.2 NVME KINGSTON NV3 1000GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-1000gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 239,
+          "amount": 249,
           "currency": "USD",
-          "priceText": "US$ 239",
-          "priceUYU": 9560,
+          "priceText": "US$ 249",
+          "priceUYU": 9960,
           "category": "Almacenamiento",
           "catalogSeed": "nvme"
         },
@@ -2792,32 +2779,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK GAMER ASUS ROG RYZEN 9 5.3GHZ, 16GB, 1TB SSD, 16\" FHD+ 165HZ, RTX 5060",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-gamer-asus-rog-ryzen-9-5-3ghz-16gb-1tb-ssd-16-fhd-165hz-rtx-5060",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2469,
-          "currency": "USD",
-          "priceText": "US$ 2.469",
-          "priceUYU": 98760,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i7-4-7ghz-8gb-512gb-ssd-15-6-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 849,
-          "currency": "USD",
-          "priceText": "US$ 849",
-          "priceUYU": 33960,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
           "name": "SSD 2,5MM KINGSTON 480GB. 2,5MM",
           "url": "https://www.tcomponentes.com.uy/product-page/ssd-2-5mm-kingston-480gb",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -2831,14 +2792,40 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK HP RYZEN 7 4.5GHZ, 16GB, 512GB SSD, 15.6\" FHD, WIN11 PRO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-7-4-5ghz-16gb-512gb-ssd-15-6-fhd-win11-pro",
+          "name": "SSD EXTERNO 512GB SPSD. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-externo-512gb-spsd",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 825,
+          "amount": 239,
           "currency": "USD",
-          "priceText": "US$ 825",
-          "priceUYU": 33000,
+          "priceText": "US$ 239",
+          "priceUYU": 9560,
+          "category": "Almacenamiento",
+          "catalogSeed": "hdd"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME HIKSEMI WAVE 256GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-256gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 75,
+          "currency": "USD",
+          "priceText": "US$ 75",
+          "priceUYU": 3000,
+          "category": "Almacenamiento",
+          "catalogSeed": "hdd"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-5-4-3ghz-8gb-512gb-ssd-17-3-fhd",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 725,
+          "currency": "USD",
+          "priceText": "US$ 725",
+          "priceUYU": 29000,
           "category": "Notebooks",
           "catalogSeed": "hdd"
         },
@@ -2922,27 +2909,27 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 5060TI 8GB GIGABYTE EAGLE OC. NUEVO INGRESO!!",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5060ti-8gb-gigabyte-eagle-oc",
+          "name": "RTX 3050 8GB INNO3D TWIN",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-8gb-inno3d-twin",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 719,
+          "amount": 359,
           "currency": "USD",
-          "priceText": "US$ 719",
-          "priceUYU": 28760,
+          "priceText": "US$ 359",
+          "priceUYU": 14360,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
         {
           "store": "TComponentes",
-          "name": "RTX 3050 6GB INNO3D TWIN",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-6gb-inno3d-twin",
+          "name": "RTX 5050 8GB INNO3D COMPACT",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5050-8gb-inno3d-compact-1",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 329,
+          "amount": 479,
           "currency": "USD",
-          "priceText": "US$ 329",
-          "priceUYU": 13160,
+          "priceText": "US$ 479",
+          "priceUYU": 19160,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -3000,19 +2987,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "TECLADO LOGITECH G213 PRODIGY",
-          "url": "https://www.tcomponentes.com.uy/product-page/teclado-logitech-g213-prodigy",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 55,
-          "currency": "USD",
-          "priceText": "US$ 55",
-          "priceUYU": 2200,
-          "category": "Perifericos",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "TComponentes",
           "name": "TECLADO HYPERX ALLOY ORIGINS ABS RED",
           "url": "https://www.tcomponentes.com.uy/product-page/teclado-hyperx-alloy-origins-abs-red",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3026,6 +3000,19 @@
         },
         {
           "store": "TComponentes",
+          "name": "TECLADO LOGITECH G213 PRODIGY",
+          "url": "https://www.tcomponentes.com.uy/product-page/teclado-logitech-g213-prodigy",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 55,
+          "currency": "USD",
+          "priceText": "US$ 55",
+          "priceUYU": 2200,
+          "category": "Perifericos",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "TComponentes",
           "name": "RTX 5070TI 16GB GIGABYTE WINDFORCE",
           "url": "https://www.tcomponentes.com.uy/product-page/rtx-5070ti-16gb-gigabyte-windforce",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3034,6 +3021,19 @@
           "currency": "USD",
           "priceText": "US$ 1.349",
           "priceUYU": 53960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RTX 5080 16GB GIGABYTE WINDFORCE",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5080-16gb-gigabyte-windforce",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1889,
+          "currency": "USD",
+          "priceText": "US$ 1.889",
+          "priceUYU": 75560,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -3091,19 +3091,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "AMD RYZEN 5 7600X AM5",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600x-am5",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 341,
-          "currency": "USD",
-          "priceText": "US$ 341",
-          "priceUYU": 13640,
-          "category": "Procesadores",
-          "catalogSeed": "radeon"
-        },
-        {
-          "store": "TComponentes",
           "name": "AMD RYZEN 5 5600GT AM4",
           "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-5600gt-am4",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3130,14 +3117,27 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-acer-aspire-3-15-ryzen-7-5700-16gb-480gb-ssd-15-6",
+          "name": "NOTEBOOK HP RYZEN 7 4.5GHZ, 16GB, 512GB SSD, 15.6\" FHD, WIN11 PRO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-7-4-5ghz-16gb-512gb-ssd-15-6-fhd-win11-pro",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 469,
+          "amount": 825,
           "currency": "USD",
-          "priceText": "US$ 469",
-          "priceUYU": 18760,
+          "priceText": "US$ 825",
+          "priceUYU": 33000,
+          "category": "Notebooks",
+          "catalogSeed": "radeon"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK CHUWI RYZEN 5 4.6GHZ, 16GB, 512GB, 16\" FHD+, ESPAÑOL",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-chuwi-ryzen-5-4-6ghz-16gb-512gb-16-fhd-espa%C3%B1ol",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 735,
+          "currency": "USD",
+          "priceText": "US$ 735",
+          "priceUYU": 29400,
           "category": "Notebooks",
           "catalogSeed": "radeon"
         },
@@ -3151,19 +3151,6 @@
           "currency": "USD",
           "priceText": "US$ 275",
           "priceUYU": 11000,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "TComponentes",
-          "name": "AMD RYZEN 5 5600GT AM4",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-5600gt-am4",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 214,
-          "currency": "USD",
-          "priceText": "US$ 214",
-          "priceUYU": 8560,
           "category": "Procesadores",
           "catalogSeed": "ryzen"
         },
@@ -3221,6 +3208,19 @@
         },
         {
           "store": "TComponentes",
+          "name": "AMD RYZEN 5 5600GT AM4",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-5600gt-am4",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 214,
+          "currency": "USD",
+          "priceText": "US$ 214",
+          "priceUYU": 8560,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
+        },
+        {
+          "store": "TComponentes",
           "name": "AMD RYZEN 5 8600G AM5",
           "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-8600g-am5",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3273,14 +3273,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7600-8gb-ram-16gb-ddr5-512gb",
+          "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7900xt-20gb-ram-16gb-ddr5-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 1664,
+          "amount": 2244,
           "currency": "USD",
-          "priceText": "US$ 1.664",
-          "priceUYU": 66560,
+          "priceText": "US$ 2.244",
+          "priceUYU": 89760,
           "category": "Procesadores",
           "catalogSeed": "intel"
         },
@@ -3299,19 +3299,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 12700F + RTX 5050 8GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5050-8gb-ram-16gb-ddr4-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1554,
-          "currency": "USD",
-          "priceText": "US$ 1.554",
-          "priceUYU": 62160,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "TComponentes",
           "name": "INTEL I7 14700F + RX 9070XT 16GB + RAM 16GB DDR5 + 512GB. DDR5",
           "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-9070xt-16gb-ram-16gb-ddr5-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3325,29 +3312,55 @@
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I7 14700F + RX 7900XT 20GB + RAM 16GB DDR5 + 512GB. DDR5",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7900xt-20gb-ram-16gb-ddr5-512gb",
+          "name": "INTEL I7 12700F + RTX 5050 8GB + RAM 16GB DDR4 + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-12700f-rtx-5050-8gb-ram-16gb-ddr4-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 2244,
+          "amount": 1554,
           "currency": "USD",
-          "priceText": "US$ 2.244",
-          "priceUYU": 89760,
+          "priceText": "US$ 1.554",
+          "priceUYU": 62160,
+          "category": "Graficas",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rtx-5060-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1784,
+          "currency": "USD",
+          "priceText": "US$ 1.784",
+          "priceUYU": 71360,
+          "category": "Graficas",
+          "catalogSeed": "intel"
+        },
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RX 7600 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rx-7600-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1664,
+          "currency": "USD",
+          "priceText": "US$ 1.664",
+          "priceUYU": 66560,
           "category": "Procesadores",
           "catalogSeed": "intel"
         },
         {
           "store": "TComponentes",
-          "name": "INTEL I5 12400F + RTX 3050 8GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3050-8gb-ram-16gb-ddr4-512gb",
+          "name": "MONITOR GAMING MO27Q3",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-mo27q3",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 1194,
+          "amount": 990,
           "currency": "USD",
-          "priceText": "US$ 1.194",
-          "priceUYU": 47760,
-          "category": "Graficas",
-          "catalogSeed": "intel"
+          "priceText": "US$ 990",
+          "priceUYU": 39600,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
         },
         {
           "store": "TComponentes",
@@ -3359,6 +3372,19 @@
           "currency": "USD",
           "priceText": "US$ 849",
           "priceUYU": 33960,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        },
+        {
+          "store": "TComponentes",
+          "name": "MONITOR GAMING GS25F14",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-gs25f14-1",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
@@ -3390,53 +3416,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "MONITOR GAMING MO27Q3",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-mo27q3",
+          "name": "MONITOR GAMING M27UP 4K",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-m27up-4k",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 990,
+          "amount": 614,
           "currency": "USD",
-          "priceText": "US$ 990",
-          "priceUYU": 39600,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING GS25F14",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-gs25f14-1",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 159,
-          "currency": "USD",
-          "priceText": "US$ 159",
-          "priceUYU": 6360,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING 27\" GS27QA",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-27-gs27qa",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 280,
-          "currency": "USD",
-          "priceText": "US$ 280",
-          "priceUYU": 11200,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING MO27Q2A ICE",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-mo27q2a-ice",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 905,
-          "currency": "USD",
-          "priceText": "US$ 905",
-          "priceUYU": 36200,
+          "priceText": "US$ 614",
+          "priceUYU": 24560,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
@@ -3455,6 +3442,19 @@
         },
         {
           "store": "TComponentes",
+          "name": "MONITOR GAMING 34\" GS34WQC",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-34-gs34wqc",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 359,
+          "currency": "USD",
+          "priceText": "US$ 359",
+          "priceUYU": 14360,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        },
+        {
+          "store": "TComponentes",
           "name": "NOTEBOOK CONVERTIBLE CHUWI QUADCORE N150, 16GB, 512GB, 10.5\" FHD TOUCH",
           "url": "https://www.tcomponentes.com.uy/product-page/notebook-convertible-chuwi-quadcore-n150-16gb-512gb-10-5-fhd-touch",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3463,19 +3463,6 @@
           "currency": "USD",
           "priceText": "US$ 555",
           "priceUYU": 22200,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK ASUS CORE 5 5.0GHZ, 8GB, 512GB SSD, 15.6\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-core-5-5-0ghz-8gb-512gb-ssd-15-6-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 665,
-          "currency": "USD",
-          "priceText": "US$ 665",
-          "priceUYU": 26600,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         },
@@ -3507,27 +3494,27 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK CONVERTIBLE IVIEW 4G DUALCORE 2.4GHZ 4+64GB 10\" WIN10 PRO",
-          "url": "https://www.tcomponentes.com.uy/product-page/note-lenovo-ultra-9-275hz-5-4ghz-64gb-2tb-ssd-16-oled-240hz-rtx-5090-24gb",
+          "name": "NOTEBOOK LENOVO CORE 5 120U 5.0GHZ, 8GB, 256GB SSD, 15.6\" FHD",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-lenovo-core-5-120u-5-0ghz-8gb-256gb-ssd-15-6-fhd",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 209,
+          "amount": 619,
           "currency": "USD",
-          "priceText": "US$ 209",
-          "priceUYU": 8360,
+          "priceText": "US$ 619",
+          "priceUYU": 24760,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD TOUCH",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i3-3-8ghz-8gb-256gb-ssd-15-6-fhd-touch",
+          "name": "NOTEBOOK ASUS CORE 7 5.4GHZ, 16GB, 512GB SSD, 15.6\" FHD, FREEDOS",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-core-7-5-4ghz-16gb-512gb-ssd-15-6-fhd-freedos-1",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 569,
+          "amount": 950,
           "currency": "USD",
-          "priceText": "US$ 569",
-          "priceUYU": 22760,
+          "priceText": "US$ 950",
+          "priceUYU": 38000,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         },
@@ -3546,16 +3533,133 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK CHUWI RYZEN 5 4.6GHZ, 16GB, 512GB, 16\" FHD+, ESPAÑOL",
-          "url": "https://www.tcomponentes.com.uy/product-page/copia-de-notebook-chuwi-ryzen-5-4-6ghz-16gb-512gb-16-fhd-espa%C3%B1ol",
+          "name": "NOTEBOOK CONVERTIBLE IVIEW 4G DUALCORE 2.4GHZ 4+64GB 10\" WIN10 PRO",
+          "url": "https://www.tcomponentes.com.uy/product-page/note-lenovo-ultra-9-275hz-5-4ghz-64gb-2tb-ssd-16-oled-240hz-rtx-5090-24gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 739,
+          "amount": 209,
           "currency": "USD",
-          "priceText": "US$ 739",
-          "priceUYU": 29560,
+          "priceText": "US$ 209",
+          "priceUYU": 8360,
           "category": "Notebooks",
           "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK DELL INSPIRON 15 3535 - RYZEN 7 7730U + 16GB + 512GB + TOUCH + 15,6\". EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-dell-inspiron-15-3535-ryzen-7-7730u-16gb-512gb-touch-15-6",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 659,
+          "currency": "USD",
+          "priceText": "US$ 659",
+          "priceUYU": 26360,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "TComponentes",
+          "name": "FUENTE SF850X 80P GOLD ANTEC",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-sf850x-80p-gold-antec",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 239,
+          "currency": "USD",
+          "priceText": "US$ 239",
+          "priceUYU": 9560,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "FUENTE UD1000GM 80P GOLD GIGABYTE",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-ud1000gm-80p-gold-gigabyte",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 165,
+          "currency": "USD",
+          "priceText": "US$ 165",
+          "priceUYU": 6600,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "FUENTE UD850GM 80P GOLD GIGABYTE",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-ud850gm-80p-gold-gigabyte",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "FUENTE 750W 80 PLUS BRONZE FULL MODULAR STARKGEAR",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-750w-80-plus-bronze-full-modular-starkgear",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 71,
+          "currency": "USD",
+          "priceText": "US$ 71",
+          "priceUYU": 2840,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "PC RYZEN 5 5600 + 32GB DDR4 + SSD 1TB + RX 6800 16GB + 750W +ANTEC NX292. USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/pc-ryzen-5-5600-32gb-ddr4-ssd-1tb-rx-6800-16gb-750w-antec-nx292",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1299,
+          "currency": "USD",
+          "priceText": "US$ 1.299",
+          "priceUYU": 51960,
+          "category": "Procesadores",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "ESCÁNER 3D 3DMAKERPRO FOX. 3D",
+          "url": "https://www.tcomponentes.com.uy/product-page/esc%C3%A1ner-3d-3dmakerpro-fox",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 275,
+          "currency": "USD",
+          "priceText": "US$ 275",
+          "priceUYU": 11000,
+          "category": "Otros",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RYZEN 3 5300G + RAM 16GB 3200MHZ + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/ryzen-3-5300g-radeon-vega-graphics-7",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 644,
+          "currency": "USD",
+          "priceText": "US$ 644",
+          "priceUYU": 25760,
+          "category": "Procesadores",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RYZEN 5 5600GT + RADEON VEGA GRAPHICS 7 + RAM 16GB 3200MHZ + 512GB. IDEAL PRIMER PC",
+          "url": "https://www.tcomponentes.com.uy/product-page/ryzen-5-5600gt-radeon-vega-graphics-7",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 789,
+          "currency": "USD",
+          "priceText": "US$ 789",
+          "priceUYU": 31560,
+          "category": "Graficas",
+          "catalogSeed": "fuente"
         }
       ],
       "seeds": 16,
@@ -4334,6 +4438,27 @@
       ]
     },
     {
+      "name": "FUENTE 750W 80 PLUS BRONZE FULL MODULAR STARKGEAR",
+      "category": "Fuentes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "FUENTE 750W 80 PLUS BRONZE FULL MODULAR STARKGEAR",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-750w-80-plus-bronze-full-modular-starkgear",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 71,
+          "currency": "USD",
+          "priceText": "US$ 71",
+          "priceUYU": 2840,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
       "name": "FUENTE DE PODER 750W GIGABYTE GP-P750BS PLUS BRONZE",
       "category": "Fuentes",
       "specs": "Hard PC - Disponible - Catalogo conectado",
@@ -4607,6 +4732,48 @@
       ]
     },
     {
+      "name": "FUENTE UD850GM 80P GOLD GIGABYTE",
+      "category": "Fuentes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "FUENTE UD850GM 80P GOLD GIGABYTE",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-ud850gm-80p-gold-gigabyte",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
+      "name": "FUENTE UD1000GM 80P GOLD GIGABYTE",
+      "category": "Fuentes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "FUENTE UD1000GM 80P GOLD GIGABYTE",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-ud1000gm-80p-gold-gigabyte",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 165,
+          "currency": "USD",
+          "priceText": "US$ 165",
+          "priceUYU": 6600,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
       "name": "MSI FUENTE MAG A750 GL PCIE5",
       "category": "Fuentes",
       "specs": "Banifox - Disponible - Catalogo conectado",
@@ -4622,6 +4789,27 @@
           "currency": "USD",
           "priceText": "US$ 170",
           "priceUYU": 6800,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
+      "name": "FUENTE SF850X 80P GOLD ANTEC",
+      "category": "Fuentes",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "FUENTE SF850X 80P GOLD ANTEC",
+          "url": "https://www.tcomponentes.com.uy/product-page/fuente-sf850x-80p-gold-antec",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 239,
+          "currency": "USD",
+          "priceText": "US$ 239",
+          "priceUYU": 9560,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
@@ -5090,27 +5278,6 @@
       ]
     },
     {
-      "name": "RTX 3050 6GB INNO3D TWIN",
-      "category": "Graficas",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "RTX 3050 6GB INNO3D TWIN",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-6gb-inno3d-twin",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 329,
-          "currency": "USD",
-          "priceText": "US$ 329",
-          "priceUYU": 13160,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
-        }
-      ]
-    },
-    {
       "name": "MSI GEFORCE RTX3050 VENTUS 2X 6G OC",
       "category": "Graficas",
       "specs": "Banifox - Disponible - Catalogo conectado",
@@ -5126,6 +5293,27 @@
           "currency": "USD",
           "priceText": "US$ 332",
           "priceUYU": 13280,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
+        }
+      ]
+    },
+    {
+      "name": "RTX 3050 8GB INNO3D TWIN",
+      "category": "Graficas",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "RTX 3050 8GB INNO3D TWIN",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-8gb-inno3d-twin",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 359,
+          "currency": "USD",
+          "priceText": "US$ 359",
+          "priceUYU": 14360,
           "category": "Graficas",
           "catalogSeed": "rtx"
         }
@@ -5279,6 +5467,27 @@
       ]
     },
     {
+      "name": "RTX 5050 8GB INNO3D COMPACT",
+      "category": "Graficas",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "RTX 5050 8GB INNO3D COMPACT",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5050-8gb-inno3d-compact-1",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 479,
+          "currency": "USD",
+          "priceText": "US$ 479",
+          "priceUYU": 19160,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
+        }
+      ]
+    },
+    {
       "name": "RTX 3080 10GB ZOTAC TRINITY. USADA",
       "category": "Graficas",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -5363,27 +5572,6 @@
       ]
     },
     {
-      "name": "RTX 5060TI 8GB GIGABYTE EAGLE OC. NUEVO INGRESO!!",
-      "category": "Graficas",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "RTX 5060TI 8GB GIGABYTE EAGLE OC. NUEVO INGRESO!!",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5060ti-8gb-gigabyte-eagle-oc",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 719,
-          "currency": "USD",
-          "priceText": "US$ 719",
-          "priceUYU": 28760,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
-        }
-      ]
-    },
-    {
       "name": "GPU Gigabyte Radeon RX9060XT Gaming OC 16Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -5426,21 +5614,21 @@
       ]
     },
     {
-      "name": "Tarjeta Palit Geforce Rtx 5060ti Infinity3 Oc 16gb",
+      "name": "Tarjeta Palit Geforce Rtx 5060ti White Oc 16gb D7",
       "category": "Graficas",
       "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-infinity3-o-683b0e88bdca9159.jpg",
+      "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-white-oc-16-8d29307040f7d5f9.jpg",
       "offers": [
         {
           "store": "Hard PC",
-          "name": "Tarjeta Palit Geforce Rtx 5060ti Infinity3 Oc 16gb",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/tarjeta-de-video/tarjeta-palit-geforce-rtx-5060ti-infinity3-oc-16gb-01255060ts19/",
-          "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-infinity3-o-683b0e88bdca9159.jpg",
+          "name": "Tarjeta Palit Geforce Rtx 5060ti White Oc 16gb D7",
+          "url": "https://www.hardpc.com.uy/catalogo/componentes/tarjeta-de-video/tarjeta-palit-geforce-rtx-5060ti-white-oc-16gb-d7-01257506tu19/",
+          "image": "assets/catalog/tarjeta-palit-geforce-rtx-5060ti-white-oc-16-8d29307040f7d5f9.jpg",
           "stock": true,
-          "amount": 956.79,
+          "amount": 956.5,
           "currency": "USD",
-          "priceText": "US$ 956,79",
-          "priceUYU": 38271.6,
+          "priceText": "US$ 956,5",
+          "priceUYU": 38260,
           "category": "Graficas",
           "catalogSeed": "rtx"
         }
@@ -5636,27 +5824,6 @@
       ]
     },
     {
-      "name": "INTEL I5 12400F + RTX 3050 8GB + RAM 16GB DDR4 + 512GB",
-      "category": "Graficas",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "INTEL I5 12400F + RTX 3050 8GB + RAM 16GB DDR4 + 512GB",
-          "url": "https://www.tcomponentes.com.uy/product-page/intel-i5-12400f-rtx-3050-8gb-ram-16gb-ddr4-512gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1194,
-          "currency": "USD",
-          "priceText": "US$ 1.194",
-          "priceUYU": 47760,
-          "category": "Graficas",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
       "name": "RTX 5070TI 16GB GIGABYTE WINDFORCE",
       "category": "Graficas",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -5737,6 +5904,48 @@
           "priceUYU": 69360,
           "category": "Graficas",
           "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
+      "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+      "category": "Graficas",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "INTEL I7 14700F + RTX 5060 8GB + RAM 16GB DDR5 + 512GB. DDR5",
+          "url": "https://www.tcomponentes.com.uy/product-page/intel-i7-14700f-rtx-5060-8gb-ram-16gb-ddr5-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1784,
+          "currency": "USD",
+          "priceText": "US$ 1.784",
+          "priceUYU": 71360,
+          "category": "Graficas",
+          "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
+      "name": "RTX 5080 16GB GIGABYTE WINDFORCE",
+      "category": "Graficas",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "RTX 5080 16GB GIGABYTE WINDFORCE",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5080-16gb-gigabyte-windforce",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1889,
+          "currency": "USD",
+          "priceText": "US$ 1.889",
+          "priceUYU": 75560,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -6308,6 +6517,27 @@
       ]
     },
     {
+      "name": "Monitor Teros TE-2714S 27″ FHD 144Hz 1Ms",
+      "category": "Monitores",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/monitor-teros-te-2714s-27-fhd-144hz-1ms-thot-46e24e103dec85dd.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Monitor Teros TE-2714S 27″ FHD 144Hz 1Ms",
+          "url": "https://thotcomputacion.com.uy/producto/monitor-teros-te-2714s-27-fhd-144hz-1ms/",
+          "image": "assets/catalog/monitor-teros-te-2714s-27-fhd-144hz-1ms-thot-46e24e103dec85dd.jpg",
+          "stock": true,
+          "amount": 134.99,
+          "currency": "USD",
+          "priceText": "US$ 134,99",
+          "priceUYU": 5399.6,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        }
+      ]
+    },
+    {
       "name": "MONITOR GAMING GS25F14. OPEN BOX",
       "category": "Monitores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -6392,27 +6622,6 @@
       ]
     },
     {
-      "name": "MONITOR GAMING 27\" GS27QA",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING 27\" GS27QA",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-27-gs27qa",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 280,
-          "currency": "USD",
-          "priceText": "US$ 280",
-          "priceUYU": 11200,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
       "name": "MONITOR GAMING GS27QCA",
       "category": "Monitores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -6434,6 +6643,48 @@
       ]
     },
     {
+      "name": "MONITOR GAMING 34\" GS34WQC",
+      "category": "Monitores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MONITOR GAMING 34\" GS34WQC",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-34-gs34wqc",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 359,
+          "currency": "USD",
+          "priceText": "US$ 359",
+          "priceUYU": 14360,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        }
+      ]
+    },
+    {
+      "name": "MONITOR GAMING M27UP 4K",
+      "category": "Monitores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "MONITOR GAMING M27UP 4K",
+          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-m27up-4k",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 614,
+          "currency": "USD",
+          "priceText": "US$ 614",
+          "priceUYU": 24560,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        }
+      ]
+    },
+    {
       "name": "MONITOR GAMING MO27Q28G",
       "category": "Monitores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -6449,48 +6700,6 @@
           "currency": "USD",
           "priceText": "US$ 849",
           "priceUYU": 33960,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "Monitor Gigabyte MO27Q2A ICE 27″ QD-OLED",
-      "category": "Monitores",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/monitor-gigabyte-mo27q2a-ice-27-qd-oled-thot-fd42e056eb35f00d.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Monitor Gigabyte MO27Q2A ICE 27″ QD-OLED",
-          "url": "https://thotcomputacion.com.uy/producto/monitor-gigabyte-mo27q2a-ice-27-qd-oled/",
-          "image": "assets/catalog/monitor-gigabyte-mo27q2a-ice-27-qd-oled-thot-fd42e056eb35f00d.png",
-          "stock": true,
-          "amount": 879,
-          "currency": "USD",
-          "priceText": "US$ 879",
-          "priceUYU": 35160,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR GAMING MO27Q2A ICE",
-      "category": "Monitores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MONITOR GAMING MO27Q2A ICE",
-          "url": "https://www.tcomponentes.com.uy/product-page/monitor-gaming-mo27q2a-ice",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 905,
-          "currency": "USD",
-          "priceText": "US$ 905",
-          "priceUYU": 36200,
           "category": "Monitores",
           "catalogSeed": "monitor"
         }
@@ -6878,13 +7087,13 @@
       "name": "Soporte Unitek para Notebook 360° con HUB USB desmontable",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/soporte-unitek-para-notebook-360-con-hub-usb-d463898193df41d3.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71745.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Soporte Unitek para Notebook 360° con HUB USB desmontable",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/accesorios/soporte-unitek-para-notebook-360-con-hub-usb-desmontable-sop105/",
-          "image": "assets/catalog/soporte-unitek-para-notebook-360-con-hub-usb-d463898193df41d3.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71745.jpg",
           "stock": false,
           "amount": 69.8,
           "currency": "USD",
@@ -6899,13 +7108,13 @@
       "name": "MEMORIA NOTEBOOK DDR4 8GB PATRIOT 3200MHZ",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/memoria-notebook-ddr4-8gb-patriot-3200mhz-ha-e77d3a633648cb64.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_39881.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "MEMORIA NOTEBOOK DDR4 8GB PATRIOT 3200MHZ",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/memorias/memoria-notebook-ddr4-8gb-patriot-3200mhz-19150/",
-          "image": "assets/catalog/memoria-notebook-ddr4-8gb-patriot-3200mhz-ha-e77d3a633648cb64.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_39881.jpg",
           "stock": false,
           "amount": 103.5,
           "currency": "USD",
@@ -6920,13 +7129,13 @@
       "name": "Notebook Convertible iView 4G Dualcore 2.4Ghz 4+64GB 10\" Win10 Pro",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/notebook-convertible-iview-4g-dualcore-2-4gh-967a6d72b4390b6a.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72691.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Notebook Convertible iView 4G Dualcore 2.4Ghz 4+64GB 10\" Win10 Pro",
           "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-convertible-iview-4g-dualcore-24ghz-464gb-10-win10-pro-tab812/",
-          "image": "assets/catalog/notebook-convertible-iview-4g-dualcore-2-4gh-967a6d72b4390b6a.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72691.jpg",
           "stock": false,
           "amount": 181.28,
           "currency": "USD",
@@ -6980,27 +7189,6 @@
       ]
     },
     {
-      "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
-      "category": "Notebooks",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72083.jpg",
-          "stock": true,
-          "amount": 342.6,
-          "currency": "USD",
-          "priceText": "US$ 342,6",
-          "priceUYU": 13704,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
       "name": "NOTEBOOK ASUS DUALCORE 2.8GHZ, 4GB, 128GB EMMC, 15.6\" FHD, WIN 11",
       "category": "Notebooks",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -7018,27 +7206,6 @@
           "priceUYU": 14760,
           "category": "Notebooks",
           "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK ACER ASPIRE 3 15 - RYZEN 7 5700 + 16GB + 480GB SSD + 15,6\". EQUIPO USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-acer-aspire-3-15-ryzen-7-5700-16gb-480gb-ssd-15-6",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 469,
-          "currency": "USD",
-          "priceText": "US$ 469",
-          "priceUYU": 18760,
-          "category": "Notebooks",
-          "catalogSeed": "radeon"
         }
       ]
     },
@@ -7106,21 +7273,21 @@
       ]
     },
     {
-      "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD TOUCH",
+      "name": "NOTEBOOK LENOVO CORE 5 120U 5.0GHZ, 8GB, 256GB SSD, 15.6\" FHD",
       "category": "Notebooks",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD TOUCH",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i3-3-8ghz-8gb-256gb-ssd-15-6-fhd-touch",
+          "name": "NOTEBOOK LENOVO CORE 5 120U 5.0GHZ, 8GB, 256GB SSD, 15.6\" FHD",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-lenovo-core-5-120u-5-0ghz-8gb-256gb-ssd-15-6-fhd",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 569,
+          "amount": 619,
           "currency": "USD",
-          "priceText": "US$ 569",
-          "priceUYU": 22760,
+          "priceText": "US$ 619",
+          "priceUYU": 24760,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         }
@@ -7148,23 +7315,44 @@
       ]
     },
     {
-      "name": "NOTEBOOK ASUS CORE 5 5.0GHZ, 8GB, 512GB SSD, 15.6\" FHD",
+      "name": "NOTEBOOK DELL INSPIRON 15 3535 - RYZEN 7 7730U + 16GB + 512GB + TOUCH + 15,6\". EQUIPO USADO",
       "category": "Notebooks",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK ASUS CORE 5 5.0GHZ, 8GB, 512GB SSD, 15.6\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-core-5-5-0ghz-8gb-512gb-ssd-15-6-fhd",
+          "name": "NOTEBOOK DELL INSPIRON 15 3535 - RYZEN 7 7730U + 16GB + 512GB + TOUCH + 15,6\". EQUIPO USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-dell-inspiron-15-3535-ryzen-7-7730u-16gb-512gb-touch-15-6",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 665,
+          "amount": 659,
           "currency": "USD",
-          "priceText": "US$ 665",
-          "priceUYU": 26600,
+          "priceText": "US$ 659",
+          "priceUYU": 26360,
           "category": "Notebooks",
           "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
+      "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
+      "category": "Notebooks",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-5-4-3ghz-8gb-512gb-ssd-17-3-fhd",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 725,
+          "currency": "USD",
+          "priceText": "US$ 725",
+          "priceUYU": 29000,
+          "category": "Notebooks",
+          "catalogSeed": "hdd"
         }
       ]
     },
@@ -7177,15 +7365,15 @@
         {
           "store": "TComponentes",
           "name": "NOTEBOOK CHUWI RYZEN 5 4.6GHZ, 16GB, 512GB, 16\" FHD+, ESPAÑOL",
-          "url": "https://www.tcomponentes.com.uy/product-page/copia-de-notebook-chuwi-ryzen-5-4-6ghz-16gb-512gb-16-fhd-espa%C3%B1ol",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-chuwi-ryzen-5-4-6ghz-16gb-512gb-16-fhd-espa%C3%B1ol",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 739,
+          "amount": 735,
           "currency": "USD",
-          "priceText": "US$ 739",
-          "priceUYU": 29560,
+          "priceText": "US$ 735",
+          "priceUYU": 29400,
           "category": "Notebooks",
-          "catalogSeed": "notebook"
+          "catalogSeed": "radeon"
         }
       ]
     },
@@ -7206,7 +7394,7 @@
           "priceText": "US$ 825",
           "priceUYU": 33000,
           "category": "Notebooks",
-          "catalogSeed": "hdd"
+          "catalogSeed": "radeon"
         }
       ]
     },
@@ -7232,23 +7420,23 @@
       ]
     },
     {
-      "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
+      "name": "NOTEBOOK ASUS CORE 7 5.4GHZ, 16GB, 512GB SSD, 15.6\" FHD, FREEDOS",
       "category": "Notebooks",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i7-4-7ghz-8gb-512gb-ssd-15-6-fhd",
+          "name": "NOTEBOOK ASUS CORE 7 5.4GHZ, 16GB, 512GB SSD, 15.6\" FHD, FREEDOS",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-asus-core-7-5-4ghz-16gb-512gb-ssd-15-6-fhd-freedos-1",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 849,
+          "amount": 950,
           "currency": "USD",
-          "priceText": "US$ 849",
-          "priceUYU": 33960,
+          "priceText": "US$ 950",
+          "priceUYU": 38000,
           "category": "Notebooks",
-          "catalogSeed": "hdd"
+          "catalogSeed": "notebook"
         }
       ]
     },
@@ -7442,27 +7630,6 @@
       ]
     },
     {
-      "name": "NOTEBOOK GAMER ASUS ROG RYZEN 9 5.3GHZ, 16GB, 1TB SSD, 16\" FHD+ 165HZ, RTX 5060",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK GAMER ASUS ROG RYZEN 9 5.3GHZ, 16GB, 1TB SSD, 16\" FHD+ 165HZ, RTX 5060",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-gamer-asus-rog-ryzen-9-5-3ghz-16gb-1tb-ssd-16-fhd-165hz-rtx-5060",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2469,
-          "currency": "USD",
-          "priceText": "US$ 2.469",
-          "priceUYU": 98760,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        }
-      ]
-    },
-    {
       "name": "Asrock H510M-HVS R2.0",
       "category": "Otros",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -7501,6 +7668,27 @@
           "priceUYU": 7200,
           "category": "Otros",
           "catalogSeed": "radeon"
+        }
+      ]
+    },
+    {
+      "name": "ESCÁNER 3D 3DMAKERPRO FOX. 3D",
+      "category": "Otros",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "ESCÁNER 3D 3DMAKERPRO FOX. 3D",
+          "url": "https://www.tcomponentes.com.uy/product-page/esc%C3%A1ner-3d-3dmakerpro-fox",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 275,
+          "currency": "USD",
+          "priceText": "US$ 275",
+          "priceUYU": 11000,
+          "category": "Otros",
+          "catalogSeed": "fuente"
         }
       ]
     },
@@ -8639,27 +8827,6 @@
       ]
     },
     {
-      "name": "AMD RYZEN 5 7600X AM5",
-      "category": "Procesadores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "AMD RYZEN 5 7600X AM5",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600x-am5",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 341,
-          "currency": "USD",
-          "priceText": "US$ 341",
-          "priceUYU": 13640,
-          "category": "Procesadores",
-          "catalogSeed": "radeon"
-        }
-      ]
-    },
-    {
       "name": "Equipo Mini PC Chuwi Core i3 4.40Ghz, 8GB, 256GB SSD, Win11 Pro",
       "category": "Procesadores",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -8765,6 +8932,27 @@
       ]
     },
     {
+      "name": "RYZEN 3 5300G + RAM 16GB 3200MHZ + 512GB",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "RYZEN 3 5300G + RAM 16GB 3200MHZ + 512GB",
+          "url": "https://www.tcomponentes.com.uy/product-page/ryzen-3-5300g-radeon-vega-graphics-7",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 644,
+          "currency": "USD",
+          "priceText": "US$ 644",
+          "priceUYU": 25760,
+          "category": "Procesadores",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
       "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5050 8Gb",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -8782,6 +8970,27 @@
           "priceUYU": 47600,
           "category": "Procesadores",
           "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
+      "name": "PC RYZEN 5 5600 + 32GB DDR4 + SSD 1TB + RX 6800 16GB + 750W +ANTEC NX292. USADO",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "PC RYZEN 5 5600 + 32GB DDR4 + SSD 1TB + RX 6800 16GB + 750W +ANTEC NX292. USADO",
+          "url": "https://www.tcomponentes.com.uy/product-page/pc-ryzen-5-5600-32gb-ddr4-ssd-1tb-rx-6800-16gb-750w-antec-nx292",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1299,
+          "currency": "USD",
+          "priceText": "US$ 1.299",
+          "priceUYU": 51960,
+          "category": "Procesadores",
+          "catalogSeed": "fuente"
         }
       ]
     },
