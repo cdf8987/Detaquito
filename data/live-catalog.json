@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T10:11:37.241Z",
+  "generatedAt": "2026-07-27T15:14:45.054Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -688,19 +688,6 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "Monitor Gigabyte GO27Q24G QHD 27″ 240Hz OLED",
-          "url": "https://thotcomputacion.com.uy/producto/monitor-gigabyte-go27q24g-qhd-27-240hz-oled/",
-          "image": "assets/catalog/monitor-gigabyte-go27q24g-qhd-27-240hz-oled--871a4d5d5db92dcc.jpg",
-          "stock": true,
-          "amount": 709.99,
-          "currency": "USD",
-          "priceText": "US$ 709,99",
-          "priceUYU": 28399.6,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "Thot Computacion",
           "name": "Monitor Samsung Essential S3 27″ 100Hz IPS FHD",
           "url": "https://thotcomputacion.com.uy/producto/monitor-samsung-essential-s3-27-100hz-ips-fhd/",
           "image": "assets/catalog/monitor-samsung-essential-s3-27-100hz-ips-fh-2198b5c12a6157cc.jpg",
@@ -748,6 +735,19 @@
           "currency": "USD",
           "priceText": "US$ 100",
           "priceUYU": 4000,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Monitor Samsung Essential S3 24″ 100Hz IPS FHD",
+          "url": "https://thotcomputacion.com.uy/producto/monitor-samsung-essential-s3-24-100hz-ips-fhd/",
+          "image": "assets/catalog/monitor-samsung-essential-s3-24-100hz-ips-fh-b7312814d7567316.png",
+          "stock": true,
+          "amount": 115,
+          "currency": "USD",
+          "priceText": "US$ 115",
+          "priceUYU": 4600,
           "category": "Monitores",
           "catalogSeed": "monitor"
         },
@@ -2061,9 +2061,9 @@
         },
         {
           "store": "Hard PC",
-          "name": "MOUSE LOGITECH M185 ROJO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-rojo-17593/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4028.jpg",
+          "name": "MOUSE LOGITECH M185 WS AZUL",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-ws-azul-11696/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4030.jpg",
           "stock": true,
           "amount": 13.38,
           "currency": "USD",
@@ -2074,9 +2074,9 @@
         },
         {
           "store": "Hard PC",
-          "name": "MOUSE LOGITECH M185 WS AZUL",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-ws-azul-11696/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4030.jpg",
+          "name": "MOUSE LOGITECH M185 ROJO",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-rojo-17593/",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4028.jpg",
           "stock": true,
           "amount": 13.38,
           "currency": "USD",
@@ -2342,14 +2342,14 @@
         },
         {
           "store": "Banifox",
-          "name": "PALIT GEFORCE RTX 3050 STORMX 6GB",
-          "url": "https://www.banifox.com/palit-geforce-rtx-3050-stormx-6gb/art-23662/",
-          "image": "assets/catalog/palit-geforce-rtx-3050-stormx-6gb-banifox-1996f615c3d8fadd.jpg",
-          "stock": true,
-          "amount": 291,
+          "name": "PALIT GAMINGPRO RTX 5080 OC 16GB GDDR7",
+          "url": "https://www.banifox.com/palit-gamingpro-rtx-5080-oc-16gb-gddr7/art-24153/",
+          "image": "assets/catalog/palit-gamingpro-rtx-5080-oc-16gb-gddr7-banif-08f451a445bc625b.jpg",
+          "stock": false,
+          "amount": 2078,
           "currency": "USD",
-          "priceText": "US$ 291",
-          "priceUYU": 11640,
+          "priceText": "US$ 2.078",
+          "priceUYU": 83120,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -2420,14 +2420,14 @@
         },
         {
           "store": "Banifox",
-          "name": "SEASONIC FUENTE 750W SRP-CBC751 ATX 3.1",
-          "url": "https://www.banifox.com/seasonic-fuente-750w-srp-cbc751-atx-3-1/art-24994/",
-          "image": "assets/catalog/seasonic-fuente-750w-srp-cbc751-atx-3-1-bani-4e474d68de73f844.jpg",
+          "name": "MSI FUENTE MAG A750 GL PCIE5",
+          "url": "https://www.banifox.com/msi-fuente-mag-a750-gl-pcie5/art-23247/",
+          "image": "assets/catalog/msi-fuente-mag-a750-gl-pcie5-banifox-07e44c4c46a8eb8b.jpg",
           "stock": true,
-          "amount": 91,
+          "amount": 170,
           "currency": "USD",
-          "priceText": "US$ 91",
-          "priceUYU": 3640,
+          "priceText": "US$ 170",
+          "priceUYU": 6800,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         },
@@ -2558,27 +2558,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "SSD M.2 NVME KC3000 1024GB. NVME",
-          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kc3000-1024gb",
+          "name": "SSD M.2 NVME KC3000 512GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kc3000-512gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 429,
+          "amount": 274,
           "currency": "USD",
-          "priceText": "US$ 429",
-          "priceUYU": 17160,
-          "category": "Almacenamiento",
-          "catalogSeed": "ssd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "SSD M.2 NVME HIKSEMI WAVE 256GB. NVME",
-          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-256gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 75,
-          "currency": "USD",
-          "priceText": "US$ 75",
-          "priceUYU": 3000,
+          "priceText": "US$ 274",
+          "priceUYU": 10960,
           "category": "Almacenamiento",
           "catalogSeed": "ssd"
         },
@@ -2592,6 +2579,19 @@
           "currency": "USD",
           "priceText": "US$ 239",
           "priceUYU": 9560,
+          "category": "Almacenamiento",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME HIKSEMI WAVE 256GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-256gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 75,
+          "currency": "USD",
+          "priceText": "US$ 75",
+          "priceUYU": 3000,
           "category": "Almacenamiento",
           "catalogSeed": "ssd"
         },
@@ -2714,110 +2714,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "GABINETE ANTEC AX83 ARGB",
-          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-ax83-argb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 75,
-          "currency": "USD",
-          "priceText": "US$ 75",
-          "priceUYU": 3000,
-          "category": "Gabinetes",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "SSD 2,5M KINGSTON 240GB. 2,5MM",
-          "url": "https://www.tcomponentes.com.uy/product-page/ssd-2-5m-kingston-240gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 109,
-          "currency": "USD",
-          "priceText": "US$ 109",
-          "priceUYU": 4360,
-          "category": "Almacenamiento",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "GABINETE ANTEC AX85 ARGB",
-          "url": "https://www.tcomponentes.com.uy/product-page/gabinete-antec-ax85-argb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 77,
-          "currency": "USD",
-          "priceText": "US$ 77",
-          "priceUYU": 3080,
-          "category": "Gabinetes",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "SSD 2,5MM KINGSTON 480GB. 2,5MM",
-          "url": "https://www.tcomponentes.com.uy/product-page/ssd-2-5mm-kingston-480gb",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 169,
-          "currency": "USD",
-          "priceText": "US$ 169",
-          "priceUYU": 6760,
-          "category": "Almacenamiento",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-5-4-3ghz-8gb-512gb-ssd-17-3-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 725,
-          "currency": "USD",
-          "priceText": "US$ 725",
-          "priceUYU": 29000,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i7-4-7ghz-8gb-512gb-ssd-15-6-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 849,
-          "currency": "USD",
-          "priceText": "US$ 849",
-          "priceUYU": 33960,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "PC INTEL I7 13700KF + 32GB DDR5 + SSD 1TB + RTX 4080 16GB + 1000W + Y60. USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/pc-intel-i7-13700kf-32gb-ddr5-ssd-1tb-rtx-4080-16gb-1000w-y60",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2699,
-          "currency": "USD",
-          "priceText": "US$ 2.699",
-          "priceUYU": 107960,
-          "category": "Graficas",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i3-3-8ghz-8gb-256gb-ssd-15-6-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 525,
-          "currency": "USD",
-          "priceText": "US$ 525",
-          "priceUYU": 21000,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        },
-        {
-          "store": "TComponentes",
           "name": "RTX 3050 6GB PALIT STORMX. NVIDIA RTX",
           "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-8gb-inno3d-twin-x2",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -2922,14 +2818,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 5050 8GB PALIT STORMX OC. NVIDIA RTX",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5050-8gb-palit-stormx-oc",
+          "name": "RTX 5090 32GB PALIT GAMEROCK OC. NVIDIA RTX",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5090-32gb-palit-gamerock-oc",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 469,
+          "amount": 4619,
           "currency": "USD",
-          "priceText": "US$ 469",
-          "priceUYU": 18760,
+          "priceText": "US$ 4.619",
+          "priceUYU": 184760,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -2987,19 +2883,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 5090 32GB PALIT GAMEROCK OC. NVIDIA RTX",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5090-32gb-palit-gamerock-oc",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 4619,
-          "currency": "USD",
-          "priceText": "US$ 4.619",
-          "priceUYU": 184760,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "TComponentes",
           "name": "RTX 5070 12GB GIGABYTE GAMING OC. NVIDIA RTX",
           "url": "https://www.tcomponentes.com.uy/product-page/rtx-5070-12gb-gigabyte-gaming-oc",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -3013,15 +2896,28 @@
         },
         {
           "store": "TComponentes",
-          "name": "MOUSEPAD GENIUS GX-P500 GAMER",
-          "url": "https://www.tcomponentes.com.uy/product-page/mousepad-genius-gx-p500-gamer",
+          "name": "RTX 5050 8GB PALIT STORMX OC. NVIDIA RTX",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5050-8gb-palit-stormx-oc",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 24,
+          "amount": 469,
           "currency": "USD",
-          "priceText": "US$ 24",
-          "priceUYU": 960,
-          "category": "Otros",
+          "priceText": "US$ 469",
+          "priceUYU": 18760,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RTX 5080 16GB PALIT GAMINGPRO. NVIDIA RTX",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5080-16gb-palit-gamingpro",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1919,
+          "currency": "USD",
+          "priceText": "US$ 1.919",
+          "priceUYU": 76760,
+          "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
@@ -3767,14 +3663,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLUE",
-          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g305-lightspeed-wireless",
+          "name": "MOUSE LOGITECH G703 LIGHTSPEED INALÁMBRICO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g703-lightspeed-inal%C3%A1mbrico",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 44,
+          "amount": 77,
           "currency": "USD",
-          "priceText": "US$ 44",
-          "priceUYU": 1760,
+          "priceText": "US$ 77",
+          "priceUYU": 3080,
           "category": "Perifericos",
           "catalogSeed": "mouse"
         },
@@ -3793,8 +3689,8 @@
         },
         {
           "store": "TComponentes",
-          "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLANCO",
-          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g305-lightspeed-wireless-blanco",
+          "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLUE",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g305-lightspeed-wireless",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
           "amount": 44,
@@ -3806,14 +3702,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB BLANCO",
-          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g203-lightsync-rgb-blanco",
+          "name": "MOUSE LOGITECH G305 LIGHTSPEED WIRELESS BLANCO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g305-lightspeed-wireless-blanco",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 26,
+          "amount": 44,
           "currency": "USD",
-          "priceText": "US$ 26",
-          "priceUYU": 1040,
+          "priceText": "US$ 44",
+          "priceUYU": 1760,
           "category": "Perifericos",
           "catalogSeed": "mouse"
         },
@@ -3845,14 +3741,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "MOUSE LOGITECH G703 LIGHTSPEED INALÁMBRICO",
-          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g703-lightspeed-inal%C3%A1mbrico",
+          "name": "MOUSE LOGITECH G203 LIGHTSYNC RGB BLANCO",
+          "url": "https://www.tcomponentes.com.uy/product-page/mouse-logitech-g203-lightsync-rgb-blanco",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 77,
+          "amount": 26,
           "currency": "USD",
-          "priceText": "US$ 77",
-          "priceUYU": 3080,
+          "priceText": "US$ 26",
+          "priceUYU": 1040,
           "category": "Perifericos",
           "catalogSeed": "mouse"
         },
@@ -4118,7 +4014,7 @@
         }
       ],
       "seeds": 16,
-      "error": ""
+      "error": "hdd: terminated"
     },
     {
       "shop": "NNET",
@@ -4150,10 +4046,10 @@
     },
     {
       "shop": "PC Compu",
-      "ok": false,
+      "ok": true,
       "offers": [],
       "seeds": 16,
-      "error": "ssd: This operation was aborted"
+      "error": ""
     },
     {
       "shop": "Pc Parts Uy",
@@ -4594,7 +4490,7 @@
           "priceText": "US$ 274",
           "priceUYU": 10960,
           "category": "Almacenamiento",
-          "catalogSeed": "nvme"
+          "catalogSeed": "ssd"
         }
       ]
     },
@@ -4720,7 +4616,7 @@
           "priceText": "US$ 429",
           "priceUYU": 17160,
           "category": "Almacenamiento",
-          "catalogSeed": "ssd"
+          "catalogSeed": "nvme"
         }
       ]
     },
@@ -4977,27 +4873,6 @@
       ]
     },
     {
-      "name": "SEASONIC FUENTE 750W SRP-CBC751 ATX 3.1",
-      "category": "Fuentes",
-      "specs": "Banifox - Disponible - Catalogo conectado",
-      "image": "assets/catalog/seasonic-fuente-750w-srp-cbc751-atx-3-1-bani-4e474d68de73f844.jpg",
-      "offers": [
-        {
-          "store": "Banifox",
-          "name": "SEASONIC FUENTE 750W SRP-CBC751 ATX 3.1",
-          "url": "https://www.banifox.com/seasonic-fuente-750w-srp-cbc751-atx-3-1/art-24994/",
-          "image": "assets/catalog/seasonic-fuente-750w-srp-cbc751-atx-3-1-bani-4e474d68de73f844.jpg",
-          "stock": true,
-          "amount": 91,
-          "currency": "USD",
-          "priceText": "US$ 91",
-          "priceUYU": 3640,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        }
-      ]
-    },
-    {
       "name": "FUENTE DE PODER 750W CORSAIR 80+ BRONCE",
       "category": "Fuentes",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -5223,6 +5098,27 @@
           "currency": "USD",
           "priceText": "US$ 165",
           "priceUYU": 6600,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
+      "name": "MSI FUENTE MAG A750 GL PCIE5",
+      "category": "Fuentes",
+      "specs": "Banifox - Disponible - Catalogo conectado",
+      "image": "assets/catalog/msi-fuente-mag-a750-gl-pcie5-banifox-07e44c4c46a8eb8b.jpg",
+      "offers": [
+        {
+          "store": "Banifox",
+          "name": "MSI FUENTE MAG A750 GL PCIE5",
+          "url": "https://www.banifox.com/msi-fuente-mag-a750-gl-pcie5/art-23247/",
+          "image": "assets/catalog/msi-fuente-mag-a750-gl-pcie5-banifox-07e44c4c46a8eb8b.jpg",
+          "stock": true,
+          "amount": 170,
+          "currency": "USD",
+          "priceText": "US$ 170",
+          "priceUYU": 6800,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
@@ -5455,7 +5351,7 @@
           "priceText": "US$ 75",
           "priceUYU": 3000,
           "category": "Gabinetes",
-          "catalogSeed": "hdd"
+          "catalogSeed": "gabinete"
         }
       ]
     },
@@ -5476,7 +5372,7 @@
           "priceText": "US$ 77",
           "priceUYU": 3080,
           "category": "Gabinetes",
-          "catalogSeed": "hdd"
+          "catalogSeed": "gabinete"
         }
       ]
     },
@@ -5792,27 +5688,6 @@
           "priceUYU": 6703.200000000001,
           "category": "Graficas",
           "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "PALIT GEFORCE RTX 3050 STORMX 6GB",
-      "category": "Graficas",
-      "specs": "Banifox - Disponible - Catalogo conectado",
-      "image": "assets/catalog/palit-geforce-rtx-3050-stormx-6gb-banifox-1996f615c3d8fadd.jpg",
-      "offers": [
-        {
-          "store": "Banifox",
-          "name": "PALIT GEFORCE RTX 3050 STORMX 6GB",
-          "url": "https://www.banifox.com/palit-geforce-rtx-3050-stormx-6gb/art-23662/",
-          "image": "assets/catalog/palit-geforce-rtx-3050-stormx-6gb-banifox-1996f615c3d8fadd.jpg",
-          "stock": true,
-          "amount": 291,
-          "currency": "USD",
-          "priceText": "US$ 291",
-          "priceUYU": 11640,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
         }
       ]
     },
@@ -6510,6 +6385,27 @@
       ]
     },
     {
+      "name": "PALIT GAMINGPRO RTX 5080 OC 16GB GDDR7",
+      "category": "Graficas",
+      "specs": "Banifox - Sin stock - Catalogo conectado",
+      "image": "assets/catalog/palit-gamingpro-rtx-5080-oc-16gb-gddr7-banif-08f451a445bc625b.jpg",
+      "offers": [
+        {
+          "store": "Banifox",
+          "name": "PALIT GAMINGPRO RTX 5080 OC 16GB GDDR7",
+          "url": "https://www.banifox.com/palit-gamingpro-rtx-5080-oc-16gb-gddr7/art-24153/",
+          "image": "assets/catalog/palit-gamingpro-rtx-5080-oc-16gb-gddr7-banif-08f451a445bc625b.jpg",
+          "stock": false,
+          "amount": 2078,
+          "currency": "USD",
+          "priceText": "US$ 2.078",
+          "priceUYU": 83120,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
+        }
+      ]
+    },
+    {
       "name": "GPU Gigabyte RTX 5080 Aorus Master ICE OC 16GB",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -6527,27 +6423,6 @@
           "priceUYU": 95200,
           "category": "Graficas",
           "catalogSeed": "rtx"
-        }
-      ]
-    },
-    {
-      "name": "PC INTEL I7 13700KF + 32GB DDR5 + SSD 1TB + RTX 4080 16GB + 1000W + Y60. USADO",
-      "category": "Graficas",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "PC INTEL I7 13700KF + 32GB DDR5 + SSD 1TB + RTX 4080 16GB + 1000W + Y60. USADO",
-          "url": "https://www.tcomponentes.com.uy/product-page/pc-intel-i7-13700kf-32gb-ddr5-ssd-1tb-rtx-4080-16gb-1000w-y60",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 2699,
-          "currency": "USD",
-          "priceText": "US$ 2.699",
-          "priceUYU": 107960,
-          "category": "Graficas",
-          "catalogSeed": "hdd"
         }
       ]
     },
@@ -7161,6 +7036,27 @@
       ]
     },
     {
+      "name": "Monitor Samsung Essential S3 24″ 100Hz IPS FHD",
+      "category": "Monitores",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/monitor-samsung-essential-s3-24-100hz-ips-fh-b7312814d7567316.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Monitor Samsung Essential S3 24″ 100Hz IPS FHD",
+          "url": "https://thotcomputacion.com.uy/producto/monitor-samsung-essential-s3-24-100hz-ips-fhd/",
+          "image": "assets/catalog/monitor-samsung-essential-s3-24-100hz-ips-fh-b7312814d7567316.png",
+          "stock": true,
+          "amount": 115,
+          "currency": "USD",
+          "priceText": "US$ 115",
+          "priceUYU": 4600,
+          "category": "Monitores",
+          "catalogSeed": "monitor"
+        }
+      ]
+    },
+    {
       "name": "Monitor Gigabyte GS24F14 24″ 144hz IPS 1Ms",
       "category": "Monitores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -7344,27 +7240,6 @@
           "currency": "USD",
           "priceText": "US$ 695",
           "priceUYU": 27800,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "Monitor Gigabyte GO27Q24G QHD 27″ 240Hz OLED",
-      "category": "Monitores",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/monitor-gigabyte-go27q24g-qhd-27-240hz-oled--871a4d5d5db92dcc.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Monitor Gigabyte GO27Q24G QHD 27″ 240Hz OLED",
-          "url": "https://thotcomputacion.com.uy/producto/monitor-gigabyte-go27q24g-qhd-27-240hz-oled/",
-          "image": "assets/catalog/monitor-gigabyte-go27q24g-qhd-27-240hz-oled--871a4d5d5db92dcc.jpg",
-          "stock": true,
-          "amount": 709.99,
-          "currency": "USD",
-          "priceText": "US$ 709,99",
-          "priceUYU": 28399.6,
           "category": "Monitores",
           "catalogSeed": "monitor"
         }
@@ -7959,27 +7834,6 @@
       ]
     },
     {
-      "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I3 3.8GHZ, 8GB, 256GB SSD, 15.6\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i3-3-8ghz-8gb-256gb-ssd-15-6-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 525,
-          "currency": "USD",
-          "priceText": "US$ 525",
-          "priceUYU": 21000,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        }
-      ]
-    },
-    {
       "name": "ASUS NOTEBOOK X1504ZA-BQ1871",
       "category": "Notebooks",
       "specs": "Banifox - Disponible - Catalogo conectado",
@@ -8148,27 +8002,6 @@
       ]
     },
     {
-      "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-5-4-3ghz-8gb-512gb-ssd-17-3-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 725,
-          "currency": "USD",
-          "priceText": "US$ 725",
-          "priceUYU": 29000,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        }
-      ]
-    },
-    {
       "name": "Notebook Acer Swift 3 SF313-53-78UG i7-1165G7/8Gb/512Gb PCIe/13.5″ 2K/W10",
       "category": "Notebooks",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -8186,27 +8019,6 @@
           "priceUYU": 31600,
           "category": "Notebooks",
           "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i7-4-7ghz-8gb-512gb-ssd-15-6-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 849,
-          "currency": "USD",
-          "priceText": "US$ 849",
-          "priceUYU": 33960,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
         }
       ]
     },
@@ -8417,27 +8229,6 @@
           "priceUYU": 91560,
           "category": "Notebooks",
           "catalogSeed": "memoria ram"
-        }
-      ]
-    },
-    {
-      "name": "MOUSEPAD GENIUS GX-P500 GAMER",
-      "category": "Otros",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "MOUSEPAD GENIUS GX-P500 GAMER",
-          "url": "https://www.tcomponentes.com.uy/product-page/mousepad-genius-gx-p500-gamer",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 24,
-          "currency": "USD",
-          "priceText": "US$ 24",
-          "priceUYU": 960,
-          "category": "Otros",
-          "catalogSeed": "gtx"
         }
       ]
     },
