@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:59:42.644Z",
+  "generatedAt": "2026-08-18T01:52:54.242Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -21,10 +21,219 @@
   "sources": [
     {
       "shop": "Thot Computacion",
-      "ok": false,
-      "offers": [],
+      "ok": true,
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "ETBook Acer Gadget CWI575 I3-10100Y/8Gb/SSD 256Gb/14″ IPS/W11",
+          "url": "https://thotcomputacion.com.uy/producto/etbook-acer-gadget-cwi575-i3-10100y-8gb-ssd-256gb-14-ips-w11/",
+          "image": "assets/catalog/etbook-acer-gadget-cwi575-i3-10100y-8gb-ssd--66a4be74223291f9.png",
+          "stock": true,
+          "amount": 415,
+          "currency": "USD",
+          "priceText": "US$ 415",
+          "priceUYU": 16600,
+          "category": "Almacenamiento",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook Advance NV9855 Intel N4020/8Gb DDR4/SSD 256Gb/15.6″/Free DOS",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-advance-nv9855-intel-n4020-8gb-ddr4-ssd-256gb-15-6-free-dos/",
+          "image": "assets/catalog/notebook-advance-nv9855-intel-n4020-8gb-ddr4-54cecbf61852a4b7.png",
+          "stock": true,
+          "amount": 300,
+          "currency": "USD",
+          "priceText": "US$ 300",
+          "priceUYU": 12000,
+          "category": "Notebooks",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Equipo Intel Core I7 12700 Alder Lake – 16Gb – SSD",
+          "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i7-12700-alder-lake-16gb-ssd/",
+          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/GENERICO-CORE.png",
+          "stock": true,
+          "amount": 850,
+          "currency": "USD",
+          "priceText": "US$ 850",
+          "priceUYU": 34000,
+          "category": "Procesadores",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook Gigabyte A16 3THK3LA893SH R7 260/16Gb/SSD PCIe 512Gb/RTX5050/16″ FHD+/W11",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-gigabyte-a16-3thk3la893sh-r7-260-16gb-ssd-pcie-512gb-rtx5050-16-fhd-w11/",
+          "image": "assets/catalog/notebook-gigabyte-a16-3thk3la893sh-r7-260-16-656581450c699dd3.png",
+          "stock": true,
+          "amount": 1874.99,
+          "currency": "USD",
+          "priceText": "US$ 1.874,99",
+          "priceUYU": 74999.6,
+          "category": "Notebooks",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Equipo AMD Ryzen 5 4500 Pro Gamer – SSD – 16Gb – Geforce RTX3050 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/equipo-amd-ryzen-5-4500-pro-gamer-ssd-16gb-geforce-rtx3050-8gb/",
+          "image": "assets/catalog/equipo-amd-ryzen-5-4500-pro-gamer-ssd-16gb-g-db1b87ad5ab8b2c8.png",
+          "stock": true,
+          "amount": 950,
+          "currency": "USD",
+          "priceText": "US$ 950",
+          "priceUYU": 38000,
+          "category": "Graficas",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Hiksemi Wave SSD 256Gb",
+          "url": "https://thotcomputacion.com.uy/producto/hiksemi-wave-ssd-256gb-3/",
+          "image": "assets/catalog/hiksemi-wave-ssd-256gb-thot-computacion-e8b3dad4b504342e.jpg",
+          "stock": true,
+          "amount": 64.99,
+          "currency": "USD",
+          "priceText": "US$ 64,99",
+          "priceUYU": 2599.6,
+          "category": "Almacenamiento",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook Acer Gadget GTBook XPro i7-13620H/16Gb DDR4/SSD 512Gb/RTX3050/15.6″/W11",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-acer-gadget-gtbook-xpro-i7-13620h-16gb-ddr4-ssd-512gb-rtx3050-15-6-w11/",
+          "image": "assets/catalog/notebook-acer-gadget-gtbook-xpro-i7-13620h-1-838e0c85cd4cd5ad.jpg",
+          "stock": false,
+          "amount": 1049.99,
+          "currency": "USD",
+          "priceText": "US$ 1.049,99",
+          "priceUYU": 41999.6,
+          "category": "Notebooks",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook MSI Cyborg 15 B2RWGKG i7 240H/16Gb/1Tb SSD/RTX5070/15.6″ 144Hz/W11",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-msi-cyborg-15-b2rwgkg-i7-240h-16gb-1tb-ssd-rtx5070-15-6-144hz-w11/",
+          "image": "assets/catalog/notebook-msi-cyborg-15-b2rwgkg-i7-240h-16gb--90e34317842700da.png",
+          "stock": true,
+          "amount": 2149.99,
+          "currency": "USD",
+          "priceText": "US$ 2.149,99",
+          "priceUYU": 85999.59999999999,
+          "category": "Notebooks",
+          "catalogSeed": "ssd"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B860 DS3H WiFi6e",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b860-ds3h-wifi6e/",
+          "image": "assets/catalog/mother-gigabyte-b860-ds3h-wifi6e-thot-comput-9feb18aec38386a9.png",
+          "stock": true,
+          "amount": 229.99,
+          "currency": "USD",
+          "priceText": "US$ 229,99",
+          "priceUYU": 9199.6,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B840M H AM5",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b840m-h-am5/",
+          "image": "assets/catalog/mother-gigabyte-b840m-h-am5-thot-computacion-0f559ee65e4905a4.png",
+          "stock": true,
+          "amount": 104.99,
+          "currency": "USD",
+          "priceText": "US$ 104,99",
+          "priceUYU": 4199.599999999999,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B860M Eagle WiFi6 V2",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b860m-eagle-wifi6-v2/",
+          "image": "assets/catalog/mother-gigabyte-b860m-eagle-wifi6-v2-thot-co-59dfec47da3d6ec3.png",
+          "stock": true,
+          "amount": 185,
+          "currency": "USD",
+          "priceText": "US$ 185",
+          "priceUYU": 7400,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B860M Aorus Elite Wifi6E",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b860m-aorus-elite-wifi6e/",
+          "image": "assets/catalog/mother-gigabyte-b860m-aorus-elite-wifi6e-tho-e86e22fdd49acfcc.png",
+          "stock": false,
+          "amount": 210,
+          "currency": "USD",
+          "priceText": "US$ 210",
+          "priceUYU": 8400,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte X870 Stealth AM5 DDR5",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-x870-stealth/",
+          "image": "assets/catalog/mother-gigabyte-x870-stealth-am5-ddr5-thot-c-6ef62095c60e304b.png",
+          "stock": true,
+          "amount": 489.99,
+          "currency": "USD",
+          "priceText": "US$ 489,99",
+          "priceUYU": 19599.6,
+          "category": "Memorias",
+          "catalogSeed": "motherboard"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B860M Eagle WiFi6",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b860m-eagle-wifi6/",
+          "image": "assets/catalog/mother-gigabyte-b860m-eagle-wifi6-thot-compu-af2e7a97f64b5aea.png",
+          "stock": true,
+          "amount": 180,
+          "currency": "USD",
+          "priceText": "US$ 180",
+          "priceUYU": 7200,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte Z790 D AX S1700",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-z790-d-ax-s1700/",
+          "image": "assets/catalog/mother-gigabyte-z790-d-ax-s1700-thot-computa-3578e05f900ba7b5.png",
+          "stock": false,
+          "amount": 265,
+          "currency": "USD",
+          "priceText": "US$ 265",
+          "priceUYU": 10600,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte X870E Aero X3D Dark Wood",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-x870e-aero-x3d-dark-wood/",
+          "image": "assets/catalog/mother-gigabyte-x870e-aero-x3d-dark-wood-tho-808f161fc267121e.png",
+          "stock": true,
+          "amount": 575,
+          "currency": "USD",
+          "priceText": "US$ 575",
+          "priceUYU": 23000,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        }
+      ],
       "seeds": 16,
-      "error": "ssd: This operation was aborted"
+      "error": "nvme: This operation was aborted"
     },
     {
       "shop": "Hard PC",
@@ -112,7 +321,7 @@
           "store": "Hard PC",
           "name": "PROCESADOR INTEL I3 12100F (1700)",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i3-12100f-1700-18999/",
-          "image": "assets/catalog/procesador-intel-i3-12100f-1700-hard-pc-00b77e9f5d2d6734.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_30003.jpg",
           "stock": true,
           "amount": 149.23,
           "currency": "USD",
@@ -125,7 +334,7 @@
           "store": "Hard PC",
           "name": "Intel Core i3 i3-14100F - 3.5 GHz - 4 núcleos - 8 hilos - 12 MB caché - FCLGA1700 Socket - Caja",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/intel-core-i3-i3-14100f-35-ghz-4-nucleos-8-hilos-12-mb-cache-fclga1700-socket-caja-cp141itl00/",
-          "image": "assets/catalog/intel-core-i3-i3-14100f-3-5-ghz-4-nucleos-8--c2185e200d22f6ff.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70378.jpg",
           "stock": false,
           "amount": 159.9,
           "currency": "USD",
@@ -151,7 +360,7 @@
           "store": "Hard PC",
           "name": "PROCESADOR INTEL I5 11400F 2.6GHZ 6 NUCLEOS (1200)",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-11400f-26ghz-6-nucleos-1200-17891/",
-          "image": "assets/catalog/procesador-intel-i5-11400f-2-6ghz-6-nucleos--b68d6ed2a60b4e60.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4141.jpg",
           "stock": false,
           "amount": 178.05,
           "currency": "USD",
@@ -164,7 +373,7 @@
           "store": "Hard PC",
           "name": "PROCESADOR INTEL I3 14100 (1700)",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i3-14100-1700-19967/",
-          "image": "assets/catalog/procesador-intel-i3-14100-1700-hard-pc-21164e16a7e59872.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72513.jpg",
           "stock": false,
           "amount": 193.36,
           "currency": "USD",
@@ -177,7 +386,7 @@
           "store": "Hard PC",
           "name": "PROCESADOR INTEL I5 10400 2.9GHZ (1200)",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-10400-29ghz-1200-7339/",
-          "image": "assets/catalog/procesador-intel-i5-10400-2-9ghz-1200-hard-p-8f136b6cf6857d5e.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4059.jpg",
           "stock": false,
           "amount": 201.09,
           "currency": "USD",
@@ -476,7 +685,7 @@
           "store": "Hard PC",
           "name": "Teclado con HUB USB-C Unitek 9 en 1 PD 100W HDMI 4K",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w-hdmi-4k-tec168/",
-          "image": "assets/catalog/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w--752db29a9f07a5e2.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71696.jpg",
           "stock": false,
           "amount": 100.49,
           "currency": "USD",
@@ -489,7 +698,7 @@
           "store": "Hard PC",
           "name": "Teclado be quiet! Light Mount Silent Linear US ANSI Mecánico",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-be-quiet-light-mount-silent-linear-us-ansi-mecanico-tec180/",
-          "image": "assets/catalog/teclado-be-quiet-light-mount-silent-linear-u-aac89450e13238e3.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72318.jpg",
           "stock": false,
           "amount": 181.85,
           "currency": "USD",
@@ -911,15 +1120,15 @@
         },
         {
           "store": "Banifox",
-          "name": "CHUWI NOTEBOOK COREBOOK AIR PLUS R5 6600H 16+512GB",
-          "url": "https://www.banifox.com/chuwi-notebook-corebook-air-plus-r5-6600h-16-512gb/art-25020/",
-          "image": "assets/catalog/chuwi-notebook-corebook-air-plus-r5-6600h-16-2ea7915b8163a46f.jpg",
+          "name": "Dell Pro Intel Core 5 - 8 GB- 512 GB SSD 6DWCJ",
+          "url": "https://www.banifox.com/dell-pro-intel-core-5-8-gb-512-gb-ssd-6dwcj/art-24289/",
+          "image": "assets/catalog/dell-pro-intel-core-5-8-gb-512-gb-ssd-6dwcj--f8f6a01186fe275f.jpg",
           "stock": true,
-          "amount": 699,
+          "amount": 1203,
           "currency": "USD",
-          "priceText": "US$ 699",
-          "priceUYU": 27960,
-          "category": "Notebooks",
+          "priceText": "US$ 1.203",
+          "priceUYU": 48120,
+          "category": "Almacenamiento",
           "catalogSeed": "notebook"
         },
         {
@@ -1114,6 +1323,110 @@
         },
         {
           "store": "TComponentes",
+          "name": "SSD M.2 NVME 500GB KINGSTON NV3. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-500gb-kingston-nv3",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 162,
+          "currency": "USD",
+          "priceText": "US$ 162",
+          "priceUYU": 6480,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KINGSTON NV3 500GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-500gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME HIKSEMI WAVE 256GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-256gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 75,
+          "currency": "USD",
+          "priceText": "US$ 75",
+          "priceUYU": 3000,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KINGSTON NV3 2000GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-2000gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 479,
+          "currency": "USD",
+          "priceText": "US$ 479",
+          "priceUYU": 19160,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KINGSTON NV3 1000GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-1000gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 249,
+          "currency": "USD",
+          "priceText": "US$ 249",
+          "priceUYU": 9960,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME HIKSEMI WAVE 1024GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-hiksemi-wave-1024gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 239,
+          "currency": "USD",
+          "priceText": "US$ 239",
+          "priceUYU": 9560,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KC3000 1024GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kc3000-1024gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 429,
+          "currency": "USD",
+          "priceText": "US$ 429",
+          "priceUYU": 17160,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KC3000 512GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kc3000-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 274,
+          "currency": "USD",
+          "priceText": "US$ 274",
+          "priceUYU": 10960,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "TComponentes",
           "name": "PC AMD RYZEN 5 2600 + A320 + 16GB + 240GB SSD + 1TB HDD + GTX 960 2GB + 600W. USADA",
           "url": "https://www.tcomponentes.com.uy/product-page/pc-amd-ryzen-5-2600-a320-16gb-240gb-ssd-1tb-hdd-gtx-960-2gb-600w",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -1179,27 +1492,27 @@
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-5-4-3ghz-8gb-512gb-ssd-17-3-fhd",
+          "name": "SSD 2,5MM KINGSTON KC600 256GB. 2,5MM",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-2-5mm-kingston-kc600-256gb",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 725,
+          "amount": 149,
           "currency": "USD",
-          "priceText": "US$ 725",
-          "priceUYU": 29000,
-          "category": "Notebooks",
+          "priceText": "US$ 149",
+          "priceUYU": 5960,
+          "category": "Almacenamiento",
           "catalogSeed": "hdd"
         },
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK HP RYZEN 7 4.5GHZ, 16GB, 512GB SSD, 15.6\" FHD, WIN11 PRO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-7-4-5ghz-16gb-512gb-ssd-15-6-fhd-win11-pro",
+          "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i7-4-7ghz-8gb-512gb-ssd-15-6-fhd",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 825,
+          "amount": 849,
           "currency": "USD",
-          "priceText": "US$ 825",
-          "priceUYU": 33000,
+          "priceText": "US$ 849",
+          "priceUYU": 33960,
           "category": "Notebooks",
           "catalogSeed": "hdd"
         },
@@ -1257,32 +1570,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 5070 12GB PALIT INFINITY 3. NVIDIA RTX",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5070-12gb-palit-infinity",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1009,
-          "currency": "USD",
-          "priceText": "US$ 1.009",
-          "priceUYU": 40360,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
-        },
-        {
-          "store": "TComponentes",
-          "name": "RTX 5060TI 8GB INNO3D WHITE. NVIDIA RTX",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5060ti-8gb-inno3d-white",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 664,
-          "currency": "USD",
-          "priceText": "US$ 664",
-          "priceUYU": 26560,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
-        },
-        {
-          "store": "TComponentes",
           "name": "RTX 5070 12GB AORUS MASTER. NVIDIA RTX",
           "url": "https://www.tcomponentes.com.uy/product-page/rtx-5070-12gb-aorus-master",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -1291,6 +1578,32 @@
           "currency": "USD",
           "priceText": "US$ 1.379",
           "priceUYU": 55160,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RTX 5080 16GB PALIT GAMINGPRO. NVIDIA RTX",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5080-16gb-palit-gamingpro",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1919,
+          "currency": "USD",
+          "priceText": "US$ 1.919",
+          "priceUYU": 76760,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RTX 5080 16GB INNO3D X3. NVIDIA RTX",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5080-16gb-inno3d-x3",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1899,
+          "currency": "USD",
+          "priceText": "US$ 1.899",
+          "priceUYU": 75960,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -1309,14 +1622,14 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 5080 16GB PALIT GAMINGPRO. NVIDIA RTX",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5080-16gb-palit-gamingpro",
+          "name": "RTX 5060TI 8GB INNO3D WHITE. NVIDIA RTX",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5060ti-8gb-inno3d-white",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 1919,
+          "amount": 664,
           "currency": "USD",
-          "priceText": "US$ 1.919",
-          "priceUYU": 76760,
+          "priceText": "US$ 664",
+          "priceUYU": 26560,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -1387,19 +1700,6 @@
         },
         {
           "store": "TComponentes",
-          "name": "RTX 3050 6GB PALIT STORMX. NVIDIA RTX",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-8gb-inno3d-twin-x2",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 319,
-          "currency": "USD",
-          "priceText": "US$ 319",
-          "priceUYU": 12760,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "TComponentes",
           "name": "RTX 9070XT 16GB GIGABYTE GAMING OC. USADA",
           "url": "https://www.tcomponentes.com.uy/product-page/rtx-9070xt-16gb-gigabyte-gaming-oc",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -1421,6 +1721,19 @@
           "currency": "USD",
           "priceText": "US$ 979",
           "priceUYU": 39160,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RTX 3050 6GB PALIT STORMX. NVIDIA RTX",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-3050-8gb-inno3d-twin-x2",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 319,
+          "currency": "USD",
+          "priceText": "US$ 319",
+          "priceUYU": 12760,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -1452,8 +1765,8 @@
         },
         {
           "store": "TComponentes",
-          "name": "RX 570 4GB ASROCK PANHTOM. USADA",
-          "url": "https://www.tcomponentes.com.uy/product-page/rx-570-4gb-asrock-panhtom",
+          "name": "RX 580 4GB MSI ARMOR. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rx-580-4gb-msi-armor-1",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
           "amount": 140,
@@ -1465,8 +1778,21 @@
         },
         {
           "store": "TComponentes",
-          "name": "RX 580 4GB MSI ARMOR. USADA",
-          "url": "https://www.tcomponentes.com.uy/product-page/rx-580-4gb-msi-armor-1",
+          "name": "RX 560 4GB LENOVO. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rx-560-4gb-lenovo",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 110,
+          "currency": "USD",
+          "priceText": "US$ 110",
+          "priceUYU": 4400,
+          "category": "Otros",
+          "catalogSeed": "radeon"
+        },
+        {
+          "store": "TComponentes",
+          "name": "RX 570 4GB ASROCK PANHTOM. USADA",
+          "url": "https://www.tcomponentes.com.uy/product-page/rx-570-4gb-asrock-panhtom",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
           "amount": 140,
@@ -1486,19 +1812,6 @@
           "currency": "USD",
           "priceText": "US$ 290",
           "priceUYU": 11600,
-          "category": "Otros",
-          "catalogSeed": "radeon"
-        },
-        {
-          "store": "TComponentes",
-          "name": "RX 560 4GB LENOVO. USADA",
-          "url": "https://www.tcomponentes.com.uy/product-page/rx-560-4gb-lenovo",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 110,
-          "currency": "USD",
-          "priceText": "US$ 110",
-          "priceUYU": 4400,
           "category": "Otros",
           "catalogSeed": "radeon"
         },
@@ -1530,6 +1843,19 @@
         },
         {
           "store": "TComponentes",
+          "name": "AMD RYZEN 7 5700G AM4",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-7-5700g-am4",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 275,
+          "currency": "USD",
+          "priceText": "US$ 275",
+          "priceUYU": 11000,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
+        },
+        {
+          "store": "TComponentes",
           "name": "AMD RYZEN 5 9600 AM5",
           "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-9600-am5",
           "image": "https://www.tcomponentes.com.uy/true",
@@ -1538,6 +1864,32 @@
           "currency": "USD",
           "priceText": "US$ 349",
           "priceUYU": 13960,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
+        },
+        {
+          "store": "TComponentes",
+          "name": "AMD RYZEN 5 7600X AM5",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600x-am5",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 341,
+          "currency": "USD",
+          "priceText": "US$ 341",
+          "priceUYU": 13640,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
+        },
+        {
+          "store": "TComponentes",
+          "name": "AMD RYZEN 5 9600X AM5",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-9600x-am5",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 355,
+          "currency": "USD",
+          "priceText": "US$ 355",
+          "priceUYU": 14200,
           "category": "Procesadores",
           "catalogSeed": "ryzen"
         },
@@ -1590,45 +1942,6 @@
           "currency": "USD",
           "priceText": "US$ 212",
           "priceUYU": 8480,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "TComponentes",
-          "name": "AMD RYZEN 5 5600GT AM4",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-5600gt-am4",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 214,
-          "currency": "USD",
-          "priceText": "US$ 214",
-          "priceUYU": 8560,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "TComponentes",
-          "name": "AMD RYZEN 5 8600G AM5",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-8600g-am5",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 269,
-          "currency": "USD",
-          "priceText": "US$ 269",
-          "priceUYU": 10760,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "TComponentes",
-          "name": "AMD RYZEN 7 5700G AM4",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-7-5700g-am4",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 275,
-          "currency": "USD",
-          "priceText": "US$ 275",
-          "priceUYU": 11000,
           "category": "Procesadores",
           "catalogSeed": "ryzen"
         },
@@ -2587,6 +2900,27 @@
       ]
     },
     {
+      "name": "Hiksemi Wave SSD 256Gb",
+      "category": "Almacenamiento",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/hiksemi-wave-ssd-256gb-thot-computacion-e8b3dad4b504342e.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Hiksemi Wave SSD 256Gb",
+          "url": "https://thotcomputacion.com.uy/producto/hiksemi-wave-ssd-256gb-3/",
+          "image": "assets/catalog/hiksemi-wave-ssd-256gb-thot-computacion-e8b3dad4b504342e.jpg",
+          "stock": true,
+          "amount": 64.99,
+          "currency": "USD",
+          "priceText": "US$ 64,99",
+          "priceUYU": 2599.6,
+          "category": "Almacenamiento",
+          "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
       "name": "SSD M.2 NVME HIKSEMI WAVE 256GB. NVME",
       "category": "Almacenamiento",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -2646,6 +2980,27 @@
           "priceUYU": 5960,
           "category": "Almacenamiento",
           "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "SSD M.2 NVME KINGSTON NV3 500GB. NVME",
+      "category": "Almacenamiento",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KINGSTON NV3 500GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-500gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 159,
+          "currency": "USD",
+          "priceText": "US$ 159",
+          "priceUYU": 6360,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
         }
       ]
     },
@@ -2734,6 +3089,48 @@
       ]
     },
     {
+      "name": "SSD M.2 NVME KINGSTON NV3 1000GB. NVME",
+      "category": "Almacenamiento",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KINGSTON NV3 1000GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-1000gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 249,
+          "currency": "USD",
+          "priceText": "US$ 249",
+          "priceUYU": 9960,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        }
+      ]
+    },
+    {
+      "name": "SSD M.2 NVME KC3000 512GB. NVME",
+      "category": "Almacenamiento",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KC3000 512GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kc3000-512gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 274,
+          "currency": "USD",
+          "priceText": "US$ 274",
+          "priceUYU": 10960,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        }
+      ]
+    },
+    {
       "name": "Ubiquiti Cloud Key SSD Minio servidor Unifi Controller - Material de la carcasa: Aluminio anodizado Hardware Procesado",
       "category": "Almacenamiento",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -2749,6 +3146,27 @@
           "currency": "USD",
           "priceText": "US$ 389,21",
           "priceUYU": 15568.4,
+          "category": "Almacenamiento",
+          "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "ETBook Acer Gadget CWI575 I3-10100Y/8Gb/SSD 256Gb/14″ IPS/W11",
+      "category": "Almacenamiento",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/etbook-acer-gadget-cwi575-i3-10100y-8gb-ssd--66a4be74223291f9.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "ETBook Acer Gadget CWI575 I3-10100Y/8Gb/SSD 256Gb/14″ IPS/W11",
+          "url": "https://thotcomputacion.com.uy/producto/etbook-acer-gadget-cwi575-i3-10100y-8gb-ssd-256gb-14-ips-w11/",
+          "image": "assets/catalog/etbook-acer-gadget-cwi575-i3-10100y-8gb-ssd--66a4be74223291f9.png",
+          "stock": true,
+          "amount": 415,
+          "currency": "USD",
+          "priceText": "US$ 415",
+          "priceUYU": 16600,
           "category": "Almacenamiento",
           "catalogSeed": "ssd"
         }
@@ -2776,6 +3194,27 @@
       ]
     },
     {
+      "name": "SSD M.2 NVME KINGSTON NV3 2000GB. NVME",
+      "category": "Almacenamiento",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "SSD M.2 NVME KINGSTON NV3 2000GB. NVME",
+          "url": "https://www.tcomponentes.com.uy/product-page/ssd-m-2-nvme-kingston-nv3-2000gb",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 479,
+          "currency": "USD",
+          "priceText": "US$ 479",
+          "priceUYU": 19160,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        }
+      ]
+    },
+    {
       "name": "WD RED 10 TB HDD",
       "category": "Almacenamiento",
       "specs": "Banifox - Disponible - Catalogo conectado",
@@ -2793,6 +3232,27 @@
           "priceUYU": 25960,
           "category": "Almacenamiento",
           "catalogSeed": "hdd"
+        }
+      ]
+    },
+    {
+      "name": "Dell Pro Intel Core 5 - 8 GB- 512 GB SSD 6DWCJ",
+      "category": "Almacenamiento",
+      "specs": "Banifox - Disponible - Catalogo conectado",
+      "image": "assets/catalog/dell-pro-intel-core-5-8-gb-512-gb-ssd-6dwcj--f8f6a01186fe275f.jpg",
+      "offers": [
+        {
+          "store": "Banifox",
+          "name": "Dell Pro Intel Core 5 - 8 GB- 512 GB SSD 6DWCJ",
+          "url": "https://www.banifox.com/dell-pro-intel-core-5-8-gb-512-gb-ssd-6dwcj/art-24289/",
+          "image": "assets/catalog/dell-pro-intel-core-5-8-gb-512-gb-ssd-6dwcj--f8f6a01186fe275f.jpg",
+          "stock": true,
+          "amount": 1203,
+          "currency": "USD",
+          "priceText": "US$ 1.203",
+          "priceUYU": 48120,
+          "category": "Almacenamiento",
+          "catalogSeed": "notebook"
         }
       ]
     },
@@ -3616,6 +4076,27 @@
       ]
     },
     {
+      "name": "Equipo AMD Ryzen 5 4500 Pro Gamer – SSD – 16Gb – Geforce RTX3050 8Gb",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/equipo-amd-ryzen-5-4500-pro-gamer-ssd-16gb-g-db1b87ad5ab8b2c8.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Equipo AMD Ryzen 5 4500 Pro Gamer – SSD – 16Gb – Geforce RTX3050 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/equipo-amd-ryzen-5-4500-pro-gamer-ssd-16gb-geforce-rtx3050-8gb/",
+          "image": "assets/catalog/equipo-amd-ryzen-5-4500-pro-gamer-ssd-16gb-g-db1b87ad5ab8b2c8.png",
+          "stock": true,
+          "amount": 950,
+          "currency": "USD",
+          "priceText": "US$ 950",
+          "priceUYU": 38000,
+          "category": "Graficas",
+          "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
       "name": "Equipo Gamer Ryzen 5 5500, 16GB, 500GB, RTX 3050 6GB",
       "category": "Graficas",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -3654,27 +4135,6 @@
           "priceUYU": 39160,
           "category": "Graficas",
           "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "RTX 5070 12GB PALIT INFINITY 3. NVIDIA RTX",
-      "category": "Graficas",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "RTX 5070 12GB PALIT INFINITY 3. NVIDIA RTX",
-          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5070-12gb-palit-infinity",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 1009,
-          "currency": "USD",
-          "priceText": "US$ 1.009",
-          "priceUYU": 40360,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
         }
       ]
     },
@@ -3822,6 +4282,27 @@
           "priceUYU": 75680,
           "category": "Graficas",
           "catalogSeed": "intel"
+        }
+      ]
+    },
+    {
+      "name": "RTX 5080 16GB INNO3D X3. NVIDIA RTX",
+      "category": "Graficas",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "RTX 5080 16GB INNO3D X3. NVIDIA RTX",
+          "url": "https://www.tcomponentes.com.uy/product-page/rtx-5080-16gb-inno3d-x3",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 1899,
+          "currency": "USD",
+          "priceText": "US$ 1.899",
+          "priceUYU": 75960,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
         }
       ]
     },
@@ -4032,6 +4513,27 @@
           "priceUYU": 12960,
           "category": "Memorias",
           "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "Mother Gigabyte X870 Stealth AM5 DDR5",
+      "category": "Memorias",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/mother-gigabyte-x870-stealth-am5-ddr5-thot-c-6ef62095c60e304b.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte X870 Stealth AM5 DDR5",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-x870-stealth/",
+          "image": "assets/catalog/mother-gigabyte-x870-stealth-am5-ddr5-thot-c-6ef62095c60e304b.png",
+          "stock": true,
+          "amount": 489.99,
+          "currency": "USD",
+          "priceText": "US$ 489,99",
+          "priceUYU": 19599.6,
+          "category": "Memorias",
+          "catalogSeed": "motherboard"
         }
       ]
     },
@@ -4393,6 +4895,27 @@
       ]
     },
     {
+      "name": "Mother Gigabyte B840M H AM5",
+      "category": "Motherboards",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/mother-gigabyte-b840m-h-am5-thot-computacion-0f559ee65e4905a4.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B840M H AM5",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b840m-h-am5/",
+          "image": "assets/catalog/mother-gigabyte-b840m-h-am5-thot-computacion-0f559ee65e4905a4.png",
+          "stock": true,
+          "amount": 104.99,
+          "currency": "USD",
+          "priceText": "US$ 104,99",
+          "priceUYU": 4199.599999999999,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        }
+      ]
+    },
+    {
       "name": "MOTHERBOARD B550M K GIGABYTE",
       "category": "Motherboards",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -4540,6 +5063,48 @@
       ]
     },
     {
+      "name": "Mother Gigabyte B860M Eagle WiFi6",
+      "category": "Motherboards",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/mother-gigabyte-b860m-eagle-wifi6-thot-compu-af2e7a97f64b5aea.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B860M Eagle WiFi6",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b860m-eagle-wifi6/",
+          "image": "assets/catalog/mother-gigabyte-b860m-eagle-wifi6-thot-compu-af2e7a97f64b5aea.png",
+          "stock": true,
+          "amount": 180,
+          "currency": "USD",
+          "priceText": "US$ 180",
+          "priceUYU": 7200,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        }
+      ]
+    },
+    {
+      "name": "Mother Gigabyte B860M Eagle WiFi6 V2",
+      "category": "Motherboards",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/mother-gigabyte-b860m-eagle-wifi6-v2-thot-co-59dfec47da3d6ec3.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B860M Eagle WiFi6 V2",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b860m-eagle-wifi6-v2/",
+          "image": "assets/catalog/mother-gigabyte-b860m-eagle-wifi6-v2-thot-co-59dfec47da3d6ec3.png",
+          "stock": true,
+          "amount": 185,
+          "currency": "USD",
+          "priceText": "US$ 185",
+          "priceUYU": 7400,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        }
+      ]
+    },
+    {
       "name": "MOTHERBOARD GIGABYTE B660M DS3H (12VA/13VA)",
       "category": "Motherboards",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -4555,6 +5120,90 @@
           "currency": "USD",
           "priceText": "US$ 187,45",
           "priceUYU": 7498,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        }
+      ]
+    },
+    {
+      "name": "Mother Gigabyte B860M Aorus Elite Wifi6E",
+      "category": "Motherboards",
+      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
+      "image": "assets/catalog/mother-gigabyte-b860m-aorus-elite-wifi6e-tho-e86e22fdd49acfcc.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B860M Aorus Elite Wifi6E",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b860m-aorus-elite-wifi6e/",
+          "image": "assets/catalog/mother-gigabyte-b860m-aorus-elite-wifi6e-tho-e86e22fdd49acfcc.png",
+          "stock": false,
+          "amount": 210,
+          "currency": "USD",
+          "priceText": "US$ 210",
+          "priceUYU": 8400,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        }
+      ]
+    },
+    {
+      "name": "Mother Gigabyte B860 DS3H WiFi6e",
+      "category": "Motherboards",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/mother-gigabyte-b860-ds3h-wifi6e-thot-comput-9feb18aec38386a9.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte B860 DS3H WiFi6e",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-b860-ds3h-wifi6e/",
+          "image": "assets/catalog/mother-gigabyte-b860-ds3h-wifi6e-thot-comput-9feb18aec38386a9.png",
+          "stock": true,
+          "amount": 229.99,
+          "currency": "USD",
+          "priceText": "US$ 229,99",
+          "priceUYU": 9199.6,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        }
+      ]
+    },
+    {
+      "name": "Mother Gigabyte Z790 D AX S1700",
+      "category": "Motherboards",
+      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
+      "image": "assets/catalog/mother-gigabyte-z790-d-ax-s1700-thot-computa-3578e05f900ba7b5.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte Z790 D AX S1700",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-z790-d-ax-s1700/",
+          "image": "assets/catalog/mother-gigabyte-z790-d-ax-s1700-thot-computa-3578e05f900ba7b5.png",
+          "stock": false,
+          "amount": 265,
+          "currency": "USD",
+          "priceText": "US$ 265",
+          "priceUYU": 10600,
+          "category": "Motherboards",
+          "catalogSeed": "motherboard"
+        }
+      ]
+    },
+    {
+      "name": "Mother Gigabyte X870E Aero X3D Dark Wood",
+      "category": "Motherboards",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/mother-gigabyte-x870e-aero-x3d-dark-wood-tho-808f161fc267121e.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Mother Gigabyte X870E Aero X3D Dark Wood",
+          "url": "https://thotcomputacion.com.uy/producto/mother-gigabyte-x870e-aero-x3d-dark-wood/",
+          "image": "assets/catalog/mother-gigabyte-x870e-aero-x3d-dark-wood-tho-808f161fc267121e.png",
+          "stock": true,
+          "amount": 575,
+          "currency": "USD",
+          "priceText": "US$ 575",
+          "priceUYU": 23000,
           "category": "Motherboards",
           "catalogSeed": "motherboard"
         }
@@ -4660,6 +5309,27 @@
           "currency": "USD",
           "priceText": "US$ 250",
           "priceUYU": 10000,
+          "category": "Notebooks",
+          "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "Notebook Advance NV9855 Intel N4020/8Gb DDR4/SSD 256Gb/15.6″/Free DOS",
+      "category": "Notebooks",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/notebook-advance-nv9855-intel-n4020-8gb-ddr4-54cecbf61852a4b7.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook Advance NV9855 Intel N4020/8Gb DDR4/SSD 256Gb/15.6″/Free DOS",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-advance-nv9855-intel-n4020-8gb-ddr4-ssd-256gb-15-6-free-dos/",
+          "image": "assets/catalog/notebook-advance-nv9855-intel-n4020-8gb-ddr4-54cecbf61852a4b7.png",
+          "stock": true,
+          "amount": 300,
+          "currency": "USD",
+          "priceText": "US$ 300",
+          "priceUYU": 12000,
           "category": "Notebooks",
           "catalogSeed": "ssd"
         }
@@ -4813,48 +5483,6 @@
       ]
     },
     {
-      "name": "CHUWI NOTEBOOK COREBOOK AIR PLUS R5 6600H 16+512GB",
-      "category": "Notebooks",
-      "specs": "Banifox - Disponible - Catalogo conectado",
-      "image": "assets/catalog/chuwi-notebook-corebook-air-plus-r5-6600h-16-2ea7915b8163a46f.jpg",
-      "offers": [
-        {
-          "store": "Banifox",
-          "name": "CHUWI NOTEBOOK COREBOOK AIR PLUS R5 6600H 16+512GB",
-          "url": "https://www.banifox.com/chuwi-notebook-corebook-air-plus-r5-6600h-16-512gb/art-25020/",
-          "image": "assets/catalog/chuwi-notebook-corebook-air-plus-r5-6600h-16-2ea7915b8163a46f.jpg",
-          "stock": true,
-          "amount": 699,
-          "currency": "USD",
-          "priceText": "US$ 699",
-          "priceUYU": 27960,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
-      "category": "Notebooks",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "NOTEBOOK HP RYZEN 5 4.3GHZ, 8GB, 512GB SSD, 17.3\" FHD",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-5-4-3ghz-8gb-512gb-ssd-17-3-fhd",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 725,
-          "currency": "USD",
-          "priceText": "US$ 725",
-          "priceUYU": 29000,
-          "category": "Notebooks",
-          "catalogSeed": "hdd"
-        }
-      ]
-    },
-    {
       "name": "NOTEBOOK CHUWI RYZEN 5 4.6GHZ, 16GB, 512GB, 16\" FHD+, ESPAÑOL",
       "category": "Notebooks",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -4876,21 +5504,21 @@
       ]
     },
     {
-      "name": "NOTEBOOK HP RYZEN 7 4.5GHZ, 16GB, 512GB SSD, 15.6\" FHD, WIN11 PRO",
+      "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
       "category": "Notebooks",
       "specs": "TComponentes - Disponible - Catalogo conectado",
       "image": "https://www.tcomponentes.com.uy/true",
       "offers": [
         {
           "store": "TComponentes",
-          "name": "NOTEBOOK HP RYZEN 7 4.5GHZ, 16GB, 512GB SSD, 15.6\" FHD, WIN11 PRO",
-          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-ryzen-7-4-5ghz-16gb-512gb-ssd-15-6-fhd-win11-pro",
+          "name": "NOTEBOOK HP CORE I7 4.7GHZ, 8GB, 512GB SSD, 15.6\" FHD",
+          "url": "https://www.tcomponentes.com.uy/product-page/notebook-hp-core-i7-4-7ghz-8gb-512gb-ssd-15-6-fhd",
           "image": "https://www.tcomponentes.com.uy/true",
           "stock": true,
-          "amount": 825,
+          "amount": 849,
           "currency": "USD",
-          "priceText": "US$ 825",
-          "priceUYU": 33000,
+          "priceText": "US$ 849",
+          "priceUYU": 33960,
           "category": "Notebooks",
           "catalogSeed": "hdd"
         }
@@ -4914,6 +5542,69 @@
           "priceUYU": 38000,
           "category": "Notebooks",
           "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
+      "name": "Notebook Acer Gadget GTBook XPro i7-13620H/16Gb DDR4/SSD 512Gb/RTX3050/15.6″/W11",
+      "category": "Notebooks",
+      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
+      "image": "assets/catalog/notebook-acer-gadget-gtbook-xpro-i7-13620h-1-838e0c85cd4cd5ad.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook Acer Gadget GTBook XPro i7-13620H/16Gb DDR4/SSD 512Gb/RTX3050/15.6″/W11",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-acer-gadget-gtbook-xpro-i7-13620h-16gb-ddr4-ssd-512gb-rtx3050-15-6-w11/",
+          "image": "assets/catalog/notebook-acer-gadget-gtbook-xpro-i7-13620h-1-838e0c85cd4cd5ad.jpg",
+          "stock": false,
+          "amount": 1049.99,
+          "currency": "USD",
+          "priceText": "US$ 1.049,99",
+          "priceUYU": 41999.6,
+          "category": "Notebooks",
+          "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "Notebook Gigabyte A16 3THK3LA893SH R7 260/16Gb/SSD PCIe 512Gb/RTX5050/16″ FHD+/W11",
+      "category": "Notebooks",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/notebook-gigabyte-a16-3thk3la893sh-r7-260-16-656581450c699dd3.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook Gigabyte A16 3THK3LA893SH R7 260/16Gb/SSD PCIe 512Gb/RTX5050/16″ FHD+/W11",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-gigabyte-a16-3thk3la893sh-r7-260-16gb-ssd-pcie-512gb-rtx5050-16-fhd-w11/",
+          "image": "assets/catalog/notebook-gigabyte-a16-3thk3la893sh-r7-260-16-656581450c699dd3.png",
+          "stock": true,
+          "amount": 1874.99,
+          "currency": "USD",
+          "priceText": "US$ 1.874,99",
+          "priceUYU": 74999.6,
+          "category": "Notebooks",
+          "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "Notebook MSI Cyborg 15 B2RWGKG i7 240H/16Gb/1Tb SSD/RTX5070/15.6″ 144Hz/W11",
+      "category": "Notebooks",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/notebook-msi-cyborg-15-b2rwgkg-i7-240h-16gb--90e34317842700da.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook MSI Cyborg 15 B2RWGKG i7 240H/16Gb/1Tb SSD/RTX5070/15.6″ 144Hz/W11",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-msi-cyborg-15-b2rwgkg-i7-240h-16gb-1tb-ssd-rtx5070-15-6-144hz-w11/",
+          "image": "assets/catalog/notebook-msi-cyborg-15-b2rwgkg-i7-240h-16gb--90e34317842700da.png",
+          "stock": true,
+          "amount": 2149.99,
+          "currency": "USD",
+          "priceText": "US$ 2.149,99",
+          "priceUYU": 85999.59999999999,
+          "category": "Notebooks",
+          "catalogSeed": "ssd"
         }
       ]
     },
@@ -5551,13 +6242,13 @@
       "name": "Teclado con HUB USB-C Unitek 9 en 1 PD 100W HDMI 4K",
       "category": "Perifericos",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w--752db29a9f07a5e2.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71696.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Teclado con HUB USB-C Unitek 9 en 1 PD 100W HDMI 4K",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w-hdmi-4k-tec168/",
-          "image": "assets/catalog/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w--752db29a9f07a5e2.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_71696.jpg",
           "stock": false,
           "amount": 100.49,
           "currency": "USD",
@@ -5614,13 +6305,13 @@
       "name": "Teclado be quiet! Light Mount Silent Linear US ANSI Mecánico",
       "category": "Perifericos",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/teclado-be-quiet-light-mount-silent-linear-u-aac89450e13238e3.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72318.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Teclado be quiet! Light Mount Silent Linear US ANSI Mecánico",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-be-quiet-light-mount-silent-linear-us-ansi-mecanico-tec180/",
-          "image": "assets/catalog/teclado-be-quiet-light-mount-silent-linear-u-aac89450e13238e3.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72318.jpg",
           "stock": false,
           "amount": 181.85,
           "currency": "USD",
@@ -5803,13 +6494,13 @@
       "name": "PROCESADOR INTEL I3 12100F (1700)",
       "category": "Procesadores",
       "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/procesador-intel-i3-12100f-1700-hard-pc-00b77e9f5d2d6734.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_30003.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "PROCESADOR INTEL I3 12100F (1700)",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i3-12100f-1700-18999/",
-          "image": "assets/catalog/procesador-intel-i3-12100f-1700-hard-pc-00b77e9f5d2d6734.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_30003.jpg",
           "stock": true,
           "amount": 149.23,
           "currency": "USD",
@@ -5824,13 +6515,13 @@
       "name": "Intel Core i3 i3-14100F - 3.5 GHz - 4 núcleos - 8 hilos - 12 MB caché - FCLGA1700 Socket - Caja",
       "category": "Procesadores",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/intel-core-i3-i3-14100f-3-5-ghz-4-nucleos-8--c2185e200d22f6ff.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70378.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Intel Core i3 i3-14100F - 3.5 GHz - 4 núcleos - 8 hilos - 12 MB caché - FCLGA1700 Socket - Caja",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/intel-core-i3-i3-14100f-35-ghz-4-nucleos-8-hilos-12-mb-cache-fclga1700-socket-caja-cp141itl00/",
-          "image": "assets/catalog/intel-core-i3-i3-14100f-3-5-ghz-4-nucleos-8--c2185e200d22f6ff.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70378.jpg",
           "stock": false,
           "amount": 159.9,
           "currency": "USD",
@@ -5866,13 +6557,13 @@
       "name": "PROCESADOR INTEL I5 11400F 2.6GHZ 6 NUCLEOS (1200)",
       "category": "Procesadores",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/procesador-intel-i5-11400f-2-6ghz-6-nucleos--b68d6ed2a60b4e60.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4141.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "PROCESADOR INTEL I5 11400F 2.6GHZ 6 NUCLEOS (1200)",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-11400f-26ghz-6-nucleos-1200-17891/",
-          "image": "assets/catalog/procesador-intel-i5-11400f-2-6ghz-6-nucleos--b68d6ed2a60b4e60.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4141.jpg",
           "stock": false,
           "amount": 178.05,
           "currency": "USD",
@@ -5887,13 +6578,13 @@
       "name": "PROCESADOR INTEL I3 14100 (1700)",
       "category": "Procesadores",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/procesador-intel-i3-14100-1700-hard-pc-21164e16a7e59872.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72513.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "PROCESADOR INTEL I3 14100 (1700)",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i3-14100-1700-19967/",
-          "image": "assets/catalog/procesador-intel-i3-14100-1700-hard-pc-21164e16a7e59872.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_72513.jpg",
           "stock": false,
           "amount": 193.36,
           "currency": "USD",
@@ -5908,13 +6599,13 @@
       "name": "PROCESADOR INTEL I5 10400 2.9GHZ (1200)",
       "category": "Procesadores",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/procesador-intel-i5-10400-2-9ghz-1200-hard-p-8f136b6cf6857d5e.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4059.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "PROCESADOR INTEL I5 10400 2.9GHZ (1200)",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-10400-29ghz-1200-7339/",
-          "image": "assets/catalog/procesador-intel-i5-10400-2-9ghz-1200-hard-p-8f136b6cf6857d5e.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4059.jpg",
           "stock": false,
           "amount": 201.09,
           "currency": "USD",
@@ -6010,48 +6701,6 @@
       ]
     },
     {
-      "name": "AMD RYZEN 5 5600GT AM4",
-      "category": "Procesadores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "AMD RYZEN 5 5600GT AM4",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-5600gt-am4",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 214,
-          "currency": "USD",
-          "priceText": "US$ 214",
-          "priceUYU": 8560,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
-      "name": "AMD RYZEN 5 8600G AM5",
-      "category": "Procesadores",
-      "specs": "TComponentes - Disponible - Catalogo conectado",
-      "image": "https://www.tcomponentes.com.uy/true",
-      "offers": [
-        {
-          "store": "TComponentes",
-          "name": "AMD RYZEN 5 8600G AM5",
-          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-8600g-am5",
-          "image": "https://www.tcomponentes.com.uy/true",
-          "stock": true,
-          "amount": 269,
-          "currency": "USD",
-          "priceText": "US$ 269",
-          "priceUYU": 10760,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
       "name": "AMD RYZEN 7 5700G AM4",
       "category": "Procesadores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -6073,6 +6722,27 @@
       ]
     },
     {
+      "name": "AMD RYZEN 5 7600X AM5",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "AMD RYZEN 5 7600X AM5",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-7600x-am5",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 341,
+          "currency": "USD",
+          "priceText": "US$ 341",
+          "priceUYU": 13640,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
+        }
+      ]
+    },
+    {
       "name": "AMD RYZEN 5 9600 AM5",
       "category": "Procesadores",
       "specs": "TComponentes - Disponible - Catalogo conectado",
@@ -6088,6 +6758,27 @@
           "currency": "USD",
           "priceText": "US$ 349",
           "priceUYU": 13960,
+          "category": "Procesadores",
+          "catalogSeed": "ryzen"
+        }
+      ]
+    },
+    {
+      "name": "AMD RYZEN 5 9600X AM5",
+      "category": "Procesadores",
+      "specs": "TComponentes - Disponible - Catalogo conectado",
+      "image": "https://www.tcomponentes.com.uy/true",
+      "offers": [
+        {
+          "store": "TComponentes",
+          "name": "AMD RYZEN 5 9600X AM5",
+          "url": "https://www.tcomponentes.com.uy/product-page/amd-ryzen-5-9600x-am5",
+          "image": "https://www.tcomponentes.com.uy/true",
+          "stock": true,
+          "amount": 355,
+          "currency": "USD",
+          "priceText": "US$ 355",
+          "priceUYU": 14200,
           "category": "Procesadores",
           "catalogSeed": "ryzen"
         }
@@ -6216,6 +6907,27 @@
           "priceUYU": 25560,
           "category": "Procesadores",
           "catalogSeed": "memoria ram"
+        }
+      ]
+    },
+    {
+      "name": "Equipo Intel Core I7 12700 Alder Lake – 16Gb – SSD",
+      "category": "Procesadores",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/GENERICO-CORE.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Equipo Intel Core I7 12700 Alder Lake – 16Gb – SSD",
+          "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i7-12700-alder-lake-16gb-ssd/",
+          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/GENERICO-CORE.png",
+          "stock": true,
+          "amount": 850,
+          "currency": "USD",
+          "priceText": "US$ 850",
+          "priceUYU": 34000,
+          "category": "Procesadores",
+          "catalogSeed": "ssd"
         }
       ]
     },
