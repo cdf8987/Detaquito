@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:50:43.305Z",
+  "generatedAt": "2026-10-25T04:42:25.433Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -181,19 +181,6 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "Adata SSD PCIe NVME Legend 860 PCle Gen4 500Gb",
-          "url": "https://thotcomputacion.com.uy/producto/adata-ssd-pcie-nvme-legend-860-500gb/",
-          "image": "assets/catalog/adata-ssd-pcie-nvme-legend-860-pcle-gen4-500-958672604fbf55bb.png",
-          "stock": true,
-          "amount": 110,
-          "currency": "USD",
-          "priceText": "US$ 110",
-          "priceUYU": 4400,
-          "category": "Almacenamiento",
-          "catalogSeed": "nvme"
-        },
-        {
-          "store": "Thot Computacion",
           "name": "Kingston SSD PCIe NVMe NV3 4Tb GEN 4.0",
           "url": "https://thotcomputacion.com.uy/producto/kingston-ssd-pcie-nvme-nv3-4tb-gen-4-0/",
           "image": "assets/catalog/kingston-ssd-pcie-nvme-nv3-4tb-gen-4-0-thot--0d6be05d1ca4718c.jpg",
@@ -228,6 +215,19 @@
           "currency": "USD",
           "priceText": "US$ 210",
           "priceUYU": 8400,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Kingston SSD PCIe NVMe NV3 500Gb GEN 4.0",
+          "url": "https://thotcomputacion.com.uy/producto/kingston-ssd-pcie-nvme-nv3-500gb-gen-4-0/",
+          "image": "assets/catalog/kingston-ssd-pcie-nvme-nv3-500gb-gen-4-0-tho-c83d803eca23357e.jpg",
+          "stock": true,
+          "amount": 134.99,
+          "currency": "USD",
+          "priceText": "US$ 134,99",
+          "priceUYU": 5399.6,
           "category": "Almacenamiento",
           "catalogSeed": "nvme"
         },
@@ -350,35 +350,9 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
-          "stock": true,
-          "amount": 650,
-          "currency": "USD",
-          "priceText": "US$ 650",
-          "priceUYU": 26000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5080-gaming-pro-16gb/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-          "stock": true,
-          "amount": 2450,
-          "currency": "USD",
-          "priceText": "US$ 2.450",
-          "priceUYU": 98000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "MSI GeForce G210 1Gb Ddr3 LP",
-          "url": "https://thotcomputacion.com.uy/producto/msi-geforce-g210-1gb-ddr3-lp-2/",
-          "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
+          "name": "GPU Biostar GeForce G210 1Gb GDDR3",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-biostar-geforce-g210-1gb-gddr3/",
+          "image": "assets/catalog/gpu-biostar-geforce-g210-1gb-gddr3-thot-comp-3af498385f0c31b5.jpg",
           "stock": true,
           "amount": 44.99,
           "currency": "USD",
@@ -389,66 +363,92 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU MSI GeForce RTX 5060 Gaming Trío OC 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb-gddr7/",
-          "image": "assets/catalog/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb--f7549594f0d2d62f.jpg",
+          "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-2/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
           "stock": true,
-          "amount": 624.99,
+          "amount": 375,
           "currency": "USD",
-          "priceText": "US$ 624,99",
-          "priceUYU": 24999.6,
+          "priceText": "US$ 375",
+          "priceUYU": 15000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
+          "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 16Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-16gb/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-546487bda832352e.png",
           "stock": true,
-          "amount": 650,
+          "amount": 950,
           "currency": "USD",
-          "priceText": "US$ 650",
-          "priceUYU": 26000,
+          "priceText": "US$ 950",
+          "priceUYU": 38000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
+          "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-12gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
           "stock": true,
-          "amount": 570,
+          "amount": 1075,
           "currency": "USD",
-          "priceText": "US$ 570",
-          "priceUYU": 22800,
+          "priceText": "US$ 1.075",
+          "priceUYU": 43000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-8gb/",
-          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-72d81bd940815208.webp",
+          "name": "GPU Asus Dual GeForce RTX5060 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
+          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
           "stock": true,
-          "amount": 675,
+          "amount": 599,
           "currency": "USD",
-          "priceText": "US$ 675",
-          "priceUYU": 27000,
+          "priceText": "US$ 599",
+          "priceUYU": 23960,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Palit Geforce RTX5060 Infinity 2 OC 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb-gddr7/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb--2c5589183f6072df.png",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Windforce OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-298845747088d8cc.jpg",
           "stock": true,
-          "amount": 589.99,
+          "amount": 669,
           "currency": "USD",
-          "priceText": "US$ 589,99",
-          "priceUYU": 23599.6,
+          "priceText": "US$ 669",
+          "priceUYU": 26760,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
+          "stock": true,
+          "amount": 1899,
+          "currency": "USD",
+          "priceText": "US$ 1.899",
+          "priceUYU": 75960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Inno3d GeForce RTX 5070 12Gb Twin X2",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2/",
+          "image": "assets/catalog/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-tho-b6bacff1f0ee69e4.png",
+          "stock": true,
+          "amount": 1045,
+          "currency": "USD",
+          "priceText": "US$ 1.045",
+          "priceUYU": 41800,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -1777,7 +1777,7 @@
           "store": "Hard PC",
           "name": "Intel Core i3 i3-14100 - 3.5 GHz - 4 núcleos - 8 hilos - 12 MB caché - FCLGA1700 Socket - Caja",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/intel-core-i3-i3-14100-35-ghz-4-nucleos-8-hilos-12-mb-cache-fclga1700-socket-caja-cp141itl02/",
-          "image": "assets/catalog/intel-core-i3-i3-14100-3-5-ghz-4-nucleos-8-h-f1b5db008d3ce31f.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70377.jpg",
           "stock": false,
           "amount": 213.71,
           "currency": "USD",
@@ -1887,6 +1887,19 @@
           "currency": "USD",
           "priceText": "US$ 181,28",
           "priceUYU": 7251.2,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "Hard PC",
+          "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
+          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
+          "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
+          "stock": false,
+          "amount": 342.6,
+          "currency": "USD",
+          "priceText": "US$ 342,6",
+          "priceUYU": 13704,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         },
@@ -2022,6 +2035,19 @@
         },
         {
           "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS ROSA",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
+          "image": "assets/catalog/mouse-logitech-m170-ws-rosa-hard-pc-abbb8f164091654c.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "assets/catalog/mouse-logitech-m170-ws-blanco-hard-pc-46bb8096e30f6dca.jpg",
@@ -2051,19 +2077,6 @@
           "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
           "image": "assets/catalog/mouse-logitech-m170-ws-gris-azulado-hard-pc-ee908a450f6171f9.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS ROSA",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-rosa-hard-pc-abbb8f164091654c.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -2467,27 +2480,6 @@
       ]
     },
     {
-      "name": "Adata SSD PCIe NVME Legend 860 PCle Gen4 500Gb",
-      "category": "Almacenamiento",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/adata-ssd-pcie-nvme-legend-860-pcle-gen4-500-958672604fbf55bb.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Adata SSD PCIe NVME Legend 860 PCle Gen4 500Gb",
-          "url": "https://thotcomputacion.com.uy/producto/adata-ssd-pcie-nvme-legend-860-500gb/",
-          "image": "assets/catalog/adata-ssd-pcie-nvme-legend-860-pcle-gen4-500-958672604fbf55bb.png",
-          "stock": true,
-          "amount": 110,
-          "currency": "USD",
-          "priceText": "US$ 110",
-          "priceUYU": 4400,
-          "category": "Almacenamiento",
-          "catalogSeed": "nvme"
-        }
-      ]
-    },
-    {
       "name": "Hiksemi Wave SSD 480Gb",
       "category": "Almacenamiento",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -2526,6 +2518,27 @@
           "priceUYU": 4600,
           "category": "Almacenamiento",
           "catalogSeed": "ssd"
+        }
+      ]
+    },
+    {
+      "name": "Kingston SSD PCIe NVMe NV3 500Gb GEN 4.0",
+      "category": "Almacenamiento",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/kingston-ssd-pcie-nvme-nv3-500gb-gen-4-0-tho-c83d803eca23357e.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Kingston SSD PCIe NVMe NV3 500Gb GEN 4.0",
+          "url": "https://thotcomputacion.com.uy/producto/kingston-ssd-pcie-nvme-nv3-500gb-gen-4-0/",
+          "image": "assets/catalog/kingston-ssd-pcie-nvme-nv3-500gb-gen-4-0-tho-c83d803eca23357e.jpg",
+          "stock": true,
+          "amount": 134.99,
+          "currency": "USD",
+          "priceText": "US$ 134,99",
+          "priceUYU": 5399.6,
+          "category": "Almacenamiento",
+          "catalogSeed": "nvme"
         }
       ]
     },
@@ -3349,16 +3362,16 @@
       ]
     },
     {
-      "name": "MSI GeForce G210 1Gb Ddr3 LP",
+      "name": "GPU Biostar GeForce G210 1Gb GDDR3",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
+      "image": "assets/catalog/gpu-biostar-geforce-g210-1gb-gddr3-thot-comp-3af498385f0c31b5.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "MSI GeForce G210 1Gb Ddr3 LP",
-          "url": "https://thotcomputacion.com.uy/producto/msi-geforce-g210-1gb-ddr3-lp-2/",
-          "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
+          "name": "GPU Biostar GeForce G210 1Gb GDDR3",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-biostar-geforce-g210-1gb-gddr3/",
+          "image": "assets/catalog/gpu-biostar-geforce-g210-1gb-gddr3-thot-comp-3af498385f0c31b5.jpg",
           "stock": true,
           "amount": 44.99,
           "currency": "USD",
@@ -3412,6 +3425,27 @@
       ]
     },
     {
+      "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-2/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
+          "stock": true,
+          "amount": 375,
+          "currency": "USD",
+          "priceText": "US$ 375",
+          "priceUYU": 15000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU PALIT GeForce RTX 5050 Stormx OC 8GB",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3450,27 +3484,6 @@
           "priceUYU": 21000,
           "category": "Graficas",
           "catalogSeed": "rtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
-          "stock": true,
-          "amount": 570,
-          "currency": "USD",
-          "priceText": "US$ 570",
-          "priceUYU": 22800,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3517,27 +3530,6 @@
       ]
     },
     {
-      "name": "GPU Palit Geforce RTX5060 Infinity 2 OC 8Gb GDDR7",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb--2c5589183f6072df.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit Geforce RTX5060 Infinity 2 OC 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb-gddr7/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb--2c5589183f6072df.png",
-          "stock": true,
-          "amount": 589.99,
-          "currency": "USD",
-          "priceText": "US$ 589,99",
-          "priceUYU": 23599.6,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
       "name": "GPU Gigabyte Radeon RX9060 XT Gaming 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3555,6 +3547,27 @@
           "priceUYU": 23600,
           "category": "Graficas",
           "catalogSeed": "radeon"
+        }
+      ]
+    },
+    {
+      "name": "GPU Asus Dual GeForce RTX5060 8GB",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Asus Dual GeForce RTX5060 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
+          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
+          "stock": true,
+          "amount": 599,
+          "currency": "USD",
+          "priceText": "US$ 599",
+          "priceUYU": 23960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3580,84 +3593,21 @@
       ]
     },
     {
-      "name": "GPU MSI GeForce RTX 5060 Gaming Trío OC 8Gb GDDR7",
+      "name": "GPU Gigabyte GeForce RTX5060 TI Windforce OC 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb--f7549594f0d2d62f.jpg",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-298845747088d8cc.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU MSI GeForce RTX 5060 Gaming Trío OC 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb-gddr7/",
-          "image": "assets/catalog/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb--f7549594f0d2d62f.jpg",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Windforce OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-298845747088d8cc.jpg",
           "stock": true,
-          "amount": 624.99,
+          "amount": 669,
           "currency": "USD",
-          "priceText": "US$ 624,99",
-          "priceUYU": 24999.6,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
-          "stock": true,
-          "amount": 650,
-          "currency": "USD",
-          "priceText": "US$ 650",
-          "priceUYU": 26000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
-          "stock": true,
-          "amount": 650,
-          "currency": "USD",
-          "priceText": "US$ 650",
-          "priceUYU": 26000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 8Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-72d81bd940815208.webp",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-8gb/",
-          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-72d81bd940815208.webp",
-          "stock": true,
-          "amount": 675,
-          "currency": "USD",
-          "priceText": "US$ 675",
-          "priceUYU": 27000,
+          "priceText": "US$ 669",
+          "priceUYU": 26760,
           "category": "Graficas",
           "catalogSeed": "gtx"
         }
@@ -3727,6 +3677,27 @@
       ]
     },
     {
+      "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 16Gb",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-546487bda832352e.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 16Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-16gb/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-546487bda832352e.png",
+          "stock": true,
+          "amount": 950,
+          "currency": "USD",
+          "priceText": "US$ 950",
+          "priceUYU": 38000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "Equipo AMD Ryzen 5 5500 Pro Gamer – SSD – 16Gb – Geforce RTX3050 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3790,6 +3761,27 @@
       ]
     },
     {
+      "name": "GPU Inno3d GeForce RTX 5070 12Gb Twin X2",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-tho-b6bacff1f0ee69e4.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Inno3d GeForce RTX 5070 12Gb Twin X2",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2/",
+          "image": "assets/catalog/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-tho-b6bacff1f0ee69e4.png",
+          "stock": true,
+          "amount": 1045,
+          "currency": "USD",
+          "priceText": "US$ 1.045",
+          "priceUYU": 41800,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU Palit Geforce RTX 5070 INFINITY 3 OC 12Gb GDDR7",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3807,6 +3799,27 @@
           "priceUYU": 41999.6,
           "category": "Graficas",
           "catalogSeed": "rtx"
+        }
+      ]
+    },
+    {
+      "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-12gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
+          "stock": true,
+          "amount": 1075,
+          "currency": "USD",
+          "priceText": "US$ 1.075",
+          "priceUYU": 43000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3895,6 +3908,27 @@
       ]
     },
     {
+      "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
+          "stock": true,
+          "amount": 1899,
+          "currency": "USD",
+          "priceText": "US$ 1.899",
+          "priceUYU": 75960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU Inno3d GeForce RTX 5080 X3 16Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3912,27 +3946,6 @@
           "priceUYU": 96000,
           "category": "Graficas",
           "catalogSeed": "rtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5080-gaming-pro-16gb/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-          "stock": true,
-          "amount": 2450,
-          "currency": "USD",
-          "priceText": "US$ 2.450",
-          "priceUYU": 98000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
         }
       ]
     },
@@ -4750,6 +4763,27 @@
           "currency": "USD",
           "priceText": "US$ 181,28",
           "priceUYU": 7251.2,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
+      "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
+      "category": "Notebooks",
+      "specs": "Hard PC - Sin stock - Catalogo conectado",
+      "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
+      "offers": [
+        {
+          "store": "Hard PC",
+          "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
+          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
+          "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
+          "stock": false,
+          "amount": 342.6,
+          "currency": "USD",
+          "priceText": "US$ 342,6",
+          "priceUYU": 13704,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         }
@@ -5725,13 +5759,13 @@
       "name": "Intel Core i3 i3-14100 - 3.5 GHz - 4 núcleos - 8 hilos - 12 MB caché - FCLGA1700 Socket - Caja",
       "category": "Procesadores",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/intel-core-i3-i3-14100-3-5-ghz-4-nucleos-8-h-f1b5db008d3ce31f.jpg",
+      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70377.jpg",
       "offers": [
         {
           "store": "Hard PC",
           "name": "Intel Core i3 i3-14100 - 3.5 GHz - 4 núcleos - 8 hilos - 12 MB caché - FCLGA1700 Socket - Caja",
           "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/intel-core-i3-i3-14100-35-ghz-4-nucleos-8-hilos-12-mb-cache-fclga1700-socket-caja-cp141itl02/",
-          "image": "assets/catalog/intel-core-i3-i3-14100-3-5-ghz-4-nucleos-8-h-f1b5db008d3ce31f.jpg",
+          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70377.jpg",
           "stock": false,
           "amount": 213.71,
           "currency": "USD",
