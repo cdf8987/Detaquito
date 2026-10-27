@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:03:07.856Z",
+  "generatedAt": "2026-10-27T22:15:08.175Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -350,19 +350,6 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
-          "stock": false,
-          "amount": 570,
-          "currency": "USD",
-          "priceText": "US$ 570",
-          "priceUYU": 22800,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
           "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 16Gb",
           "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-16gb/",
           "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-546487bda832352e.png",
@@ -371,6 +358,45 @@
           "currency": "USD",
           "priceText": "US$ 950",
           "priceUYU": 38000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit GeForce RTX 5050 Dual 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5050-dual-8gb/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx-5050-dual-8gb-thot-com-a8c4807882cbb039.jpg",
+          "stock": true,
+          "amount": 499,
+          "currency": "USD",
+          "priceText": "US$ 499",
+          "priceUYU": 19960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
+          "stock": true,
+          "amount": 650,
+          "currency": "USD",
+          "priceText": "US$ 650",
+          "priceUYU": 26000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Gaming OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8g-9b331485b7b6e4d2.jpg",
+          "stock": true,
+          "amount": 675,
+          "currency": "USD",
+          "priceText": "US$ 675",
+          "priceUYU": 27000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -389,45 +415,6 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
-          "stock": true,
-          "amount": 570,
-          "currency": "USD",
-          "priceText": "US$ 570",
-          "priceUYU": 22800,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
-          "stock": false,
-          "amount": 1899,
-          "currency": "USD",
-          "priceText": "US$ 1.899",
-          "priceUYU": 75960,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU MSI GeForce RTX 5060 Gaming Trío OC 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb-gddr7/",
-          "image": "assets/catalog/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb--f7549594f0d2d62f.jpg",
-          "stock": true,
-          "amount": 624.99,
-          "currency": "USD",
-          "priceText": "US$ 624,99",
-          "priceUYU": 24999.6,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
           "name": "GPU MSI GeForce RTX 3050 LP OC 6Gb DDR6",
           "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6/",
           "image": "assets/catalog/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6-thot-bfab022799eb14c9.jpg",
@@ -441,14 +428,27 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Asus Dual GeForce RTX5060 8GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
-          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
-          "stock": true,
-          "amount": 599,
+          "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-12gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
+          "stock": false,
+          "amount": 1075,
           "currency": "USD",
-          "priceText": "US$ 599",
-          "priceUYU": 23960,
+          "priceText": "US$ 1.075",
+          "priceUYU": 43000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU MSI GeForce RTX5060 Shadow 2X OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-shadow-2x-oc-8gb/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx5060-shadow-2x-oc-8gb-tho-74357ce0df596183.jpg",
+          "stock": true,
+          "amount": 570,
+          "currency": "USD",
+          "priceText": "US$ 570",
+          "priceUYU": 22800,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -2048,6 +2048,19 @@
         },
         {
           "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
+          "image": "assets/catalog/mouse-logitech-m170-ws-gris-azulado-hard-pc-ee908a450f6171f9.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS ROSA",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
           "image": "assets/catalog/mouse-logitech-m170-ws-rosa-hard-pc-abbb8f164091654c.jpg",
@@ -2064,7 +2077,7 @@
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "assets/catalog/mouse-logitech-m170-ws-blanco-hard-pc-46bb8096e30f6dca.jpg",
-          "stock": false,
+          "stock": true,
           "amount": 10.03,
           "currency": "USD",
           "priceText": "US$ 10,03",
@@ -2077,19 +2090,6 @@
           "name": "MOUSE LOGITECH M170 WS NEGRO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-negro-13001/",
           "image": "assets/catalog/mouse-logitech-m170-ws-negro-hard-pc-65917d7267dc50a4.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-gris-azulado-hard-pc-ee908a450f6171f9.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -2369,7 +2369,7 @@
       "ok": true,
       "offers": [],
       "seeds": 16,
-      "error": "ssd: This operation was aborted"
+      "error": ""
     },
     {
       "shop": "LINK.UY",
@@ -2380,10 +2380,10 @@
     },
     {
       "shop": "PC Compu",
-      "ok": false,
+      "ok": true,
       "offers": [],
       "seeds": 16,
-      "error": "ssd: This operation was aborted"
+      "error": ""
     },
     {
       "shop": "Pc Parts Uy",
@@ -3438,6 +3438,27 @@
       ]
     },
     {
+      "name": "GPU Palit GeForce RTX 5050 Dual 8GB",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-palit-geforce-rtx-5050-dual-8gb-thot-com-a8c4807882cbb039.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit GeForce RTX 5050 Dual 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5050-dual-8gb/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx-5050-dual-8gb-thot-com-a8c4807882cbb039.jpg",
+          "stock": true,
+          "amount": 499,
+          "currency": "USD",
+          "priceText": "US$ 499",
+          "priceUYU": 19960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU PALIT GeForce RTX 5050 Dual OC 8GB",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3459,37 +3480,16 @@
       ]
     },
     {
-      "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
-          "stock": false,
-          "amount": 570,
-          "currency": "USD",
-          "priceText": "US$ 570",
-          "priceUYU": 22800,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
+      "name": "GPU MSI GeForce RTX5060 Shadow 2X OC 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
+      "image": "assets/catalog/gpu-msi-geforce-rtx5060-shadow-2x-oc-8gb-tho-74357ce0df596183.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
+          "name": "GPU MSI GeForce RTX5060 Shadow 2X OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-shadow-2x-oc-8gb/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx5060-shadow-2x-oc-8gb-tho-74357ce0df596183.jpg",
           "stock": true,
           "amount": 570,
           "currency": "USD",
@@ -3564,27 +3564,6 @@
       ]
     },
     {
-      "name": "GPU Asus Dual GeForce RTX5060 8GB",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Asus Dual GeForce RTX5060 8GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
-          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
-          "stock": true,
-          "amount": 599,
-          "currency": "USD",
-          "priceText": "US$ 599",
-          "priceUYU": 23960,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
       "name": "GPU Gigabyte Radeon RX9060XT Gaming OC 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3606,21 +3585,42 @@
       ]
     },
     {
-      "name": "GPU MSI GeForce RTX 5060 Gaming Trío OC 8Gb GDDR7",
+      "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb--f7549594f0d2d62f.jpg",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU MSI GeForce RTX 5060 Gaming Trío OC 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb-gddr7/",
-          "image": "assets/catalog/gpu-msi-geforce-rtx-5060-gaming-trio-oc-8gb--f7549594f0d2d62f.jpg",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
           "stock": true,
-          "amount": 624.99,
+          "amount": 650,
           "currency": "USD",
-          "priceText": "US$ 624,99",
-          "priceUYU": 24999.6,
+          "priceText": "US$ 650",
+          "priceUYU": 26000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
+      "name": "GPU Gigabyte GeForce RTX5060 TI Gaming OC 8Gb",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8g-9b331485b7b6e4d2.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Gaming OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8g-9b331485b7b6e4d2.jpg",
+          "stock": true,
+          "amount": 675,
+          "currency": "USD",
+          "priceText": "US$ 675",
+          "priceUYU": 27000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         }
@@ -3816,6 +3816,27 @@
       ]
     },
     {
+      "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-12gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
+          "stock": false,
+          "amount": 1075,
+          "currency": "USD",
+          "priceText": "US$ 1.075",
+          "priceUYU": 43000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU Gigabyte GeForce RTX 5070 Aorus Infinity 12Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3896,27 +3917,6 @@
           "priceUYU": 57999.6,
           "category": "Graficas",
           "catalogSeed": "radeon"
-        }
-      ]
-    },
-    {
-      "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
-          "stock": false,
-          "amount": 1899,
-          "currency": "USD",
-          "priceText": "US$ 1.899",
-          "priceUYU": 75960,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
         }
       ]
     },
@@ -5141,7 +5141,7 @@
     {
       "name": "MOUSE LOGITECH M170 WS BLANCO",
       "category": "Perifericos",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
+      "specs": "Hard PC - Disponible - Catalogo conectado",
       "image": "assets/catalog/mouse-logitech-m170-ws-blanco-hard-pc-46bb8096e30f6dca.jpg",
       "offers": [
         {
@@ -5149,7 +5149,7 @@
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "assets/catalog/mouse-logitech-m170-ws-blanco-hard-pc-46bb8096e30f6dca.jpg",
-          "stock": false,
+          "stock": true,
           "amount": 10.03,
           "currency": "USD",
           "priceText": "US$ 10,03",
