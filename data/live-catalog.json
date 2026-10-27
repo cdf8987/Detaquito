@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:40:55.664Z",
+  "generatedAt": "2026-10-27T05:06:20.029Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -350,6 +350,32 @@
         },
         {
           "store": "Thot Computacion",
+          "name": "GPU Inno3d GeForce RTX 3050 6GB Twin X2 V2",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-3050-6gb-twin-x2-v2/",
+          "image": "assets/catalog/gpu-inno3d-geforce-rtx-3050-6gb-twin-x2-v2-t-909688c4e5528e14.png",
+          "stock": true,
+          "amount": 349.99,
+          "currency": "USD",
+          "priceText": "US$ 349,99",
+          "priceUYU": 13999.6,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Asus Dual GeForce RTX5060 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
+          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
+          "stock": true,
+          "amount": 599,
+          "currency": "USD",
+          "priceText": "US$ 599",
+          "priceUYU": 23960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
           "name": "GPU MSI GeForce RTX 3050 LP OC 6Gb DDR6",
           "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6/",
           "image": "assets/catalog/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6-thot-bfab022799eb14c9.jpg",
@@ -363,92 +389,66 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
-          "stock": false,
-          "amount": 1899,
+          "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 16Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-16gb/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-546487bda832352e.png",
+          "stock": true,
+          "amount": 950,
           "currency": "USD",
-          "priceText": "US$ 1.899",
-          "priceUYU": 75960,
+          "priceText": "US$ 950",
+          "priceUYU": 38000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
+          "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
           "stock": false,
+          "amount": 650,
+          "currency": "USD",
+          "priceText": "US$ 650",
+          "priceUYU": 26000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit GeForce RTX3050 Stormx 6GB DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx3050-stormx-6gb-ddr6/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx3050-stormx-6gb-ddr6-th-37cc9184e139f096.jpg",
+          "stock": true,
+          "amount": 349.99,
+          "currency": "USD",
+          "priceText": "US$ 349,99",
+          "priceUYU": 13999.6,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-2/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
+          "stock": true,
+          "amount": 375,
+          "currency": "USD",
+          "priceText": "US$ 375",
+          "priceUYU": 15000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
+          "stock": true,
           "amount": 570,
           "currency": "USD",
           "priceText": "US$ 570",
           "priceUYU": 22800,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "MSI GeForce G210 1Gb Ddr3 LP",
-          "url": "https://thotcomputacion.com.uy/producto/msi-geforce-g210-1gb-ddr3-lp-2/",
-          "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
-          "stock": true,
-          "amount": 44.99,
-          "currency": "USD",
-          "priceText": "US$ 44,99",
-          "priceUYU": 1799.6000000000001,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle Max OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-max-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-max-oc-8g-c42c5c4d7b8d3577.png",
-          "stock": true,
-          "amount": 575,
-          "currency": "USD",
-          "priceText": "US$ 575",
-          "priceUYU": 23000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5080-gaming-pro-16gb/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-          "stock": true,
-          "amount": 2450,
-          "currency": "USD",
-          "priceText": "US$ 2.450",
-          "priceUYU": 98000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-12gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
-          "stock": true,
-          "amount": 1075,
-          "currency": "USD",
-          "priceText": "US$ 1.075",
-          "priceUYU": 43000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-8gb/",
-          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-72d81bd940815208.webp",
-          "stock": true,
-          "amount": 675,
-          "currency": "USD",
-          "priceText": "US$ 675",
-          "priceUYU": 27000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -870,6 +870,32 @@
         },
         {
           "store": "Thot Computacion",
+          "name": "Notebook ASUS VIVOBOOK X1504VA-BQ5310W Core 7 150U/16Gb/512Gb PCIe/15,6″/W11",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-asus-vivobook-x1504va-bq5310w-core-7-150u-16gb-512gb-pcie-156-w11/",
+          "image": "assets/catalog/notebook-asus-vivobook-x1504va-bq5310w-core--d0fe6db4e7a7f99a.jpg",
+          "stock": true,
+          "amount": 999,
+          "currency": "USD",
+          "priceText": "US$ 999",
+          "priceUYU": 39960,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook Asus TUF FA506NCG-HN338 R7 8845HS/16Gb/M.2 512Gb/RTX3050/15.6″",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-asus-tuf-fa506ncg-hn338-r7-8845hs-16gb-m-2-512gb-rtx3050-15-6/",
+          "image": "assets/catalog/notebook-asus-tuf-fa506ncg-hn338-r7-8845hs-1-38cc5e8c9d35dd98.webp",
+          "stock": true,
+          "amount": 1075,
+          "currency": "USD",
+          "priceText": "US$ 1.075",
+          "priceUYU": 43000,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        },
+        {
+          "store": "Thot Computacion",
           "name": "Notebook ASUS VIVOBOOK X1504VA-BQ4178W Intel Core 5 120U/8Gb/512Gb PCIe/15,6″/W11",
           "url": "https://thotcomputacion.com.uy/producto/notebook-asus-vivobook-x1504va-bq4178w-intel-core-5-120u-8gb-512gb-pcie-156-w11/",
           "image": "assets/catalog/notebook-asus-vivobook-x1504va-bq4178w-intel-afef5979e1f32e64.jpg",
@@ -943,32 +969,6 @@
           "currency": "USD",
           "priceText": "US$ 740",
           "priceUYU": 29600,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Notebook ASUS VIVOBOOK E1504FA-BQ2771W R3 30/8Gb/M.2 512Gb/15.6″/W11",
-          "url": "https://thotcomputacion.com.uy/producto/notebook-asus-vivobook-e1504fa-bq2771w-r3-30-8gb-m-2-512gb-15-6-w11/",
-          "image": "assets/catalog/notebook-asus-vivobook-e1504fa-bq2771w-r3-30-e3b3c8703e4aa93e.webp",
-          "stock": true,
-          "amount": 575,
-          "currency": "USD",
-          "priceText": "US$ 575",
-          "priceUYU": 23000,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Notebook ASUS VIVOBOOK E1504FA-BQ4797W ATHLON SILVER 10/8Gb/M.2 256Gb/15.6″/W11",
-          "url": "https://thotcomputacion.com.uy/producto/notebook-asus-vivobook-e1504fa-bq4797w-athlon-silver-10-8gb-m-2-256gb-15-6-w11/",
-          "image": "assets/catalog/notebook-asus-vivobook-e1504fa-bq4797w-athlo-5f47f0690e446352.webp",
-          "stock": true,
-          "amount": 489.99,
-          "currency": "USD",
-          "priceText": "US$ 489,99",
-          "priceUYU": 19599.6,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         },
@@ -1286,6 +1286,19 @@
         },
         {
           "store": "Thot Computacion",
+          "name": "Memoria Adata Armax 16Gb DDR5 6000Mhz",
+          "url": "https://thotcomputacion.com.uy/producto/memoria-adata-armax-16gb-ddr5-6000mhz/",
+          "image": "assets/catalog/memoria-adata-armax-16gb-ddr5-6000mhz-thot-c-ad9055810658a328.webp",
+          "stock": true,
+          "amount": 390,
+          "currency": "USD",
+          "priceText": "US$ 390",
+          "priceUYU": 15600,
+          "category": "Memorias",
+          "catalogSeed": "memoria ram"
+        },
+        {
+          "store": "Thot Computacion",
           "name": "Memoria Kingston Fury Beast 16gb DDR5 6400Mhz White",
           "url": "https://thotcomputacion.com.uy/producto/memoria-kingston-fury-beast-16gb-ddr5-6400mhz-white/",
           "image": "assets/catalog/memoria-kingston-fury-beast-16gb-ddr5-6400mh-2a8a15cfbabb3d09.webp",
@@ -1372,19 +1385,6 @@
           "currency": "USD",
           "priceText": "US$ 180",
           "priceUYU": 7200,
-          "category": "Memorias",
-          "catalogSeed": "memoria ram"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Memoria Kingston KVR 16gb DDR5 5600Mhz",
-          "url": "https://thotcomputacion.com.uy/producto/memoria-kingston-kvr-16gb-ddr5-5600mhz/",
-          "image": "assets/catalog/memoria-kingston-kvr-16gb-ddr5-5600mhz-thot--a31e8287f95fece9.jpg",
-          "stock": true,
-          "amount": 289.99,
-          "currency": "USD",
-          "priceText": "US$ 289,99",
-          "priceUYU": 11599.6,
           "category": "Memorias",
           "catalogSeed": "memoria ram"
         },
@@ -2035,19 +2035,6 @@
         },
         {
           "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS ROSA",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-rosa-hard-pc-abbb8f164091654c.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
           "name": "MOUSE LOGITECH M170 WS BLANCO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
           "image": "assets/catalog/mouse-logitech-m170-ws-blanco-hard-pc-46bb8096e30f6dca.jpg",
@@ -2077,6 +2064,19 @@
           "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
           "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
           "image": "assets/catalog/mouse-logitech-m170-ws-gris-azulado-hard-pc-ee908a450f6171f9.jpg",
+          "stock": true,
+          "amount": 10.03,
+          "currency": "USD",
+          "priceText": "US$ 10,03",
+          "priceUYU": 401.2,
+          "category": "Perifericos",
+          "catalogSeed": "mouse"
+        },
+        {
+          "store": "Hard PC",
+          "name": "MOUSE LOGITECH M170 WS ROSA",
+          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
+          "image": "assets/catalog/mouse-logitech-m170-ws-rosa-hard-pc-abbb8f164091654c.jpg",
           "stock": true,
           "amount": 10.03,
           "currency": "USD",
@@ -3341,27 +3341,6 @@
       ]
     },
     {
-      "name": "MSI GeForce G210 1Gb Ddr3 LP",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "MSI GeForce G210 1Gb Ddr3 LP",
-          "url": "https://thotcomputacion.com.uy/producto/msi-geforce-g210-1gb-ddr3-lp-2/",
-          "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
-          "stock": true,
-          "amount": 44.99,
-          "currency": "USD",
-          "priceText": "US$ 44,99",
-          "priceUYU": 1799.6000000000001,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
       "name": "PROCESADOR INTEL I5 10400F 2.9GHZ (1200) NO INCLUYE TARJETA DE VIDEO",
       "category": "Graficas",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -3383,6 +3362,27 @@
       ]
     },
     {
+      "name": "GPU Inno3d GeForce RTX 3050 6GB Twin X2 V2",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-inno3d-geforce-rtx-3050-6gb-twin-x2-v2-t-909688c4e5528e14.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Inno3d GeForce RTX 3050 6GB Twin X2 V2",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-3050-6gb-twin-x2-v2/",
+          "image": "assets/catalog/gpu-inno3d-geforce-rtx-3050-6gb-twin-x2-v2-t-909688c4e5528e14.png",
+          "stock": true,
+          "amount": 349.99,
+          "currency": "USD",
+          "priceText": "US$ 349,99",
+          "priceUYU": 13999.6,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU MSI GeForce RTX 3050 LP OC 6Gb DDR6",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3393,6 +3393,27 @@
           "name": "GPU MSI GeForce RTX 3050 LP OC 6Gb DDR6",
           "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6/",
           "image": "assets/catalog/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6-thot-bfab022799eb14c9.jpg",
+          "stock": true,
+          "amount": 349.99,
+          "currency": "USD",
+          "priceText": "US$ 349,99",
+          "priceUYU": 13999.6,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
+      "name": "GPU Palit GeForce RTX3050 Stormx 6GB DDR6",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-palit-geforce-rtx3050-stormx-6gb-ddr6-th-37cc9184e139f096.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit GeForce RTX3050 Stormx 6GB DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx3050-stormx-6gb-ddr6/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx3050-stormx-6gb-ddr6-th-37cc9184e139f096.jpg",
           "stock": true,
           "amount": 349.99,
           "currency": "USD",
@@ -3421,6 +3442,27 @@
           "priceUYU": 15000,
           "category": "Graficas",
           "catalogSeed": "rtx"
+        }
+      ]
+    },
+    {
+      "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-2/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
+          "stock": true,
+          "amount": 375,
+          "currency": "USD",
+          "priceText": "US$ 375",
+          "priceUYU": 15000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3467,42 +3509,21 @@
       ]
     },
     {
-      "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
+      "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
       "category": "Graficas",
-      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-8gb-th-acc441c3e6fab9ae.png",
-          "stock": false,
+          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
+          "stock": true,
           "amount": 570,
           "currency": "USD",
           "priceText": "US$ 570",
           "priceUYU": 22800,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Gigabyte GeForce RTX5060 Eagle Max OC 8Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-max-oc-8g-c42c5c4d7b8d3577.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle Max OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-max-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-max-oc-8g-c42c5c4d7b8d3577.png",
-          "stock": true,
-          "amount": 575,
-          "currency": "USD",
-          "priceText": "US$ 575",
-          "priceUYU": 23000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         }
@@ -3572,6 +3593,27 @@
       ]
     },
     {
+      "name": "GPU Asus Dual GeForce RTX5060 8GB",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Asus Dual GeForce RTX5060 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
+          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
+          "stock": true,
+          "amount": 599,
+          "currency": "USD",
+          "priceText": "US$ 599",
+          "priceUYU": 23960,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU Gigabyte Radeon RX9060XT Gaming OC 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3593,21 +3635,21 @@
       ]
     },
     {
-      "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 8Gb",
+      "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
       "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-72d81bd940815208.webp",
+      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
+      "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-8gb/",
-          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-72d81bd940815208.webp",
-          "stock": true,
-          "amount": 675,
+          "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
+          "stock": false,
+          "amount": 650,
           "currency": "USD",
-          "priceText": "US$ 675",
-          "priceUYU": 27000,
+          "priceText": "US$ 650",
+          "priceUYU": 26000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         }
@@ -3673,6 +3715,27 @@
           "priceUYU": 34760,
           "category": "Graficas",
           "catalogSeed": "rtx"
+        }
+      ]
+    },
+    {
+      "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 16Gb",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-546487bda832352e.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU MSI GeForce RTX5060 TI Ventus 2X OC Plus 16Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-16gb/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-ventus-2x-oc-plus-546487bda832352e.png",
+          "stock": true,
+          "amount": 950,
+          "currency": "USD",
+          "priceText": "US$ 950",
+          "priceUYU": 38000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3761,27 +3824,6 @@
       ]
     },
     {
-      "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX 5070 Eagle OC SFF 12GB ICE",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-12gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-eagle-oc-sff-1-fb7e4bdffd062d38.jpg",
-          "stock": true,
-          "amount": 1075,
-          "currency": "USD",
-          "priceText": "US$ 1.075",
-          "priceUYU": 43000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
       "name": "GPU Gigabyte GeForce RTX 5070 Aorus Infinity 12Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3866,27 +3908,6 @@
       ]
     },
     {
-      "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX 5070 Ti Eagle OC ICE SFF 16GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5070-ti-eagle-oc-ic-c1851470e1118ab4.png",
-          "stock": false,
-          "amount": 1899,
-          "currency": "USD",
-          "priceText": "US$ 1.899",
-          "priceUYU": 75960,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
       "name": "GPU Inno3d GeForce RTX 5080 X3 16Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3904,27 +3925,6 @@
           "priceUYU": 96000,
           "category": "Graficas",
           "catalogSeed": "rtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5080-gaming-pro-16gb/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-          "stock": true,
-          "amount": 2450,
-          "currency": "USD",
-          "priceText": "US$ 2.450",
-          "priceUYU": 98000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
         }
       ]
     },
@@ -4013,21 +4013,21 @@
       ]
     },
     {
-      "name": "Memoria Kingston KVR 16gb DDR5 5600Mhz",
+      "name": "Memoria Adata Armax 16Gb DDR5 6000Mhz",
       "category": "Memorias",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/memoria-kingston-kvr-16gb-ddr5-5600mhz-thot--a31e8287f95fece9.jpg",
+      "image": "assets/catalog/memoria-adata-armax-16gb-ddr5-6000mhz-thot-c-ad9055810658a328.webp",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "Memoria Kingston KVR 16gb DDR5 5600Mhz",
-          "url": "https://thotcomputacion.com.uy/producto/memoria-kingston-kvr-16gb-ddr5-5600mhz/",
-          "image": "assets/catalog/memoria-kingston-kvr-16gb-ddr5-5600mhz-thot--a31e8287f95fece9.jpg",
+          "name": "Memoria Adata Armax 16Gb DDR5 6000Mhz",
+          "url": "https://thotcomputacion.com.uy/producto/memoria-adata-armax-16gb-ddr5-6000mhz/",
+          "image": "assets/catalog/memoria-adata-armax-16gb-ddr5-6000mhz-thot-c-ad9055810658a328.webp",
           "stock": true,
-          "amount": 289.99,
+          "amount": 390,
           "currency": "USD",
-          "priceText": "US$ 289,99",
-          "priceUYU": 11599.6,
+          "priceText": "US$ 390",
+          "priceUYU": 15600,
           "category": "Memorias",
           "catalogSeed": "memoria ram"
         }
@@ -4769,27 +4769,6 @@
       ]
     },
     {
-      "name": "Notebook ASUS VIVOBOOK E1504FA-BQ4797W ATHLON SILVER 10/8Gb/M.2 256Gb/15.6″/W11",
-      "category": "Notebooks",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/notebook-asus-vivobook-e1504fa-bq4797w-athlo-5f47f0690e446352.webp",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Notebook ASUS VIVOBOOK E1504FA-BQ4797W ATHLON SILVER 10/8Gb/M.2 256Gb/15.6″/W11",
-          "url": "https://thotcomputacion.com.uy/producto/notebook-asus-vivobook-e1504fa-bq4797w-athlon-silver-10-8gb-m-2-256gb-15-6-w11/",
-          "image": "assets/catalog/notebook-asus-vivobook-e1504fa-bq4797w-athlo-5f47f0690e446352.webp",
-          "stock": true,
-          "amount": 489.99,
-          "currency": "USD",
-          "priceText": "US$ 489,99",
-          "priceUYU": 19599.6,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
       "name": "Notebook Chuwi Ryzen 5 3.5Ghz, 8GB, 256GB, 15.6\" FHD, Español",
       "category": "Notebooks",
       "specs": "Hard PC - Sin stock - Catalogo conectado",
@@ -4807,27 +4786,6 @@
           "priceUYU": 22438.800000000003,
           "category": "Notebooks",
           "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
-      "name": "Notebook ASUS VIVOBOOK E1504FA-BQ2771W R3 30/8Gb/M.2 512Gb/15.6″/W11",
-      "category": "Notebooks",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/notebook-asus-vivobook-e1504fa-bq2771w-r3-30-e3b3c8703e4aa93e.webp",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Notebook ASUS VIVOBOOK E1504FA-BQ2771W R3 30/8Gb/M.2 512Gb/15.6″/W11",
-          "url": "https://thotcomputacion.com.uy/producto/notebook-asus-vivobook-e1504fa-bq2771w-r3-30-8gb-m-2-512gb-15-6-w11/",
-          "image": "assets/catalog/notebook-asus-vivobook-e1504fa-bq2771w-r3-30-e3b3c8703e4aa93e.webp",
-          "stock": true,
-          "amount": 575,
-          "currency": "USD",
-          "priceText": "US$ 575",
-          "priceUYU": 23000,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
         }
       ]
     },
@@ -4889,6 +4847,48 @@
           "currency": "USD",
           "priceText": "US$ 800",
           "priceUYU": 32000,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
+      "name": "Notebook ASUS VIVOBOOK X1504VA-BQ5310W Core 7 150U/16Gb/512Gb PCIe/15,6″/W11",
+      "category": "Notebooks",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/notebook-asus-vivobook-x1504va-bq5310w-core--d0fe6db4e7a7f99a.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook ASUS VIVOBOOK X1504VA-BQ5310W Core 7 150U/16Gb/512Gb PCIe/15,6″/W11",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-asus-vivobook-x1504va-bq5310w-core-7-150u-16gb-512gb-pcie-156-w11/",
+          "image": "assets/catalog/notebook-asus-vivobook-x1504va-bq5310w-core--d0fe6db4e7a7f99a.jpg",
+          "stock": true,
+          "amount": 999,
+          "currency": "USD",
+          "priceText": "US$ 999",
+          "priceUYU": 39960,
+          "category": "Notebooks",
+          "catalogSeed": "notebook"
+        }
+      ]
+    },
+    {
+      "name": "Notebook Asus TUF FA506NCG-HN338 R7 8845HS/16Gb/M.2 512Gb/RTX3050/15.6″",
+      "category": "Notebooks",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/notebook-asus-tuf-fa506ncg-hn338-r7-8845hs-1-38cc5e8c9d35dd98.webp",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Notebook Asus TUF FA506NCG-HN338 R7 8845HS/16Gb/M.2 512Gb/RTX3050/15.6″",
+          "url": "https://thotcomputacion.com.uy/producto/notebook-asus-tuf-fa506ncg-hn338-r7-8845hs-16gb-m-2-512gb-rtx3050-15-6/",
+          "image": "assets/catalog/notebook-asus-tuf-fa506ncg-hn338-r7-8845hs-1-38cc5e8c9d35dd98.webp",
+          "stock": true,
+          "amount": 1075,
+          "currency": "USD",
+          "priceText": "US$ 1.075",
+          "priceUYU": 43000,
           "category": "Notebooks",
           "catalogSeed": "notebook"
         }
