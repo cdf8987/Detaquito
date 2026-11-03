@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:58:47.025Z",
+  "generatedAt": "2026-11-03T14:14:49.742Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -363,6 +363,19 @@
         },
         {
           "store": "Thot Computacion",
+          "name": "GPU PNY GeForce RTX 5070 OC 12Gb GDDR7",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-pny-geforce-rtx-5070-oc-12gb-gddr7/",
+          "image": "assets/catalog/gpu-pny-geforce-rtx-5070-oc-12gb-gddr7-thot--530778ed303f935f.jpg",
+          "stock": true,
+          "amount": 1049.99,
+          "currency": "USD",
+          "priceText": "US$ 1.049,99",
+          "priceUYU": 41999.6,
+          "category": "Graficas",
+          "catalogSeed": "rtx"
+        },
+        {
+          "store": "Thot Computacion",
           "name": "GPU Inno3d GeForce RTX 3050 8GB Twin X2",
           "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-3050-6gb-twin-x2/",
           "image": "assets/catalog/gpu-inno3d-geforce-rtx-3050-8gb-twin-x2-thot-d5efeffe49e564dc.jpg",
@@ -380,10 +393,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5080-x3-16gb/",
           "image": "assets/catalog/gpu-inno3d-geforce-rtx-5080-x3-16gb-thot-com-c886b0a204e800bf.png",
           "stock": true,
-          "amount": 2450,
+          "amount": 2500,
           "currency": "USD",
-          "priceText": "US$ 2.450",
-          "priceUYU": 98000,
+          "priceText": "US$ 2.500",
+          "priceUYU": 100000,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -406,10 +419,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-rtx-5080-aorus-master-ice-oc-16gb/",
           "image": "assets/catalog/gpu-gigabyte-rtx-5080-aorus-master-ice-oc-16-24badf619a89c8e3.png",
           "stock": true,
-          "amount": 2750,
+          "amount": 2800,
           "currency": "USD",
-          "priceText": "US$ 2.750",
-          "priceUYU": 110000,
+          "priceText": "US$ 2.800",
+          "priceUYU": 112000,
           "category": "Graficas",
           "catalogSeed": "rtx"
         },
@@ -428,32 +441,6 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX 5080 Windforce OC SFF 16GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5080-windforce-oc-s-71c0a61898b4ccd9.png",
-          "stock": true,
-          "amount": 2600,
-          "currency": "USD",
-          "priceText": "US$ 2.600",
-          "priceUYU": 104000,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit Geforce RTX5060 Infinity 2 OC 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb-gddr7/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb--2c5589183f6072df.png",
-          "stock": true,
-          "amount": 589.99,
-          "currency": "USD",
-          "priceText": "US$ 589,99",
-          "priceUYU": 23599.6,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
           "name": "GPU Palit GeForce RTX 5050 Dual 8GB",
           "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5050-dual-8gb/",
           "image": "assets/catalog/gpu-palit-geforce-rtx-5050-dual-8gb-thot-com-a8c4807882cbb039.jpg",
@@ -467,27 +454,40 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Inno3d GeForce RTX 5060 8GB Twin X2",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5060-8gb-twin-x2/",
-          "image": "assets/catalog/gpu-inno3d-geforce-rtx-5060-8gb-twin-x2-thot-a6a38d9365f825bc.png",
+          "name": "GPU Palit Geforce RTX5060 Ti White OC 16Gb GDDR7",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-ti-white-oc-16gb-gddr7/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-white-oc-16gb-g-2d60ae340b5bb05a.png",
           "stock": true,
-          "amount": 575,
+          "amount": 965,
           "currency": "USD",
-          "priceText": "US$ 575",
-          "priceUYU": 23000,
+          "priceText": "US$ 965",
+          "priceUYU": 38600,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Biostar GeForce G210 1Gb GDDR3",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-biostar-geforce-g210-1gb-gddr3/",
-          "image": "assets/catalog/gpu-biostar-geforce-g210-1gb-gddr3-thot-comp-3af498385f0c31b5.jpg",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Gaming OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8g-9b331485b7b6e4d2.jpg",
           "stock": true,
-          "amount": 44.99,
+          "amount": 675,
           "currency": "USD",
-          "priceText": "US$ 44,99",
-          "priceUYU": 1799.6000000000001,
+          "priceText": "US$ 675",
+          "priceUYU": 27000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Asus Dual GeForce RTX5060 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
+          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
+          "stock": true,
+          "amount": 599,
+          "currency": "USD",
+          "priceText": "US$ 599",
+          "priceUYU": 23960,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -497,10 +497,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-oc-wh/",
           "image": "assets/catalog/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-oc--cb07c8246148289f.png",
           "stock": true,
-          "amount": 1045,
+          "amount": 1075,
           "currency": "USD",
-          "priceText": "US$ 1.045",
-          "priceUYU": 41800,
+          "priceText": "US$ 1.075",
+          "priceUYU": 43000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -519,29 +519,42 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Asus TUF GeForce RTX5070 Ti 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-tuf-geforce-rtx5070-ti-oc-edition-16gb/",
-          "image": "assets/catalog/gpu-asus-tuf-geforce-rtx5070-ti-16gb-thot-co-f6b0a7f4e2c261e3.png",
+          "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-2/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
           "stock": true,
-          "amount": 1899,
+          "amount": 400,
           "currency": "USD",
-          "priceText": "US$ 1.899",
-          "priceUYU": 75960,
+          "priceText": "US$ 400",
+          "priceUYU": 16000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "MSI GeForce G210 1Gb Ddr3 LP",
-          "url": "https://thotcomputacion.com.uy/producto/msi-geforce-g210-1gb-ddr3-lp-2/",
-          "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
+          "name": "GPU Asus Dual Geforce RTX3060 OC 12Gb DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6/",
+          "image": "assets/catalog/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6-t-8d7ca22c3d6b8d99.png",
           "stock": true,
-          "amount": 44.99,
+          "amount": 564.99,
           "currency": "USD",
-          "priceText": "US$ 44,99",
-          "priceUYU": 1799.6000000000001,
+          "priceText": "US$ 564,99",
+          "priceUYU": 22599.6,
           "category": "Graficas",
           "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte Radeon RX9050 Gaming OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-radeon-rx9050-gaming-oc-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-radeon-rx9050-gaming-oc-8gb-tho-21666efc5b7f2ac5.webp",
+          "stock": true,
+          "amount": 550,
+          "currency": "USD",
+          "priceText": "US$ 550",
+          "priceUYU": 22000,
+          "category": "Graficas",
+          "catalogSeed": "radeon"
         },
         {
           "store": "Thot Computacion",
@@ -575,10 +588,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-xfx-radeon-rx9060-xt-swift-dual-oc-8gb-white/",
           "image": "assets/catalog/gpu-xfx-radeon-rx9060-xt-swift-dual-oc-8gb-w-0aa9fcf157da8b81.jpg",
           "stock": true,
-          "amount": 590,
+          "amount": 624.99,
           "currency": "USD",
-          "priceText": "US$ 590",
-          "priceUYU": 23600,
+          "priceText": "US$ 624,99",
+          "priceUYU": 24999.6,
           "category": "Graficas",
           "catalogSeed": "radeon"
         },
@@ -588,10 +601,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-xfx-radeon-rx9060-xt-swift-dual-oc-8gb/",
           "image": "assets/catalog/gpu-xfx-radeon-rx9060-xt-swift-dual-oc-8gb-t-b9d1355094a443c8.jpg",
           "stock": true,
-          "amount": 590,
+          "amount": 624.99,
           "currency": "USD",
-          "priceText": "US$ 590",
-          "priceUYU": 23600,
+          "priceText": "US$ 624,99",
+          "priceUYU": 24999.6,
           "category": "Graficas",
           "catalogSeed": "radeon"
         },
@@ -601,10 +614,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-radeon-rx9060-xt-gaming-8gb/",
           "image": "assets/catalog/gpu-gigabyte-radeon-rx9060-xt-gaming-8gb-tho-38b4f8b8dddc00f9.png",
           "stock": true,
-          "amount": 600,
+          "amount": 650,
           "currency": "USD",
-          "priceText": "US$ 600",
-          "priceUYU": 24000,
+          "priceText": "US$ 650",
+          "priceUYU": 26000,
           "category": "Graficas",
           "catalogSeed": "radeon"
         },
@@ -614,10 +627,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-radeon-rx9070-xt-gaming-oc-ice-16gb/",
           "image": "assets/catalog/gpu-gigabyte-radeon-rx9070-xt-gaming-oc-ice--e1780aabdb17fcac.png",
           "stock": true,
-          "amount": 1500,
+          "amount": 1550,
           "currency": "USD",
-          "priceText": "US$ 1.500",
-          "priceUYU": 60000,
+          "priceText": "US$ 1.550",
+          "priceUYU": 62000,
           "category": "Graficas",
           "catalogSeed": "radeon"
         },
@@ -631,19 +644,6 @@
           "currency": "USD",
           "priceText": "US$ 950",
           "priceUYU": 38000,
-          "category": "Graficas",
-          "catalogSeed": "radeon"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte Radeon RX9070 XT Gaming 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-radeon-rx9070-xt-gaming-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-radeon-rx9070-xt-gaming-16gb-th-95b6b8553e57cf71.png",
-          "stock": true,
-          "amount": 1500,
-          "currency": "USD",
-          "priceText": "US$ 1.500",
-          "priceUYU": 60000,
           "category": "Graficas",
           "catalogSeed": "radeon"
         },
@@ -3574,48 +3574,6 @@
       ]
     },
     {
-      "name": "GPU Biostar GeForce G210 1Gb GDDR3",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-biostar-geforce-g210-1gb-gddr3-thot-comp-3af498385f0c31b5.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Biostar GeForce G210 1Gb GDDR3",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-biostar-geforce-g210-1gb-gddr3/",
-          "image": "assets/catalog/gpu-biostar-geforce-g210-1gb-gddr3-thot-comp-3af498385f0c31b5.jpg",
-          "stock": true,
-          "amount": 44.99,
-          "currency": "USD",
-          "priceText": "US$ 44,99",
-          "priceUYU": 1799.6000000000001,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "MSI GeForce G210 1Gb Ddr3 LP",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "MSI GeForce G210 1Gb Ddr3 LP",
-          "url": "https://thotcomputacion.com.uy/producto/msi-geforce-g210-1gb-ddr3-lp-2/",
-          "image": "assets/catalog/msi-geforce-g210-1gb-ddr3-lp-thot-computacio-88f040599a861b3d.jpg",
-          "stock": true,
-          "amount": 44.99,
-          "currency": "USD",
-          "priceText": "US$ 44,99",
-          "priceUYU": 1799.6000000000001,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
       "name": "GPU Inno3d GeForce RTX 3050 8GB Twin X2",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3633,6 +3591,27 @@
           "priceUYU": 16000,
           "category": "Graficas",
           "catalogSeed": "rtx"
+        }
+      ]
+    },
+    {
+      "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit GeForce RTX3050 Dual 8GB DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-2/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx3050-dual-8gb-ddr6-thot-6776c66f3ce8017d.jpg",
+          "stock": true,
+          "amount": 400,
+          "currency": "USD",
+          "priceText": "US$ 400",
+          "priceUYU": 16000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3700,21 +3679,42 @@
       ]
     },
     {
-      "name": "GPU Inno3d GeForce RTX 5060 8GB Twin X2",
+      "name": "GPU Gigabyte Radeon RX9050 Gaming OC 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-inno3d-geforce-rtx-5060-8gb-twin-x2-thot-a6a38d9365f825bc.png",
+      "image": "assets/catalog/gpu-gigabyte-radeon-rx9050-gaming-oc-8gb-tho-21666efc5b7f2ac5.webp",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU Inno3d GeForce RTX 5060 8GB Twin X2",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5060-8gb-twin-x2/",
-          "image": "assets/catalog/gpu-inno3d-geforce-rtx-5060-8gb-twin-x2-thot-a6a38d9365f825bc.png",
+          "name": "GPU Gigabyte Radeon RX9050 Gaming OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-radeon-rx9050-gaming-oc-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-radeon-rx9050-gaming-oc-8gb-tho-21666efc5b7f2ac5.webp",
           "stock": true,
-          "amount": 575,
+          "amount": 550,
           "currency": "USD",
-          "priceText": "US$ 575",
-          "priceUYU": 23000,
+          "priceText": "US$ 550",
+          "priceUYU": 22000,
+          "category": "Graficas",
+          "catalogSeed": "radeon"
+        }
+      ]
+    },
+    {
+      "name": "GPU Asus Dual Geforce RTX3060 OC 12Gb DDR6",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6-t-8d7ca22c3d6b8d99.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Asus Dual Geforce RTX3060 OC 12Gb DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6/",
+          "image": "assets/catalog/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6-t-8d7ca22c3d6b8d99.png",
+          "stock": true,
+          "amount": 564.99,
+          "currency": "USD",
+          "priceText": "US$ 564,99",
+          "priceUYU": 22599.6,
           "category": "Graficas",
           "catalogSeed": "gtx"
         }
@@ -3742,21 +3742,21 @@
       ]
     },
     {
-      "name": "GPU Palit Geforce RTX5060 Infinity 2 OC 8Gb GDDR7",
+      "name": "GPU Asus Dual GeForce RTX5060 8GB",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb--2c5589183f6072df.png",
+      "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU Palit Geforce RTX5060 Infinity 2 OC 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb-gddr7/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx5060-infinity-2-oc-8gb--2c5589183f6072df.png",
+          "name": "GPU Asus Dual GeForce RTX5060 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
+          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
           "stock": true,
-          "amount": 589.99,
+          "amount": 599,
           "currency": "USD",
-          "priceText": "US$ 589,99",
-          "priceUYU": 23599.6,
+          "priceText": "US$ 599",
+          "priceUYU": 23960,
           "category": "Graficas",
           "catalogSeed": "gtx"
         }
@@ -3774,10 +3774,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-xfx-radeon-rx9060-xt-swift-dual-oc-8gb/",
           "image": "assets/catalog/gpu-xfx-radeon-rx9060-xt-swift-dual-oc-8gb-t-b9d1355094a443c8.jpg",
           "stock": true,
-          "amount": 590,
+          "amount": 624.99,
           "currency": "USD",
-          "priceText": "US$ 590",
-          "priceUYU": 23600,
+          "priceText": "US$ 624,99",
+          "priceUYU": 24999.6,
           "category": "Graficas",
           "catalogSeed": "radeon"
         }
@@ -3795,10 +3795,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-xfx-radeon-rx9060-xt-swift-dual-oc-8gb-white/",
           "image": "assets/catalog/gpu-xfx-radeon-rx9060-xt-swift-dual-oc-8gb-w-0aa9fcf157da8b81.jpg",
           "stock": true,
-          "amount": 590,
+          "amount": 624.99,
           "currency": "USD",
-          "priceText": "US$ 590",
-          "priceUYU": 23600,
+          "priceText": "US$ 624,99",
+          "priceUYU": 24999.6,
           "category": "Graficas",
           "catalogSeed": "radeon"
         }
@@ -3816,10 +3816,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-radeon-rx9060-xt-gaming-8gb/",
           "image": "assets/catalog/gpu-gigabyte-radeon-rx9060-xt-gaming-8gb-tho-38b4f8b8dddc00f9.png",
           "stock": true,
-          "amount": 600,
+          "amount": 650,
           "currency": "USD",
-          "priceText": "US$ 600",
-          "priceUYU": 24000,
+          "priceText": "US$ 650",
+          "priceUYU": 26000,
           "category": "Graficas",
           "catalogSeed": "radeon"
         }
@@ -3843,6 +3843,27 @@
           "priceUYU": 27000,
           "category": "Graficas",
           "catalogSeed": "ryzen"
+        }
+      ]
+    },
+    {
+      "name": "GPU Gigabyte GeForce RTX5060 TI Gaming OC 8Gb",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8g-9b331485b7b6e4d2.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Gaming OC 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-gaming-oc-8g-9b331485b7b6e4d2.jpg",
+          "stock": true,
+          "amount": 675,
+          "currency": "USD",
+          "priceText": "US$ 675",
+          "priceUYU": 27000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3952,6 +3973,27 @@
       ]
     },
     {
+      "name": "GPU Palit Geforce RTX5060 Ti White OC 16Gb GDDR7",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-white-oc-16gb-g-2d60ae340b5bb05a.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Palit Geforce RTX5060 Ti White OC 16Gb GDDR7",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-ti-white-oc-16gb-gddr7/",
+          "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-white-oc-16gb-g-2d60ae340b5bb05a.png",
+          "stock": true,
+          "amount": 965,
+          "currency": "USD",
+          "priceText": "US$ 965",
+          "priceUYU": 38600,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "Equipo AMD Ryzen 5 5500 Pro Gamer – SSD – 16Gb – Radeon RX5600 6Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3994,23 +4036,23 @@
       ]
     },
     {
-      "name": "GPU Inno3d GeForce RTX 5070 12Gb Twin X2 OC Wh",
+      "name": "GPU PNY GeForce RTX 5070 OC 12Gb GDDR7",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-oc--cb07c8246148289f.png",
+      "image": "assets/catalog/gpu-pny-geforce-rtx-5070-oc-12gb-gddr7-thot--530778ed303f935f.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU Inno3d GeForce RTX 5070 12Gb Twin X2 OC Wh",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-oc-wh/",
-          "image": "assets/catalog/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-oc--cb07c8246148289f.png",
+          "name": "GPU PNY GeForce RTX 5070 OC 12Gb GDDR7",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-pny-geforce-rtx-5070-oc-12gb-gddr7/",
+          "image": "assets/catalog/gpu-pny-geforce-rtx-5070-oc-12gb-gddr7-thot--530778ed303f935f.jpg",
           "stock": true,
-          "amount": 1045,
+          "amount": 1049.99,
           "currency": "USD",
-          "priceText": "US$ 1.045",
-          "priceUYU": 41800,
+          "priceText": "US$ 1.049,99",
+          "priceUYU": 41999.6,
           "category": "Graficas",
-          "catalogSeed": "gtx"
+          "catalogSeed": "rtx"
         }
       ]
     },
@@ -4032,6 +4074,27 @@
           "priceUYU": 43000,
           "category": "Graficas",
           "catalogSeed": "radeon"
+        }
+      ]
+    },
+    {
+      "name": "GPU Inno3d GeForce RTX 5070 12Gb Twin X2 OC Wh",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-oc--cb07c8246148289f.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Inno3d GeForce RTX 5070 12Gb Twin X2 OC Wh",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-oc-wh/",
+          "image": "assets/catalog/gpu-inno3d-geforce-rtx-5070-12gb-twin-x2-oc--cb07c8246148289f.png",
+          "stock": true,
+          "amount": 1075,
+          "currency": "USD",
+          "priceText": "US$ 1.075",
+          "priceUYU": 43000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -4078,27 +4141,6 @@
       ]
     },
     {
-      "name": "GPU Gigabyte Radeon RX9070 XT Gaming 16Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-radeon-rx9070-xt-gaming-16gb-th-95b6b8553e57cf71.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte Radeon RX9070 XT Gaming 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-radeon-rx9070-xt-gaming-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-radeon-rx9070-xt-gaming-16gb-th-95b6b8553e57cf71.png",
-          "stock": true,
-          "amount": 1500,
-          "currency": "USD",
-          "priceText": "US$ 1.500",
-          "priceUYU": 60000,
-          "category": "Graficas",
-          "catalogSeed": "radeon"
-        }
-      ]
-    },
-    {
       "name": "GPU Gigabyte Radeon RX9070 XT Gaming OC ICE 16Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -4110,33 +4152,12 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-radeon-rx9070-xt-gaming-oc-ice-16gb/",
           "image": "assets/catalog/gpu-gigabyte-radeon-rx9070-xt-gaming-oc-ice--e1780aabdb17fcac.png",
           "stock": true,
-          "amount": 1500,
+          "amount": 1550,
           "currency": "USD",
-          "priceText": "US$ 1.500",
-          "priceUYU": 60000,
+          "priceText": "US$ 1.550",
+          "priceUYU": 62000,
           "category": "Graficas",
           "catalogSeed": "radeon"
-        }
-      ]
-    },
-    {
-      "name": "GPU Asus TUF GeForce RTX5070 Ti 16Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-asus-tuf-geforce-rtx5070-ti-16gb-thot-co-f6b0a7f4e2c261e3.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Asus TUF GeForce RTX5070 Ti 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-tuf-geforce-rtx5070-ti-oc-edition-16gb/",
-          "image": "assets/catalog/gpu-asus-tuf-geforce-rtx5070-ti-16gb-thot-co-f6b0a7f4e2c261e3.png",
-          "stock": true,
-          "amount": 1899,
-          "currency": "USD",
-          "priceText": "US$ 1.899",
-          "priceUYU": 75960,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
         }
       ]
     },
@@ -4152,31 +4173,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-inno3d-geforce-rtx-5080-x3-16gb/",
           "image": "assets/catalog/gpu-inno3d-geforce-rtx-5080-x3-16gb-thot-com-c886b0a204e800bf.png",
           "stock": true,
-          "amount": 2450,
+          "amount": 2500,
           "currency": "USD",
-          "priceText": "US$ 2.450",
-          "priceUYU": 98000,
-          "category": "Graficas",
-          "catalogSeed": "rtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Gigabyte GeForce RTX 5080 Windforce OC SFF 16GB",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5080-windforce-oc-s-71c0a61898b4ccd9.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX 5080 Windforce OC SFF 16GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx-5080-windforce-oc-s-71c0a61898b4ccd9.png",
-          "stock": true,
-          "amount": 2600,
-          "currency": "USD",
-          "priceText": "US$ 2.600",
-          "priceUYU": 104000,
+          "priceText": "US$ 2.500",
+          "priceUYU": 100000,
           "category": "Graficas",
           "catalogSeed": "rtx"
         }
@@ -4194,10 +4194,10 @@
           "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-rtx-5080-aorus-master-ice-oc-16gb/",
           "image": "assets/catalog/gpu-gigabyte-rtx-5080-aorus-master-ice-oc-16-24badf619a89c8e3.png",
           "stock": true,
-          "amount": 2750,
+          "amount": 2800,
           "currency": "USD",
-          "priceText": "US$ 2.750",
-          "priceUYU": 110000,
+          "priceText": "US$ 2.800",
+          "priceUYU": 112000,
           "category": "Graficas",
           "catalogSeed": "rtx"
         }
