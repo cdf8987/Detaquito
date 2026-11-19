@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:31:53.098Z",
+  "generatedAt": "2026-11-19T07:25:58.847Z",
   "seeds": [
     "ssd",
     "nvme",
@@ -441,6 +441,19 @@
         },
         {
           "store": "Thot Computacion",
+          "name": "GPU MSI GeForce RTX 3050 Ventus X2 OC 6Gb DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-3050-ventus-x2-oc-6gb-ddr6/",
+          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/GPU_MSI_GeForce_RTX_3050_Ventus_X2_OC_6Gb_DDR6_1.png",
+          "stock": true,
+          "amount": 370,
+          "currency": "USD",
+          "priceText": "US$ 370",
+          "priceUYU": 14800,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
           "name": "GPU Gigabyte GeForce RTX3050 Windforce OC 6Gb",
           "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx3050-windforce-oc-6gb/",
           "image": "assets/catalog/gpu-gigabyte-geforce-rtx3050-windforce-oc-6g-4d66488d2fd46b9e.jpg",
@@ -454,74 +467,35 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Asus Dual Geforce RTX3060 OC 12Gb DDR6",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6/",
-          "image": "assets/catalog/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6-t-8d7ca22c3d6b8d99.png",
+          "name": "GPU Gigabyte GeForce RTX5050 Low Profile 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5050-low-profile-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5050-low-profile-8gb-5fb345647f49449f.png",
           "stock": true,
-          "amount": 624.99,
+          "amount": 525,
           "currency": "USD",
-          "priceText": "US$ 624,99",
-          "priceUYU": 24999.6,
+          "priceText": "US$ 525",
+          "priceUYU": 21000,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 TI Windforce OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-298845747088d8cc.jpg",
-          "stock": true,
-          "amount": 675,
+          "name": "GPU MSI GeForce RTX5060 TI Shadow 2X OC Plus 16Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-16gb/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-07503950f06c031e.png",
+          "stock": false,
+          "amount": 1049.99,
           "currency": "USD",
-          "priceText": "US$ 675",
-          "priceUYU": 27000,
+          "priceText": "US$ 1.049,99",
+          "priceUYU": 41999.6,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Asus Dual GeForce RTX5060 8GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
-          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
-          "stock": true,
-          "amount": 615,
-          "currency": "USD",
-          "priceText": "US$ 615",
-          "priceUYU": 24600,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
-          "stock": true,
-          "amount": 600,
-          "currency": "USD",
-          "priceText": "US$ 600",
-          "priceUYU": 24000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5080-gaming-pro-16gb/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-          "stock": true,
-          "amount": 2750,
-          "currency": "USD",
-          "priceText": "US$ 2.750",
-          "priceUYU": 110000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
           "stock": true,
           "amount": 650,
           "currency": "USD",
@@ -532,14 +506,40 @@
         },
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte RTX 5080 Gaming OC 16GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-rtx-5080-gaming-oc-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-rtx-5080-gaming-oc-16gb-thot-co-c1e49c0753976ea3.jpg",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Windforce 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-windforce-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-8g-cc18ed4e06ef0e42.jpg",
           "stock": true,
-          "amount": 2849.99,
+          "amount": 665,
           "currency": "USD",
-          "priceText": "US$ 2.849,99",
-          "priceUYU": 113999.59999999999,
+          "priceText": "US$ 665",
+          "priceUYU": 26600,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU MSI GeForce RTX 3050 LP OC 6Gb DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6-thot-bfab022799eb14c9.jpg",
+          "stock": true,
+          "amount": 365,
+          "currency": "USD",
+          "priceText": "US$ 365",
+          "priceUYU": 14600,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Asus TUF GeForce RTX5070 Ti 16Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-tuf-geforce-rtx5070-ti-oc-edition-16gb/",
+          "image": "assets/catalog/gpu-asus-tuf-geforce-rtx5070-ti-16gb-thot-co-f6b0a7f4e2c261e3.png",
+          "stock": true,
+          "amount": 1999.99,
+          "currency": "USD",
+          "priceText": "US$ 1.999,99",
+          "priceUYU": 79999.6,
           "category": "Graficas",
           "catalogSeed": "gtx"
         },
@@ -651,7 +651,7 @@
           "store": "Thot Computacion",
           "name": "Equipo AMD Ryzen 5 5600XT Full Gamer – 16gb – SSD – RTX5060",
           "url": "https://thotcomputacion.com.uy/producto/equipo-amd-ryzen-5-5600xt-full-gamer-16gb-ssd-rtx5060/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2024/08/MX110-RGB-RYZEN-RTX.png",
+          "image": "assets/catalog/equipo-amd-ryzen-5-5600xt-full-gamer-16gb-ss-3911b6091864a398.png",
           "stock": true,
           "amount": 1300,
           "currency": "USD",
@@ -716,7 +716,7 @@
           "store": "Thot Computacion",
           "name": "Equipo AMD Ryzen 5 5500 Full Gamer – 16gb – SSD – RX9060XT 8GB",
           "url": "https://thotcomputacion.com.uy/producto/equipo-amd-ryzen-5-5500-full-gamer-16gb-ssd-rtx7600/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/MX110-RGB-RYZEN-RADEON1.png",
+          "image": "assets/catalog/equipo-amd-ryzen-5-5500-full-gamer-16gb-ssd--d122d690c6e92376.png",
           "stock": true,
           "amount": 1225,
           "currency": "USD",
@@ -755,7 +755,7 @@
           "store": "Thot Computacion",
           "name": "CPU Intel Core Ultra 7 270K Plus Arrow Lake 1851",
           "url": "https://thotcomputacion.com.uy/producto/cpu-intel-core-ultra-7-270k-plus-arrow-lake-1851/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/08/CPU_Intel_Core_Ultra_7_270K_Plus_Arrow_Lake_1851_1.jpg",
+          "image": "assets/catalog/cpu-intel-core-ultra-7-270k-plus-arrow-lake--098f699f0a9426c8.jpg",
           "stock": true,
           "amount": 439.99,
           "currency": "USD",
@@ -768,7 +768,7 @@
           "store": "Thot Computacion",
           "name": "CPU Intel Core Ultra 5 250KF Plus Arrow Lake 1851",
           "url": "https://thotcomputacion.com.uy/producto/cpu-intel-core-ultra-5-250kf-plus-arrow-lake-1851/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/08/CPU_Intel_Core_Ultra_5_250KF_Plus_Arrow_Lake_1851_1.jpg",
+          "image": "assets/catalog/cpu-intel-core-ultra-5-250kf-plus-arrow-lake-155b37b60d18ef16.jpg",
           "stock": true,
           "amount": 279.99,
           "currency": "USD",
@@ -781,7 +781,7 @@
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I7 12700 Alder Lake – 16Gb – SSD",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i7-12700-alder-lake-16gb-ssd/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/GENERICO-CORE.png",
+          "image": "assets/catalog/equipo-intel-core-i7-12700-alder-lake-16gb-s-b4b28e48c289b285.png",
           "stock": true,
           "amount": 925,
           "currency": "USD",
@@ -794,7 +794,7 @@
           "store": "Thot Computacion",
           "name": "CPU Intel Core i5 14400f Raptor Lake",
           "url": "https://thotcomputacion.com.uy/producto/cpu-intel-core-i5-14400f-raptor-lake/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/05/CPU_Intel_Core_i5_14400f_Raptor_Lake_1.jpg",
+          "image": "assets/catalog/cpu-intel-core-i5-14400f-raptor-lake-thot-co-7ad833ceec52e642.jpg",
           "stock": true,
           "amount": 265,
           "currency": "USD",
@@ -807,7 +807,7 @@
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5060 Ti 8Gb",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i5-14400f-full-gamer-16gb-ssd-rtx5060-ti-8gb/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+          "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--78ccb43628a260c7.png",
           "stock": true,
           "amount": 1475,
           "currency": "USD",
@@ -820,7 +820,7 @@
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RX9060XT 8Gb",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i5-14400f-full-gamer-16gb-ssd-rx9060xt-8gb/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RADEON.png",
+          "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--07da5bfdef481055.png",
           "stock": true,
           "amount": 1425,
           "currency": "USD",
@@ -833,7 +833,7 @@
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5060 8Gb",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i5-14400f-full-gamer-16gb-ssd-rtx5060-8gb/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+          "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--e6afa17d3fe5b1ed.png",
           "stock": true,
           "amount": 1400,
           "currency": "USD",
@@ -846,7 +846,7 @@
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5050 8Gb",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i5-14400f-full-gamer-16gb-ssd-rtx5050-8gb/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+          "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--29fc0ffb0784a147.png",
           "stock": true,
           "amount": 1225,
           "currency": "USD",
@@ -1065,6 +1065,84 @@
         },
         {
           "store": "Thot Computacion",
+          "name": "Fuente Be Quiet! Pure Power 12 1000W 80 plus Gold",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-be-quiet-pure-power-12-1000w-80-plus-gold/",
+          "image": "assets/catalog/fuente-be-quiet-pure-power-12-1000w-80-plus--903091baada564bb.jpg",
+          "stock": true,
+          "amount": 160,
+          "currency": "USD",
+          "priceText": "US$ 160",
+          "priceUYU": 6400,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Fuente Be Quiet! Dark Power 14 850W 80 plus Titanium",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-be-quiet-dark-power-14-850w-80-plus-titanium/",
+          "image": "assets/catalog/fuente-be-quiet-dark-power-14-850w-80-plus-t-05eb9134ed5d877f.jpg",
+          "stock": true,
+          "amount": 240,
+          "currency": "USD",
+          "priceText": "US$ 240",
+          "priceUYU": 9600,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Fuente Deepcool PS850G Gold SFX",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-deepcool-ps850g-gold-sfx/",
+          "image": "assets/catalog/fuente-deepcool-ps850g-gold-sfx-thot-computa-455a5d7cfea2cea5.jpg",
+          "stock": true,
+          "amount": 125,
+          "currency": "USD",
+          "priceText": "US$ 125",
+          "priceUYU": 5000,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Fuente Deepcool PS850G WH Gold SFX",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-deepcool-ps850g-wh-gold-sfx/",
+          "image": "assets/catalog/fuente-deepcool-ps850g-wh-gold-sfx-thot-comp-71a4dd8c1ad25568.jpg",
+          "stock": true,
+          "amount": 125,
+          "currency": "USD",
+          "priceText": "US$ 125",
+          "priceUYU": 5000,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Fuente ASUS TUF Gaming 850W Gold EVO",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-asus-tuf-gaming-850w-gold-evo/",
+          "image": "assets/catalog/fuente-asus-tuf-gaming-850w-gold-evo-thot-co-3c0e70f2c02ae641.jpg",
+          "stock": true,
+          "amount": 150,
+          "currency": "USD",
+          "priceText": "US$ 150",
+          "priceUYU": 6000,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Fuente ASUS TUF Gaming 1000W Gold EVO",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-asus-tuf-gaming-1000w-gold-evo/",
+          "image": "assets/catalog/fuente-asus-tuf-gaming-1000w-gold-evo-thot-c-24ac450917bcbc56.jpg",
+          "stock": true,
+          "amount": 175,
+          "currency": "USD",
+          "priceText": "US$ 175",
+          "priceUYU": 7000,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        },
+        {
+          "store": "Thot Computacion",
           "name": "Fuente Gigabyte UD1600PM PG5 V2 80 Plus Gold Full Modular",
           "url": "https://thotcomputacion.com.uy/producto/fuente-gigabyte-ud1600pm-pg5-v2-80-plus-gold-full-modular/",
           "image": "assets/catalog/fuente-gigabyte-ud1600pm-pg5-v2-80-plus-gold-bab672891c4c3982.jpg",
@@ -1086,84 +1164,6 @@
           "currency": "USD",
           "priceText": "US$ 940",
           "priceUYU": 37600,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Fuente ASUS ROG Thor Platinum III 1200W Full Modular",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-asus-rog-thor-platinum-iii-1200w-full-modular/",
-          "image": "assets/catalog/fuente-asus-rog-thor-platinum-iii-1200w-full-e2f9019c0f96152a.jpg",
-          "stock": true,
-          "amount": 525,
-          "currency": "USD",
-          "priceText": "US$ 525",
-          "priceUYU": 21000,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Fuente Gigabyte UD1000GM PG5 V2 ICE 80 Plus Gold Full Modular",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-gigabyte-ud1000gm-pg5-v2-ice-80-plus-gold-full-modular/",
-          "image": "assets/catalog/fuente-gigabyte-ud1000gm-pg5-v2-ice-80-plus--5ef9e02c6a38ae05.png",
-          "stock": true,
-          "amount": 130,
-          "currency": "USD",
-          "priceText": "US$ 130",
-          "priceUYU": 5200,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Fuente Cooler Master Elite NEX N400W",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-cooler-master-elite-nex-n400w/",
-          "image": "assets/catalog/fuente-cooler-master-elite-nex-n400w-thot-co-f5d88187ac99d064.png",
-          "stock": true,
-          "amount": 35,
-          "currency": "USD",
-          "priceText": "US$ 35",
-          "priceUYU": 1400,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Fuente Gigabyte UD750GM PG5 V2 ICE 80 Plus Gold Full Modular",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-gigabyte-ud750gm-pg5-v2-ice-80-plus-gold-full-modular/",
-          "image": "assets/catalog/fuente-gigabyte-ud750gm-pg5-v2-ice-80-plus-g-212c4e16f7cc9b2d.png",
-          "stock": true,
-          "amount": 100,
-          "currency": "USD",
-          "priceText": "US$ 100",
-          "priceUYU": 4000,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Fuente Gigabyte P650G PG5 80 Plus Gold",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-gigabyte-p650g-pg5-80-plus-gold/",
-          "image": "assets/catalog/fuente-gigabyte-p650g-pg5-80-plus-gold-thot--4292eaa2b5c0810b.png",
-          "stock": true,
-          "amount": 65,
-          "currency": "USD",
-          "priceText": "US$ 65",
-          "priceUYU": 2600,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Fuente Antec GSK850 White 80 plus Gold Full Modular",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-antec-gsk850-white-80-plus-gold-full-modular/",
-          "image": "assets/catalog/fuente-antec-gsk850-white-80-plus-gold-full--634aea0ae209f0d8.jpg",
-          "stock": true,
-          "amount": 154.99,
-          "currency": "USD",
-          "priceText": "US$ 154,99",
-          "priceUYU": 6199.6,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         },
@@ -1585,6 +1585,32 @@
         },
         {
           "store": "Thot Computacion",
+          "name": "Gabinete Cougar Airface Eco RGB Black",
+          "url": "https://thotcomputacion.com.uy/producto/gabinete-cougar-airface-eco-rgb-black/",
+          "image": "assets/catalog/gabinete-cougar-airface-eco-rgb-black-thot-c-9e7e95e6a9adf66e.png",
+          "stock": true,
+          "amount": 129.99,
+          "currency": "USD",
+          "priceText": "US$ 129,99",
+          "priceUYU": 5199.6,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "Thot Computacion",
+          "name": "Gabinete Cougar Airface Eco RGB White",
+          "url": "https://thotcomputacion.com.uy/producto/gabinete-cougar-airface-eco-rgb-white/",
+          "image": "assets/catalog/gabinete-cougar-airface-eco-rgb-white-thot-c-b3686a1d68fae968.png",
+          "stock": true,
+          "amount": 129.99,
+          "currency": "USD",
+          "priceText": "US$ 129,99",
+          "priceUYU": 5199.6,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        },
+        {
+          "store": "Thot Computacion",
           "name": "Gabinete Cougar CFV235 MESH Black",
           "url": "https://thotcomputacion.com.uy/producto/gabinete-cougar-cfv235-mesh-black/",
           "image": "assets/catalog/gabinete-cougar-cfv235-mesh-black-thot-compu-bcdf0d3fe8a4185d.webp",
@@ -1660,32 +1686,6 @@
           "priceUYU": 4800,
           "category": "Gabinetes",
           "catalogSeed": "gabinete"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Gabinete Antec C5 Curve ARGB Black",
-          "url": "https://thotcomputacion.com.uy/producto/gabinete-antec-c5-curve-argb-black/",
-          "image": "assets/catalog/gabinete-antec-c5-curve-argb-black-thot-comp-88b7a3257e1ae839.webp",
-          "stock": true,
-          "amount": 120,
-          "currency": "USD",
-          "priceText": "US$ 120",
-          "priceUYU": 4800,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        },
-        {
-          "store": "Thot Computacion",
-          "name": "Gabinete Gigabyte GB-C201P Ice",
-          "url": "https://thotcomputacion.com.uy/producto/gabinete-gigabyte-gb-c201p-ice/",
-          "image": "assets/catalog/gabinete-gigabyte-gb-c201p-ice-thot-computac-3955b6cbfa58e244.png",
-          "stock": true,
-          "amount": 89,
-          "currency": "USD",
-          "priceText": "US$ 89",
-          "priceUYU": 3560,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
         }
       ],
       "seeds": 16,
@@ -1693,668 +1693,17 @@
     },
     {
       "shop": "Hard PC",
-      "ok": true,
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "DISCO SSD 1TB KINGSTON M.2 NVME",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/discos/disco-ssd-1tb-kingston-m2-nvme-17307/",
-          "image": "assets/catalog/disco-ssd-1tb-kingston-m-2-nvme-hard-pc-a19dd1348dc53f29.jpg",
-          "stock": true,
-          "amount": 254.48,
-          "currency": "USD",
-          "priceText": "US$ 254,48",
-          "priceUYU": 10179.199999999999,
-          "category": "Almacenamiento",
-          "catalogSeed": "ssd"
-        },
-        {
-          "store": "Hard PC",
-          "name": "DISCO SSD 1TB M.2 NVME ADATA LEGEND 710 2280 2400/1800",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/discos/disco-ssd-1tb-m2-nvme-adata-legend-710-2280-2400/1800-23052/",
-          "image": "assets/catalog/disco-ssd-1tb-m-2-nvme-adata-legend-710-2280-1d7e2d9838e9035b.jpg",
-          "stock": true,
-          "amount": 261.18,
-          "currency": "USD",
-          "priceText": "US$ 261,18",
-          "priceUYU": 10447.2,
-          "category": "Almacenamiento",
-          "catalogSeed": "ssd"
-        },
-        {
-          "store": "Hard PC",
-          "name": "NOTEBOOK ACER ASPIRE 3 A325-45 (CELERON N4500/8GB/SSD256GB/15,6\"FHD/FREEDOS)",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-acer-aspire-3-a325-45-celeron-n4500-8gb-ssd256gb-156fhd-freedos-23552/",
-          "image": "assets/catalog/notebook-acer-aspire-3-a325-45-celeron-n4500-2de376456c076076.jpg",
-          "stock": true,
-          "amount": 351.21,
-          "currency": "USD",
-          "priceText": "US$ 351,21",
-          "priceUYU": 14048.4,
-          "category": "Notebooks",
-          "catalogSeed": "ssd"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Cpu Amd Ryzen 9 7900 Am5 Box Sin/fan",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/cpu-amd-ryzen-9-7900-am5-box-sin/fan-0108r97900/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_73086.jpg",
-          "stock": true,
-          "amount": 545.55,
-          "currency": "USD",
-          "priceText": "US$ 545,55",
-          "priceUYU": 21822,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Cpu Amd Ryzen 7 7800x3d Am5 Box S/fan",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/cpu-amd-ryzen-7-7800x3d-am5-box-s-fan-car77800x3d/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_42398.jpg",
-          "stock": true,
-          "amount": 553.4,
-          "currency": "USD",
-          "priceText": "US$ 553,4",
-          "priceUYU": 22136,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Notebook Chuwi Ryzen 5 3.5Ghz, 8GB, 256GB, 15.6\" FHD, Español",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-chuwi-ryzen-5-35ghz-8gb-256gb-156-fhd-espanol-not3505/",
-          "image": "assets/catalog/notebook-chuwi-ryzen-5-3-5ghz-8gb-256gb-15-6-a8b28912300b7bf2.jpg",
-          "stock": false,
-          "amount": 560.97,
-          "currency": "USD",
-          "priceText": "US$ 560,97",
-          "priceUYU": 22438.800000000003,
-          "category": "Notebooks",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Notebook Acer Ryzen 3 30 4.1Ghz, 8GB, 128GB SSD, 15.3\" FHD",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-acer-ryzen-3-30-41ghz-8gb-128gb-ssd-153-fhd-not3533/",
-          "image": "assets/catalog/notebook-acer-ryzen-3-30-4-1ghz-8gb-128gb-ss-af47ac79758e091f.jpg",
-          "stock": false,
-          "amount": 583.81,
-          "currency": "USD",
-          "priceText": "US$ 583,81",
-          "priceUYU": 23352.399999999998,
-          "category": "Notebooks",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Cpu Amd Ryzen 9 7900x Am5 Box S/fan",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/cpu-amd-ryzen-9-7900x-am5-box-s/fan-car97900x/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_53960.jpg",
-          "stock": true,
-          "amount": 596.8,
-          "currency": "USD",
-          "priceText": "US$ 596,8",
-          "priceUYU": 23872,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        },
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I3 12100 (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i3-12100-1700-17906/",
-          "image": "assets/catalog/procesador-intel-i3-12100-1700-hard-pc-e567dec42116dbdd.jpg",
-          "stock": true,
-          "amount": 200.4,
-          "currency": "USD",
-          "priceText": "US$ 200,4",
-          "priceUYU": 8016,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I3 14100 (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i3-14100-1700-19967/",
-          "image": "assets/catalog/procesador-intel-i3-14100-1700-hard-pc-21164e16a7e59872.jpg",
-          "stock": true,
-          "amount": 214.44,
-          "currency": "USD",
-          "priceText": "US$ 214,44",
-          "priceUYU": 8577.6,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I5 12400F (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-12400f-1700-17669/",
-          "image": "assets/catalog/procesador-intel-i5-12400f-1700-hard-pc-7b3ba79feb0589d0.jpg",
-          "stock": true,
-          "amount": 225.69,
-          "currency": "USD",
-          "priceText": "US$ 225,69",
-          "priceUYU": 9027.6,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL ULTRA 5 225F 4.9 GHZ (1851)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-ultra-5-225f-49-ghz-1851-23640/",
-          "image": "assets/catalog/procesador-intel-ultra-5-225f-4-9-ghz-1851-h-de3fd970425a43e7.jpg",
-          "stock": true,
-          "amount": 229.42,
-          "currency": "USD",
-          "priceText": "US$ 229,42",
-          "priceUYU": 9176.8,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Intel Core i5 i5-14400F - 2.5 GHz - 10 núcleos - 16 hilos - 20 MB caché - FCLGA1700 Socket - Caja",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/intel-core-i5-i5-14400f-25-ghz-10-nucleos-16-hilos-20-mb-cache-fclga1700-socket-caja-cp144itl01/",
-          "image": "assets/catalog/intel-core-i5-i5-14400f-2-5-ghz-10-nucleos-1-6577d692ec859bb0.jpg",
-          "stock": false,
-          "amount": 249.72,
-          "currency": "USD",
-          "priceText": "US$ 249,72",
-          "priceUYU": 9988.8,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I5 12400 (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-12400-1700-17606/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4061.jpg",
-          "stock": true,
-          "amount": 271.95,
-          "currency": "USD",
-          "priceText": "US$ 271,95",
-          "priceUYU": 10878,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I5 14400F (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-14400f-1700-20596/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_73024.jpg",
-          "stock": true,
-          "amount": 273.79,
-          "currency": "USD",
-          "priceText": "US$ 273,79",
-          "priceUYU": 10951.6,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Intel Core i5 i5-14400 - 2.5 GHz - 10 núcleos - 16 hilos - 20 MB caché - FCLGA1700 Socket - Caja",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/intel-core-i5-i5-14400-25-ghz-10-nucleos-16-hilos-20-mb-cache-fclga1700-socket-caja-cp144itl00/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70379.jpg",
-          "stock": false,
-          "amount": 292.85,
-          "currency": "USD",
-          "priceText": "US$ 292,85",
-          "priceUYU": 11714,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Monitor Portátil AOC LED IPS 15.6\" Full HD USB-C",
-          "url": "https://www.hardpc.com.uy/catalogo/monitores/monitores/monitor-portatil-aoc-led-ips-156-full-hd-usb-c-mon382/",
-          "image": "assets/catalog/monitor-portatil-aoc-led-ips-15-6-full-hd-us-5203031e5233bb9f.jpg",
-          "stock": false,
-          "amount": 95.64,
-          "currency": "USD",
-          "priceText": "US$ 95,64",
-          "priceUYU": 3825.6,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Monitor Hikvision 22\" Full HD IPS 100Hz",
-          "url": "https://www.hardpc.com.uy/catalogo/monitores/monitores/monitor-hikvision-22-full-hd-ips-100hz-mon293/",
-          "image": "assets/catalog/monitor-hikvision-22-full-hd-ips-100hz-hard--52aff7614e000c42.jpg",
-          "stock": true,
-          "amount": 106.48,
-          "currency": "USD",
-          "priceText": "US$ 106,48",
-          "priceUYU": 4259.2,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MONITOR 24\" VIEWSONIC VA240A-H (120HZ, FHD, VGA,HDMI,VESA)",
-          "url": "https://www.hardpc.com.uy/catalogo/monitores/monitores/monitor-24-viewsonic-va240a-h-120hz-fhd-vgahdmivesa-23814/",
-          "image": "assets/catalog/monitor-24-viewsonic-va240a-h-120hz-fhd-vga--51ec6145b96fa10a.jpg",
-          "stock": true,
-          "amount": 107.57,
-          "currency": "USD",
-          "priceText": "US$ 107,57",
-          "priceUYU": 4302.799999999999,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MONITOR 24\" SAMSUNG ESSENTIAL S3 IPS FHD 100HZ (HDMI/VGA)",
-          "url": "https://www.hardpc.com.uy/catalogo/monitores/monitores/monitor-24-samsung-essential-s3-ips-fhd-100hz-hdmi-vga-22519/",
-          "image": "assets/catalog/monitor-24-samsung-essential-s3-ips-fhd-100h-475bf927558bab98.jpg",
-          "stock": false,
-          "amount": 108.09,
-          "currency": "USD",
-          "priceText": "US$ 108,09",
-          "priceUYU": 4323.6,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        },
-        {
-          "store": "Hard PC",
-          "name": "CARGADOR NOTEBOOK UNIVERSAL 90W 10 PUNTAS",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/accesorios/cargador-notebook-universal-90w-10-puntas-167/",
-          "image": "assets/catalog/cargador-notebook-universal-90w-10-puntas-ha-31e8edc9d96401fe.jpg",
-          "stock": true,
-          "amount": 49.98,
-          "currency": "USD",
-          "priceText": "US$ 49,98",
-          "priceUYU": 1999.1999999999998,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MEMORIA NOTEBOOK DDR4 8GB PATRIOT 3200MHZ",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/memorias/memoria-notebook-ddr4-8gb-patriot-3200mhz-19150/",
-          "image": "assets/catalog/memoria-notebook-ddr4-8gb-patriot-3200mhz-ha-e77d3a633648cb64.jpg",
-          "stock": true,
-          "amount": 102.85,
-          "currency": "USD",
-          "priceText": "US$ 102,85",
-          "priceUYU": 4114,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Notebook Convertible iView Magnus IV 10.1\" 1280x800 Táctil 4G",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-convertible-iview-magnus-iv-101-1280x800-tactil-4g-tab812/",
-          "image": "assets/catalog/notebook-convertible-iview-magnus-iv-10-1-12-8149f79a43d1f79d.jpg",
-          "stock": false,
-          "amount": 181.28,
-          "currency": "USD",
-          "priceText": "US$ 181,28",
-          "priceUYU": 7251.2,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "Hard PC",
-          "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
-          "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
-          "stock": true,
-          "amount": 342.6,
-          "currency": "USD",
-          "priceText": "US$ 342,6",
-          "priceUYU": 13704,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        },
-        {
-          "store": "Hard PC",
-          "name": "FUENTE DE PODER 650W GIGABYTE P-P650G 80+ GOLD",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/fuentes/fuente-de-poder-650w-gigabyte-p-p650g-80-gold-21188/",
-          "image": "assets/catalog/fuente-de-poder-650w-gigabyte-p-p650g-80-gol-1837f381349c473b.jpg",
-          "stock": false,
-          "amount": 68.66,
-          "currency": "USD",
-          "priceText": "US$ 68,66",
-          "priceUYU": 2746.3999999999996,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Hard PC",
-          "name": "GABINETE XIGMATEK MEDUSA ATX 1 FAN RGB CON FUENTE 450W 8P PC",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/gabinete/gabinete-xigmatek-medusa-atx-1-fan-rgb-con-fuente-450w-8p-pc-en48847/",
-          "image": "assets/catalog/gabinete-xigmatek-medusa-atx-1-fan-rgb-con-f-726d3e532af6b026.jpg",
-          "stock": false,
-          "amount": 81.13,
-          "currency": "USD",
-          "priceText": "US$ 81,13",
-          "priceUYU": 3245.2,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Hard PC",
-          "name": "FUENTE DE PODER 650W EVGA BRONZE 80+",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/fuentes/fuente-de-poder-650w-evga-bronze-80-20048/",
-          "image": "assets/catalog/fuente-de-poder-650w-evga-bronze-80-hard-pc-658f27bf9b598659.jpg",
-          "stock": false,
-          "amount": 84.96,
-          "currency": "USD",
-          "priceText": "US$ 84,96",
-          "priceUYU": 3398.3999999999996,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Hard PC",
-          "name": "FUENTE DE PODER 750W CORSAIR 80+ BRONCE",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/fuentes/fuente-de-poder-750w-corsair-80-bronce-19697/",
-          "image": "assets/catalog/fuente-de-poder-750w-corsair-80-bronce-hard--bafd7b468bca4309.jpg",
-          "stock": false,
-          "amount": 106.08,
-          "currency": "USD",
-          "priceText": "US$ 106,08",
-          "priceUYU": 4243.2,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Hard PC",
-          "name": "FUENTE DE PODER 850W PERSEO 80 PLUS GOLD FULL MODULAR",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/fuentes/fuente-de-poder-850w-perseo-80-plus-gold-full-modular-21213/",
-          "image": "assets/catalog/fuente-de-poder-850w-perseo-80-plus-gold-ful-2b6095f617272c46.jpg",
-          "stock": true,
-          "amount": 112.53,
-          "currency": "USD",
-          "priceText": "US$ 112,53",
-          "priceUYU": 4501.2,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Teclado Logitech K380S Pebble Keys 2 Bluetooth Grafito",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-logitech-k380s-pebble-keys-2-bluetooth-grafito-tec164/",
-          "image": "assets/catalog/teclado-logitech-k380s-pebble-keys-2-bluetoo-8d42b0ee892b021b.jpg",
-          "stock": false,
-          "amount": 39.4,
-          "currency": "USD",
-          "priceText": "US$ 39,4",
-          "priceUYU": 1576,
-          "category": "Perifericos",
-          "catalogSeed": "teclado"
-        },
-        {
-          "store": "Hard PC",
-          "name": "TECLADO LOGITECH K650 GRAPHITE WS + BT",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-logitech-k650-graphite-ws-bt-19522/",
-          "image": "assets/catalog/teclado-logitech-k650-graphite-ws-bt-hard-pc-fe83047941fbc6e9.jpg",
-          "stock": false,
-          "amount": 49.02,
-          "currency": "USD",
-          "priceText": "US$ 49,02",
-          "priceUYU": 1960.8000000000002,
-          "category": "Perifericos",
-          "catalogSeed": "teclado"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Teclado con HUB USB-C Unitek 9 en 1 PD 100W HDMI 4K",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w-hdmi-4k-tec168/",
-          "image": "assets/catalog/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w--752db29a9f07a5e2.jpg",
-          "stock": false,
-          "amount": 100.49,
-          "currency": "USD",
-          "priceText": "US$ 100,49",
-          "priceUYU": 4019.6,
-          "category": "Perifericos",
-          "catalogSeed": "teclado"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Teclado be quiet! Light Mount Silent Linear US ANSI Mecánico",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-be-quiet-light-mount-silent-linear-us-ansi-mecanico-tec180/",
-          "image": "assets/catalog/teclado-be-quiet-light-mount-silent-linear-u-aac89450e13238e3.jpg",
-          "stock": false,
-          "amount": 181.85,
-          "currency": "USD",
-          "priceText": "US$ 181,85",
-          "priceUYU": 7274,
-          "category": "Perifericos",
-          "catalogSeed": "teclado"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS NEGRO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-negro-13001/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-negro-hard-pc-65917d7267dc50a4.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-gris-azulado-hard-pc-ee908a450f6171f9.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS ROSA",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-rosa-hard-pc-abbb8f164091654c.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS BLANCO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-blanco-hard-pc-46bb8096e30f6dca.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M185 WS NEGRO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-ws-negro-7484/",
-          "image": "assets/catalog/mouse-logitech-m185-ws-negro-hard-pc-8cc996f4a39f8098.jpg",
-          "stock": true,
-          "amount": 13.33,
-          "currency": "USD",
-          "priceText": "US$ 13,33",
-          "priceUYU": 533.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M185 WS AZUL",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-ws-azul-11696/",
-          "image": "assets/catalog/mouse-logitech-m185-ws-azul-hard-pc-f0e8ccbd928943fd.jpg",
-          "stock": true,
-          "amount": 13.38,
-          "currency": "USD",
-          "priceText": "US$ 13,38",
-          "priceUYU": 535.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M185 ROJO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-rojo-17593/",
-          "image": "assets/catalog/mouse-logitech-m185-rojo-hard-pc-bb7d8e6b7e8ee5e4.jpg",
-          "stock": true,
-          "amount": 13.38,
-          "currency": "USD",
-          "priceText": "US$ 13,38",
-          "priceUYU": 535.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Mouse X-Lizzard Gamer RGB USB 4800 DPI",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/juegos/mouse-x-lizzard-gamer-rgb-usb-4800-dpi-mou228/",
-          "image": "assets/catalog/mouse-x-lizzard-gamer-rgb-usb-4800-dpi-hard--6aadfe0dd6dda481.jpg",
-          "stock": true,
-          "amount": 15.7,
-          "currency": "USD",
-          "priceText": "US$ 15,7",
-          "priceUYU": 628,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOTHERBOARD ASROCK J4005M (INCLUYE PROCESADOR J4005M)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/motherboard-asrock-j4005m-incluye-procesador-j4005m-16338/",
-          "image": "assets/catalog/motherboard-asrock-j4005m-incluye-procesador-304d4f9b170da4ff.jpg",
-          "stock": true,
-          "amount": 111.23,
-          "currency": "USD",
-          "priceText": "US$ 111,23",
-          "priceUYU": 4449.2,
-          "category": "Procesadores",
-          "catalogSeed": "motherboard"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOTHERBOARD GIGABYTE H810M K G10 (LGA 1851) DDR5",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/motherboard-gigabyte-h810m-k-g10-lga-1851-ddr5-23391/",
-          "image": "assets/catalog/motherboard-gigabyte-h810m-k-g10-lga-1851-dd-ef228a02ddbf07fe.jpg",
-          "stock": true,
-          "amount": 125.92,
-          "currency": "USD",
-          "priceText": "US$ 125,92",
-          "priceUYU": 5036.8,
-          "category": "Memorias",
-          "catalogSeed": "motherboard"
-        },
-        {
-          "store": "Hard PC",
-          "name": "MOTHERBOARD GIGABYTE B760M K (1700/ DDR4)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/motherboard-gigabyte-b760m-k-1700-ddr4-19945/",
-          "image": "assets/catalog/motherboard-gigabyte-b760m-k-1700-ddr4-hard--0624a7a78ab689b4.jpg",
-          "stock": false,
-          "amount": 142.69,
-          "currency": "USD",
-          "priceText": "US$ 142,69",
-          "priceUYU": 5707.6,
-          "category": "Memorias",
-          "catalogSeed": "motherboard"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Gabinete DeepCool CC360 ARGB Micro-ATX Blanco",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/gabinetes/gabinete-deepcool-cc360-argb-micro-atx-blanco-gab174/",
-          "image": "assets/catalog/gabinete-deepcool-cc360-argb-micro-atx-blanc-64cab571c7776453.jpg",
-          "stock": false,
-          "amount": 61.66,
-          "currency": "USD",
-          "priceText": "US$ 61,66",
-          "priceUYU": 2466.3999999999996,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        },
-        {
-          "store": "Hard PC",
-          "name": "GABINETE COUGAR PURITY RGB BLACK",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/gabinetes/gabinete-cougar-purity-rgb-black-18032/",
-          "image": "assets/catalog/gabinete-cougar-purity-rgb-black-hard-pc-b2364e8ffdf8ee42.jpg",
-          "stock": false,
-          "amount": 63.31,
-          "currency": "USD",
-          "priceText": "US$ 63,31",
-          "priceUYU": 2532.4,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        },
-        {
-          "store": "Hard PC",
-          "name": "GABINETE COUGAR MX360 RGB",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/gabinete/gabinete-cougar-mx360-rgb-19489/",
-          "image": "assets/catalog/gabinete-cougar-mx360-rgb-hard-pc-66225803a8f1630c.jpg",
-          "stock": false,
-          "amount": 70.1,
-          "currency": "USD",
-          "priceText": "US$ 70,1",
-          "priceUYU": 2804,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Gabinete Cougar Archon 2 Mesh White",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/gabinetes/gabinete-cougar-archon-2-mesh-white-gca2mw/",
-          "image": "assets/catalog/gabinete-cougar-archon-2-mesh-white-hard-pc-ccf6418bd62b085d.jpg",
-          "stock": true,
-          "amount": 71.23,
-          "currency": "USD",
-          "priceText": "US$ 71,23",
-          "priceUYU": 2849.2000000000003,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        },
-        {
-          "store": "Hard PC",
-          "name": "Gabinete Cougar Archon 2 Mesh Black",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/gabinete/gabinete-cougar-archon-2-mesh-black-gca2mb/",
-          "image": "assets/catalog/gabinete-cougar-archon-2-mesh-black-hard-pc-b53eaf613b8333d1.jpg",
-          "stock": true,
-          "amount": 74.8,
-          "currency": "USD",
-          "priceText": "US$ 74,8",
-          "priceUYU": 2992,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        },
-        {
-          "store": "Hard PC",
-          "name": "GABINETE XIGMATEK MEDUSA ATX 1 FAN RGB CON FUENTE 450W 8P PC",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/gabinete/gabinete-xigmatek-medusa-atx-1-fan-rgb-con-fuente-450w-8p-pc-en48847/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_56442.jpg",
-          "stock": false,
-          "amount": 81.13,
-          "currency": "USD",
-          "priceText": "US$ 81,13",
-          "priceUYU": 3245.2,
-          "category": "Fuentes",
-          "catalogSeed": "gabinete"
-        }
-      ],
+      "ok": false,
+      "offers": [],
       "seeds": 16,
-      "error": ""
+      "error": "ssd: HTTP 403"
     },
     {
       "shop": "Banifox",
       "ok": false,
       "offers": [],
       "seeds": 16,
-      "error": "ssd: HTTP 405"
+      "error": "ssd: HTTP 403"
     },
     {
       "shop": "TComponentes",
@@ -2365,10 +1714,10 @@
     },
     {
       "shop": "NNET",
-      "ok": true,
+      "ok": false,
       "offers": [],
       "seeds": 16,
-      "error": ""
+      "error": "ssd: HTTP 403"
     },
     {
       "shop": "Digital Outlet",
@@ -2393,10 +1742,10 @@
     },
     {
       "shop": "PC Compu",
-      "ok": true,
+      "ok": false,
       "offers": [],
       "seeds": 16,
-      "error": ""
+      "error": "ssd: HTTP 403"
     },
     {
       "shop": "Pc Parts Uy",
@@ -2414,10 +1763,10 @@
     },
     {
       "shop": "Infinit Technology",
-      "ok": true,
+      "ok": false,
       "offers": [],
       "seeds": 16,
-      "error": ""
+      "error": "ssd: HTTP 403"
     }
   ],
   "products": [
@@ -2626,48 +1975,6 @@
           "currency": "USD",
           "priceText": "US$ 225",
           "priceUYU": 9000,
-          "category": "Almacenamiento",
-          "catalogSeed": "ssd"
-        }
-      ]
-    },
-    {
-      "name": "DISCO SSD 1TB KINGSTON M.2 NVME",
-      "category": "Almacenamiento",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/disco-ssd-1tb-kingston-m-2-nvme-hard-pc-a19dd1348dc53f29.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "DISCO SSD 1TB KINGSTON M.2 NVME",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/discos/disco-ssd-1tb-kingston-m2-nvme-17307/",
-          "image": "assets/catalog/disco-ssd-1tb-kingston-m-2-nvme-hard-pc-a19dd1348dc53f29.jpg",
-          "stock": true,
-          "amount": 254.48,
-          "currency": "USD",
-          "priceText": "US$ 254,48",
-          "priceUYU": 10179.199999999999,
-          "category": "Almacenamiento",
-          "catalogSeed": "ssd"
-        }
-      ]
-    },
-    {
-      "name": "DISCO SSD 1TB M.2 NVME ADATA LEGEND 710 2280 2400/1800",
-      "category": "Almacenamiento",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/disco-ssd-1tb-m-2-nvme-adata-legend-710-2280-1d7e2d9838e9035b.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "DISCO SSD 1TB M.2 NVME ADATA LEGEND 710 2280 2400/1800",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/discos/disco-ssd-1tb-m2-nvme-adata-legend-710-2280-2400/1800-23052/",
-          "image": "assets/catalog/disco-ssd-1tb-m-2-nvme-adata-legend-710-2280-1d7e2d9838e9035b.jpg",
-          "stock": true,
-          "amount": 261.18,
-          "currency": "USD",
-          "priceText": "US$ 261,18",
-          "priceUYU": 10447.2,
           "category": "Almacenamiento",
           "catalogSeed": "ssd"
         }
@@ -2947,210 +2254,126 @@
       ]
     },
     {
-      "name": "Fuente Cooler Master Elite NEX N400W",
+      "name": "Fuente Deepcool PS850G Gold SFX",
       "category": "Fuentes",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/fuente-cooler-master-elite-nex-n400w-thot-co-f5d88187ac99d064.png",
+      "image": "assets/catalog/fuente-deepcool-ps850g-gold-sfx-thot-computa-455a5d7cfea2cea5.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "Fuente Cooler Master Elite NEX N400W",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-cooler-master-elite-nex-n400w/",
-          "image": "assets/catalog/fuente-cooler-master-elite-nex-n400w-thot-co-f5d88187ac99d064.png",
+          "name": "Fuente Deepcool PS850G Gold SFX",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-deepcool-ps850g-gold-sfx/",
+          "image": "assets/catalog/fuente-deepcool-ps850g-gold-sfx-thot-computa-455a5d7cfea2cea5.jpg",
           "stock": true,
-          "amount": 35,
+          "amount": 125,
           "currency": "USD",
-          "priceText": "US$ 35",
-          "priceUYU": 1400,
+          "priceText": "US$ 125",
+          "priceUYU": 5000,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
       ]
     },
     {
-      "name": "Fuente Gigabyte P650G PG5 80 Plus Gold",
+      "name": "Fuente Deepcool PS850G WH Gold SFX",
       "category": "Fuentes",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/fuente-gigabyte-p650g-pg5-80-plus-gold-thot--4292eaa2b5c0810b.png",
+      "image": "assets/catalog/fuente-deepcool-ps850g-wh-gold-sfx-thot-comp-71a4dd8c1ad25568.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "Fuente Gigabyte P650G PG5 80 Plus Gold",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-gigabyte-p650g-pg5-80-plus-gold/",
-          "image": "assets/catalog/fuente-gigabyte-p650g-pg5-80-plus-gold-thot--4292eaa2b5c0810b.png",
+          "name": "Fuente Deepcool PS850G WH Gold SFX",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-deepcool-ps850g-wh-gold-sfx/",
+          "image": "assets/catalog/fuente-deepcool-ps850g-wh-gold-sfx-thot-comp-71a4dd8c1ad25568.jpg",
           "stock": true,
-          "amount": 65,
+          "amount": 125,
           "currency": "USD",
-          "priceText": "US$ 65",
-          "priceUYU": 2600,
+          "priceText": "US$ 125",
+          "priceUYU": 5000,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
       ]
     },
     {
-      "name": "FUENTE DE PODER 650W GIGABYTE P-P650G 80+ GOLD",
-      "category": "Fuentes",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/fuente-de-poder-650w-gigabyte-p-p650g-80-gol-1837f381349c473b.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "FUENTE DE PODER 650W GIGABYTE P-P650G 80+ GOLD",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/fuentes/fuente-de-poder-650w-gigabyte-p-p650g-80-gold-21188/",
-          "image": "assets/catalog/fuente-de-poder-650w-gigabyte-p-p650g-80-gol-1837f381349c473b.jpg",
-          "stock": false,
-          "amount": 68.66,
-          "currency": "USD",
-          "priceText": "US$ 68,66",
-          "priceUYU": 2746.3999999999996,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        }
-      ]
-    },
-    {
-      "name": "GABINETE XIGMATEK MEDUSA ATX 1 FAN RGB CON FUENTE 450W 8P PC",
-      "category": "Fuentes",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/gabinete-xigmatek-medusa-atx-1-fan-rgb-con-f-726d3e532af6b026.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "GABINETE XIGMATEK MEDUSA ATX 1 FAN RGB CON FUENTE 450W 8P PC",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/gabinete/gabinete-xigmatek-medusa-atx-1-fan-rgb-con-fuente-450w-8p-pc-en48847/",
-          "image": "assets/catalog/gabinete-xigmatek-medusa-atx-1-fan-rgb-con-f-726d3e532af6b026.jpg",
-          "stock": false,
-          "amount": 81.13,
-          "currency": "USD",
-          "priceText": "US$ 81,13",
-          "priceUYU": 3245.2,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        }
-      ]
-    },
-    {
-      "name": "FUENTE DE PODER 650W EVGA BRONZE 80+",
-      "category": "Fuentes",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/fuente-de-poder-650w-evga-bronze-80-hard-pc-658f27bf9b598659.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "FUENTE DE PODER 650W EVGA BRONZE 80+",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/fuentes/fuente-de-poder-650w-evga-bronze-80-20048/",
-          "image": "assets/catalog/fuente-de-poder-650w-evga-bronze-80-hard-pc-658f27bf9b598659.jpg",
-          "stock": false,
-          "amount": 84.96,
-          "currency": "USD",
-          "priceText": "US$ 84,96",
-          "priceUYU": 3398.3999999999996,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        }
-      ]
-    },
-    {
-      "name": "Fuente Gigabyte UD750GM PG5 V2 ICE 80 Plus Gold Full Modular",
+      "name": "Fuente ASUS TUF Gaming 850W Gold EVO",
       "category": "Fuentes",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/fuente-gigabyte-ud750gm-pg5-v2-ice-80-plus-g-212c4e16f7cc9b2d.png",
+      "image": "assets/catalog/fuente-asus-tuf-gaming-850w-gold-evo-thot-co-3c0e70f2c02ae641.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "Fuente Gigabyte UD750GM PG5 V2 ICE 80 Plus Gold Full Modular",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-gigabyte-ud750gm-pg5-v2-ice-80-plus-gold-full-modular/",
-          "image": "assets/catalog/fuente-gigabyte-ud750gm-pg5-v2-ice-80-plus-g-212c4e16f7cc9b2d.png",
+          "name": "Fuente ASUS TUF Gaming 850W Gold EVO",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-asus-tuf-gaming-850w-gold-evo/",
+          "image": "assets/catalog/fuente-asus-tuf-gaming-850w-gold-evo-thot-co-3c0e70f2c02ae641.jpg",
           "stock": true,
-          "amount": 100,
+          "amount": 150,
           "currency": "USD",
-          "priceText": "US$ 100",
-          "priceUYU": 4000,
+          "priceText": "US$ 150",
+          "priceUYU": 6000,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
       ]
     },
     {
-      "name": "FUENTE DE PODER 750W CORSAIR 80+ BRONCE",
-      "category": "Fuentes",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/fuente-de-poder-750w-corsair-80-bronce-hard--bafd7b468bca4309.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "FUENTE DE PODER 750W CORSAIR 80+ BRONCE",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/fuentes/fuente-de-poder-750w-corsair-80-bronce-19697/",
-          "image": "assets/catalog/fuente-de-poder-750w-corsair-80-bronce-hard--bafd7b468bca4309.jpg",
-          "stock": false,
-          "amount": 106.08,
-          "currency": "USD",
-          "priceText": "US$ 106,08",
-          "priceUYU": 4243.2,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        }
-      ]
-    },
-    {
-      "name": "FUENTE DE PODER 850W PERSEO 80 PLUS GOLD FULL MODULAR",
-      "category": "Fuentes",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/fuente-de-poder-850w-perseo-80-plus-gold-ful-2b6095f617272c46.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "FUENTE DE PODER 850W PERSEO 80 PLUS GOLD FULL MODULAR",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/fuentes/fuente-de-poder-850w-perseo-80-plus-gold-full-modular-21213/",
-          "image": "assets/catalog/fuente-de-poder-850w-perseo-80-plus-gold-ful-2b6095f617272c46.jpg",
-          "stock": true,
-          "amount": 112.53,
-          "currency": "USD",
-          "priceText": "US$ 112,53",
-          "priceUYU": 4501.2,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        }
-      ]
-    },
-    {
-      "name": "Fuente Gigabyte UD1000GM PG5 V2 ICE 80 Plus Gold Full Modular",
+      "name": "Fuente Be Quiet! Pure Power 12 1000W 80 plus Gold",
       "category": "Fuentes",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/fuente-gigabyte-ud1000gm-pg5-v2-ice-80-plus--5ef9e02c6a38ae05.png",
+      "image": "assets/catalog/fuente-be-quiet-pure-power-12-1000w-80-plus--903091baada564bb.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "Fuente Gigabyte UD1000GM PG5 V2 ICE 80 Plus Gold Full Modular",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-gigabyte-ud1000gm-pg5-v2-ice-80-plus-gold-full-modular/",
-          "image": "assets/catalog/fuente-gigabyte-ud1000gm-pg5-v2-ice-80-plus--5ef9e02c6a38ae05.png",
+          "name": "Fuente Be Quiet! Pure Power 12 1000W 80 plus Gold",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-be-quiet-pure-power-12-1000w-80-plus-gold/",
+          "image": "assets/catalog/fuente-be-quiet-pure-power-12-1000w-80-plus--903091baada564bb.jpg",
           "stock": true,
-          "amount": 130,
+          "amount": 160,
           "currency": "USD",
-          "priceText": "US$ 130",
-          "priceUYU": 5200,
+          "priceText": "US$ 160",
+          "priceUYU": 6400,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
       ]
     },
     {
-      "name": "Fuente Antec GSK850 White 80 plus Gold Full Modular",
+      "name": "Fuente ASUS TUF Gaming 1000W Gold EVO",
       "category": "Fuentes",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/fuente-antec-gsk850-white-80-plus-gold-full--634aea0ae209f0d8.jpg",
+      "image": "assets/catalog/fuente-asus-tuf-gaming-1000w-gold-evo-thot-c-24ac450917bcbc56.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "Fuente Antec GSK850 White 80 plus Gold Full Modular",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-antec-gsk850-white-80-plus-gold-full-modular/",
-          "image": "assets/catalog/fuente-antec-gsk850-white-80-plus-gold-full--634aea0ae209f0d8.jpg",
+          "name": "Fuente ASUS TUF Gaming 1000W Gold EVO",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-asus-tuf-gaming-1000w-gold-evo/",
+          "image": "assets/catalog/fuente-asus-tuf-gaming-1000w-gold-evo-thot-c-24ac450917bcbc56.jpg",
           "stock": true,
-          "amount": 154.99,
+          "amount": 175,
           "currency": "USD",
-          "priceText": "US$ 154,99",
-          "priceUYU": 6199.6,
+          "priceText": "US$ 175",
+          "priceUYU": 7000,
+          "category": "Fuentes",
+          "catalogSeed": "fuente"
+        }
+      ]
+    },
+    {
+      "name": "Fuente Be Quiet! Dark Power 14 850W 80 plus Titanium",
+      "category": "Fuentes",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/fuente-be-quiet-dark-power-14-850w-80-plus-t-05eb9134ed5d877f.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Fuente Be Quiet! Dark Power 14 850W 80 plus Titanium",
+          "url": "https://thotcomputacion.com.uy/producto/fuente-be-quiet-dark-power-14-850w-80-plus-titanium/",
+          "image": "assets/catalog/fuente-be-quiet-dark-power-14-850w-80-plus-t-05eb9134ed5d877f.jpg",
+          "stock": true,
+          "amount": 240,
+          "currency": "USD",
+          "priceText": "US$ 240",
+          "priceUYU": 9600,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
@@ -3172,27 +2395,6 @@
           "currency": "USD",
           "priceText": "US$ 450",
           "priceUYU": 18000,
-          "category": "Fuentes",
-          "catalogSeed": "fuente"
-        }
-      ]
-    },
-    {
-      "name": "Fuente ASUS ROG Thor Platinum III 1200W Full Modular",
-      "category": "Fuentes",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/fuente-asus-rog-thor-platinum-iii-1200w-full-e2f9019c0f96152a.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Fuente ASUS ROG Thor Platinum III 1200W Full Modular",
-          "url": "https://thotcomputacion.com.uy/producto/fuente-asus-rog-thor-platinum-iii-1200w-full-modular/",
-          "image": "assets/catalog/fuente-asus-rog-thor-platinum-iii-1200w-full-e2f9019c0f96152a.jpg",
-          "stock": true,
-          "amount": 525,
-          "currency": "USD",
-          "priceText": "US$ 525",
-          "priceUYU": 21000,
           "category": "Fuentes",
           "catalogSeed": "fuente"
         }
@@ -3241,111 +2443,6 @@
       ]
     },
     {
-      "name": "Gabinete DeepCool CC360 ARGB Micro-ATX Blanco",
-      "category": "Gabinetes",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/gabinete-deepcool-cc360-argb-micro-atx-blanc-64cab571c7776453.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Gabinete DeepCool CC360 ARGB Micro-ATX Blanco",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/gabinetes/gabinete-deepcool-cc360-argb-micro-atx-blanco-gab174/",
-          "image": "assets/catalog/gabinete-deepcool-cc360-argb-micro-atx-blanc-64cab571c7776453.jpg",
-          "stock": false,
-          "amount": 61.66,
-          "currency": "USD",
-          "priceText": "US$ 61,66",
-          "priceUYU": 2466.3999999999996,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        }
-      ]
-    },
-    {
-      "name": "GABINETE COUGAR PURITY RGB BLACK",
-      "category": "Gabinetes",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/gabinete-cougar-purity-rgb-black-hard-pc-b2364e8ffdf8ee42.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "GABINETE COUGAR PURITY RGB BLACK",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/gabinetes/gabinete-cougar-purity-rgb-black-18032/",
-          "image": "assets/catalog/gabinete-cougar-purity-rgb-black-hard-pc-b2364e8ffdf8ee42.jpg",
-          "stock": false,
-          "amount": 63.31,
-          "currency": "USD",
-          "priceText": "US$ 63,31",
-          "priceUYU": 2532.4,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        }
-      ]
-    },
-    {
-      "name": "GABINETE COUGAR MX360 RGB",
-      "category": "Gabinetes",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/gabinete-cougar-mx360-rgb-hard-pc-66225803a8f1630c.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "GABINETE COUGAR MX360 RGB",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/gabinete/gabinete-cougar-mx360-rgb-19489/",
-          "image": "assets/catalog/gabinete-cougar-mx360-rgb-hard-pc-66225803a8f1630c.jpg",
-          "stock": false,
-          "amount": 70.1,
-          "currency": "USD",
-          "priceText": "US$ 70,1",
-          "priceUYU": 2804,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        }
-      ]
-    },
-    {
-      "name": "Gabinete Cougar Archon 2 Mesh White",
-      "category": "Gabinetes",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gabinete-cougar-archon-2-mesh-white-hard-pc-ccf6418bd62b085d.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Gabinete Cougar Archon 2 Mesh White",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/gabinetes/gabinete-cougar-archon-2-mesh-white-gca2mw/",
-          "image": "assets/catalog/gabinete-cougar-archon-2-mesh-white-hard-pc-ccf6418bd62b085d.jpg",
-          "stock": true,
-          "amount": 71.23,
-          "currency": "USD",
-          "priceText": "US$ 71,23",
-          "priceUYU": 2849.2000000000003,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        }
-      ]
-    },
-    {
-      "name": "Gabinete Cougar Archon 2 Mesh Black",
-      "category": "Gabinetes",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gabinete-cougar-archon-2-mesh-black-hard-pc-b53eaf613b8333d1.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Gabinete Cougar Archon 2 Mesh Black",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/gabinete/gabinete-cougar-archon-2-mesh-black-gca2mb/",
-          "image": "assets/catalog/gabinete-cougar-archon-2-mesh-black-hard-pc-b53eaf613b8333d1.jpg",
-          "stock": true,
-          "amount": 74.8,
-          "currency": "USD",
-          "priceText": "US$ 74,8",
-          "priceUYU": 2992,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        }
-      ]
-    },
-    {
       "name": "Gabinete DeepCool CG380U 3F",
       "category": "Gabinetes",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3367,48 +2464,6 @@
       ]
     },
     {
-      "name": "Gabinete Gigabyte GB-C201P Ice",
-      "category": "Gabinetes",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gabinete-gigabyte-gb-c201p-ice-thot-computac-3955b6cbfa58e244.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Gabinete Gigabyte GB-C201P Ice",
-          "url": "https://thotcomputacion.com.uy/producto/gabinete-gigabyte-gb-c201p-ice/",
-          "image": "assets/catalog/gabinete-gigabyte-gb-c201p-ice-thot-computac-3955b6cbfa58e244.png",
-          "stock": true,
-          "amount": 89,
-          "currency": "USD",
-          "priceText": "US$ 89",
-          "priceUYU": 3560,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        }
-      ]
-    },
-    {
-      "name": "Gabinete Antec C5 Curve ARGB Black",
-      "category": "Gabinetes",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gabinete-antec-c5-curve-argb-black-thot-comp-88b7a3257e1ae839.webp",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "Gabinete Antec C5 Curve ARGB Black",
-          "url": "https://thotcomputacion.com.uy/producto/gabinete-antec-c5-curve-argb-black/",
-          "image": "assets/catalog/gabinete-antec-c5-curve-argb-black-thot-comp-88b7a3257e1ae839.webp",
-          "stock": true,
-          "amount": 120,
-          "currency": "USD",
-          "priceText": "US$ 120",
-          "priceUYU": 4800,
-          "category": "Gabinetes",
-          "catalogSeed": "gabinete"
-        }
-      ]
-    },
-    {
       "name": "Gabinete Antec C5 Curve ARGB White",
       "category": "Gabinetes",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3424,6 +2479,48 @@
           "currency": "USD",
           "priceText": "US$ 120",
           "priceUYU": 4800,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
+      "name": "Gabinete Cougar Airface Eco RGB Black",
+      "category": "Gabinetes",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gabinete-cougar-airface-eco-rgb-black-thot-c-9e7e95e6a9adf66e.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Gabinete Cougar Airface Eco RGB Black",
+          "url": "https://thotcomputacion.com.uy/producto/gabinete-cougar-airface-eco-rgb-black/",
+          "image": "assets/catalog/gabinete-cougar-airface-eco-rgb-black-thot-c-9e7e95e6a9adf66e.png",
+          "stock": true,
+          "amount": 129.99,
+          "currency": "USD",
+          "priceText": "US$ 129,99",
+          "priceUYU": 5199.6,
+          "category": "Gabinetes",
+          "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
+      "name": "Gabinete Cougar Airface Eco RGB White",
+      "category": "Gabinetes",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gabinete-cougar-airface-eco-rgb-white-thot-c-b3686a1d68fae968.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "Gabinete Cougar Airface Eco RGB White",
+          "url": "https://thotcomputacion.com.uy/producto/gabinete-cougar-airface-eco-rgb-white/",
+          "image": "assets/catalog/gabinete-cougar-airface-eco-rgb-white-thot-c-b3686a1d68fae968.png",
+          "stock": true,
+          "amount": 129.99,
+          "currency": "USD",
+          "priceText": "US$ 129,99",
+          "priceUYU": 5199.6,
           "category": "Gabinetes",
           "catalogSeed": "gabinete"
         }
@@ -3489,6 +2586,27 @@
           "priceUYU": 9400,
           "category": "Gabinetes",
           "catalogSeed": "gabinete"
+        }
+      ]
+    },
+    {
+      "name": "GPU MSI GeForce RTX 3050 LP OC 6Gb DDR6",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6-thot-bfab022799eb14c9.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU MSI GeForce RTX 3050 LP OC 6Gb DDR6",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx-3050-lp-oc-6gb-ddr6-thot-bfab022799eb14c9.jpg",
+          "stock": true,
+          "amount": 365,
+          "currency": "USD",
+          "priceText": "US$ 365",
+          "priceUYU": 14600,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3577,6 +2695,27 @@
       ]
     },
     {
+      "name": "GPU Gigabyte GeForce RTX5050 Low Profile 8GB",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5050-low-profile-8gb-5fb345647f49449f.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX5050 Low Profile 8GB",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5050-low-profile-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5050-low-profile-8gb-5fb345647f49449f.png",
+          "stock": true,
+          "amount": 525,
+          "currency": "USD",
+          "priceText": "US$ 525",
+          "priceUYU": 21000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU PALIT GeForce RTX 5050 Dual OC 8GB",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -3619,84 +2758,42 @@
       ]
     },
     {
-      "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
+      "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
       "offers": [
         {
           "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 Eagle OC ICE 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-eagle-oc-ice-8g-7144a36a81be7c32.png",
-          "stock": true,
-          "amount": 600,
-          "currency": "USD",
-          "priceText": "US$ 600",
-          "priceUYU": 24000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Asus Dual GeForce RTX5060 8GB",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Asus Dual GeForce RTX5060 8GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx-5060-8gb-ddr7/",
-          "image": "assets/catalog/gpu-asus-dual-geforce-rtx5060-8gb-thot-compu-d5be9b27a3e26167.jpg",
-          "stock": true,
-          "amount": 615,
-          "currency": "USD",
-          "priceText": "US$ 615",
-          "priceUYU": 24600,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Asus Dual Geforce RTX3060 OC 12Gb DDR6",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6-t-8d7ca22c3d6b8d99.png",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Asus Dual Geforce RTX3060 OC 12Gb DDR6",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6/",
-          "image": "assets/catalog/gpu-asus-dual-geforce-rtx3060-oc-12gb-ddr6-t-8d7ca22c3d6b8d99.png",
-          "stock": true,
-          "amount": 624.99,
-          "currency": "USD",
-          "priceText": "US$ 624,99",
-          "priceUYU": 24999.6,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit Geforce RTX5060 Ti Dual 8Gb GDDR7",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx5060-ti-dual-8gb-gddr7--a732c15c23f671dd.jpg",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Eagle OC ICE 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-eagle-oc-ice-1b1b419a45a4b96d.png",
           "stock": true,
           "amount": 650,
           "currency": "USD",
           "priceText": "US$ 650",
           "priceUYU": 26000,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
+      "name": "GPU Gigabyte GeForce RTX5060 TI Windforce 8Gb",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-8g-cc18ed4e06ef0e42.jpg",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Gigabyte GeForce RTX5060 TI Windforce 8Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-windforce-8gb/",
+          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-8g-cc18ed4e06ef0e42.jpg",
+          "stock": true,
+          "amount": 665,
+          "currency": "USD",
+          "priceText": "US$ 665",
+          "priceUYU": 26600,
           "category": "Graficas",
           "catalogSeed": "gtx"
         }
@@ -3720,27 +2817,6 @@
           "priceUYU": 27000,
           "category": "Graficas",
           "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
-      "name": "GPU Gigabyte GeForce RTX5060 TI Windforce OC 8Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-298845747088d8cc.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte GeForce RTX5060 TI Windforce OC 8Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-8gb/",
-          "image": "assets/catalog/gpu-gigabyte-geforce-rtx5060-ti-windforce-oc-298845747088d8cc.jpg",
-          "stock": true,
-          "amount": 675,
-          "currency": "USD",
-          "priceText": "US$ 675",
-          "priceUYU": 27000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
         }
       ]
     },
@@ -3934,6 +3010,27 @@
       ]
     },
     {
+      "name": "GPU MSI GeForce RTX5060 TI Shadow 2X OC Plus 16Gb",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Sin stock - Catalogo conectado",
+      "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-07503950f06c031e.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU MSI GeForce RTX5060 TI Shadow 2X OC Plus 16Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-16gb/",
+          "image": "assets/catalog/gpu-msi-geforce-rtx5060-ti-shadow-2x-oc-plus-07503950f06c031e.png",
+          "stock": false,
+          "amount": 1049.99,
+          "currency": "USD",
+          "priceText": "US$ 1.049,99",
+          "priceUYU": 41999.6,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU Gigabyte Radeon RX9070 Gaming 16Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -4018,6 +3115,27 @@
       ]
     },
     {
+      "name": "GPU Asus TUF GeForce RTX5070 Ti 16Gb",
+      "category": "Graficas",
+      "specs": "Thot Computacion - Disponible - Catalogo conectado",
+      "image": "assets/catalog/gpu-asus-tuf-geforce-rtx5070-ti-16gb-thot-co-f6b0a7f4e2c261e3.png",
+      "offers": [
+        {
+          "store": "Thot Computacion",
+          "name": "GPU Asus TUF GeForce RTX5070 Ti 16Gb",
+          "url": "https://thotcomputacion.com.uy/producto/gpu-asus-tuf-geforce-rtx5070-ti-oc-edition-16gb/",
+          "image": "assets/catalog/gpu-asus-tuf-geforce-rtx5070-ti-16gb-thot-co-f6b0a7f4e2c261e3.png",
+          "stock": true,
+          "amount": 1999.99,
+          "currency": "USD",
+          "priceText": "US$ 1.999,99",
+          "priceUYU": 79999.6,
+          "category": "Graficas",
+          "catalogSeed": "gtx"
+        }
+      ]
+    },
+    {
       "name": "GPU Inno3d GeForce RTX 5080 X3 16Gb",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -4039,27 +3157,6 @@
       ]
     },
     {
-      "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Palit GeForce RTX 5080 Gaming Pro 16Gb",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-palit-geforce-rtx-5080-gaming-pro-16gb/",
-          "image": "assets/catalog/gpu-palit-geforce-rtx-5080-gaming-pro-16gb-t-9abcfb58fa715bc6.jpg",
-          "stock": true,
-          "amount": 2750,
-          "currency": "USD",
-          "priceText": "US$ 2.750",
-          "priceUYU": 110000,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
-        }
-      ]
-    },
-    {
       "name": "GPU Gigabyte GeForce RTX 5080 Windforce OC SFF 16GB",
       "category": "Graficas",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -4077,27 +3174,6 @@
           "priceUYU": 112000,
           "category": "Graficas",
           "catalogSeed": "rtx"
-        }
-      ]
-    },
-    {
-      "name": "GPU Gigabyte RTX 5080 Gaming OC 16GB",
-      "category": "Graficas",
-      "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "assets/catalog/gpu-gigabyte-rtx-5080-gaming-oc-16gb-thot-co-c1e49c0753976ea3.jpg",
-      "offers": [
-        {
-          "store": "Thot Computacion",
-          "name": "GPU Gigabyte RTX 5080 Gaming OC 16GB",
-          "url": "https://thotcomputacion.com.uy/producto/gpu-gigabyte-rtx-5080-gaming-oc-16gb/",
-          "image": "assets/catalog/gpu-gigabyte-rtx-5080-gaming-oc-16gb-thot-co-c1e49c0753976ea3.jpg",
-          "stock": true,
-          "amount": 2849.99,
-          "currency": "USD",
-          "priceText": "US$ 2.849,99",
-          "priceUYU": 113999.59999999999,
-          "category": "Graficas",
-          "catalogSeed": "gtx"
         }
       ]
     },
@@ -4186,27 +3262,6 @@
       ]
     },
     {
-      "name": "MOTHERBOARD GIGABYTE H810M K G10 (LGA 1851) DDR5",
-      "category": "Memorias",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/motherboard-gigabyte-h810m-k-g10-lga-1851-dd-ef228a02ddbf07fe.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOTHERBOARD GIGABYTE H810M K G10 (LGA 1851) DDR5",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/motherboard-gigabyte-h810m-k-g10-lga-1851-ddr5-23391/",
-          "image": "assets/catalog/motherboard-gigabyte-h810m-k-g10-lga-1851-dd-ef228a02ddbf07fe.jpg",
-          "stock": true,
-          "amount": 125.92,
-          "currency": "USD",
-          "priceText": "US$ 125,92",
-          "priceUYU": 5036.8,
-          "category": "Memorias",
-          "catalogSeed": "motherboard"
-        }
-      ]
-    },
-    {
       "name": "Mother Gigabyte B860M E DDR5",
       "category": "Memorias",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -4222,27 +3277,6 @@
           "currency": "USD",
           "priceText": "US$ 129,99",
           "priceUYU": 5199.6,
-          "category": "Memorias",
-          "catalogSeed": "motherboard"
-        }
-      ]
-    },
-    {
-      "name": "MOTHERBOARD GIGABYTE B760M K (1700/ DDR4)",
-      "category": "Memorias",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/motherboard-gigabyte-b760m-k-1700-ddr4-hard--0624a7a78ab689b4.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOTHERBOARD GIGABYTE B760M K (1700/ DDR4)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/motherboard-gigabyte-b760m-k-1700-ddr4-19945/",
-          "image": "assets/catalog/motherboard-gigabyte-b760m-k-1700-ddr4-hard--0624a7a78ab689b4.jpg",
-          "stock": false,
-          "amount": 142.69,
-          "currency": "USD",
-          "priceText": "US$ 142,69",
-          "priceUYU": 5707.6,
           "category": "Memorias",
           "catalogSeed": "motherboard"
         }
@@ -4371,90 +3405,6 @@
           "priceUYU": 30000,
           "category": "Memorias",
           "catalogSeed": "memoria ram"
-        }
-      ]
-    },
-    {
-      "name": "Monitor Portátil AOC LED IPS 15.6\" Full HD USB-C",
-      "category": "Monitores",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/monitor-portatil-aoc-led-ips-15-6-full-hd-us-5203031e5233bb9f.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Monitor Portátil AOC LED IPS 15.6\" Full HD USB-C",
-          "url": "https://www.hardpc.com.uy/catalogo/monitores/monitores/monitor-portatil-aoc-led-ips-156-full-hd-usb-c-mon382/",
-          "image": "assets/catalog/monitor-portatil-aoc-led-ips-15-6-full-hd-us-5203031e5233bb9f.jpg",
-          "stock": false,
-          "amount": 95.64,
-          "currency": "USD",
-          "priceText": "US$ 95,64",
-          "priceUYU": 3825.6,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "Monitor Hikvision 22\" Full HD IPS 100Hz",
-      "category": "Monitores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/monitor-hikvision-22-full-hd-ips-100hz-hard--52aff7614e000c42.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Monitor Hikvision 22\" Full HD IPS 100Hz",
-          "url": "https://www.hardpc.com.uy/catalogo/monitores/monitores/monitor-hikvision-22-full-hd-ips-100hz-mon293/",
-          "image": "assets/catalog/monitor-hikvision-22-full-hd-ips-100hz-hard--52aff7614e000c42.jpg",
-          "stock": true,
-          "amount": 106.48,
-          "currency": "USD",
-          "priceText": "US$ 106,48",
-          "priceUYU": 4259.2,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR 24\" VIEWSONIC VA240A-H (120HZ, FHD, VGA,HDMI,VESA)",
-      "category": "Monitores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/monitor-24-viewsonic-va240a-h-120hz-fhd-vga--51ec6145b96fa10a.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MONITOR 24\" VIEWSONIC VA240A-H (120HZ, FHD, VGA,HDMI,VESA)",
-          "url": "https://www.hardpc.com.uy/catalogo/monitores/monitores/monitor-24-viewsonic-va240a-h-120hz-fhd-vgahdmivesa-23814/",
-          "image": "assets/catalog/monitor-24-viewsonic-va240a-h-120hz-fhd-vga--51ec6145b96fa10a.jpg",
-          "stock": true,
-          "amount": 107.57,
-          "currency": "USD",
-          "priceText": "US$ 107,57",
-          "priceUYU": 4302.799999999999,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
-        }
-      ]
-    },
-    {
-      "name": "MONITOR 24\" SAMSUNG ESSENTIAL S3 IPS FHD 100HZ (HDMI/VGA)",
-      "category": "Monitores",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/monitor-24-samsung-essential-s3-ips-fhd-100h-475bf927558bab98.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MONITOR 24\" SAMSUNG ESSENTIAL S3 IPS FHD 100HZ (HDMI/VGA)",
-          "url": "https://www.hardpc.com.uy/catalogo/monitores/monitores/monitor-24-samsung-essential-s3-ips-fhd-100hz-hdmi-vga-22519/",
-          "image": "assets/catalog/monitor-24-samsung-essential-s3-ips-fhd-100h-475bf927558bab98.jpg",
-          "stock": false,
-          "amount": 108.09,
-          "currency": "USD",
-          "priceText": "US$ 108,09",
-          "priceUYU": 4323.6,
-          "category": "Monitores",
-          "catalogSeed": "monitor"
         }
       ]
     },
@@ -4753,153 +3703,6 @@
       ]
     },
     {
-      "name": "CARGADOR NOTEBOOK UNIVERSAL 90W 10 PUNTAS",
-      "category": "Notebooks",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/cargador-notebook-universal-90w-10-puntas-ha-31e8edc9d96401fe.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "CARGADOR NOTEBOOK UNIVERSAL 90W 10 PUNTAS",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/accesorios/cargador-notebook-universal-90w-10-puntas-167/",
-          "image": "assets/catalog/cargador-notebook-universal-90w-10-puntas-ha-31e8edc9d96401fe.jpg",
-          "stock": true,
-          "amount": 49.98,
-          "currency": "USD",
-          "priceText": "US$ 49,98",
-          "priceUYU": 1999.1999999999998,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "MEMORIA NOTEBOOK DDR4 8GB PATRIOT 3200MHZ",
-      "category": "Notebooks",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/memoria-notebook-ddr4-8gb-patriot-3200mhz-ha-e77d3a633648cb64.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MEMORIA NOTEBOOK DDR4 8GB PATRIOT 3200MHZ",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/memorias/memoria-notebook-ddr4-8gb-patriot-3200mhz-19150/",
-          "image": "assets/catalog/memoria-notebook-ddr4-8gb-patriot-3200mhz-ha-e77d3a633648cb64.jpg",
-          "stock": true,
-          "amount": 102.85,
-          "currency": "USD",
-          "priceText": "US$ 102,85",
-          "priceUYU": 4114,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "Notebook Convertible iView Magnus IV 10.1\" 1280x800 Táctil 4G",
-      "category": "Notebooks",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/notebook-convertible-iview-magnus-iv-10-1-12-8149f79a43d1f79d.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Notebook Convertible iView Magnus IV 10.1\" 1280x800 Táctil 4G",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-convertible-iview-magnus-iv-101-1280x800-tactil-4g-tab812/",
-          "image": "assets/catalog/notebook-convertible-iview-magnus-iv-10-1-12-8149f79a43d1f79d.jpg",
-          "stock": false,
-          "amount": 181.28,
-          "currency": "USD",
-          "priceText": "US$ 181,28",
-          "priceUYU": 7251.2,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
-      "category": "Notebooks",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "NOTEBOOK REF DELL 7490 I5-8350 8GB 256GB 14\" TOUCH",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-ref-dell-7490-i5-8350-8gb-256gb-14-touch-22442/",
-          "image": "assets/catalog/notebook-ref-dell-7490-i5-8350-8gb-256gb-14--266a042941858d5f.jpg",
-          "stock": true,
-          "amount": 342.6,
-          "currency": "USD",
-          "priceText": "US$ 342,6",
-          "priceUYU": 13704,
-          "category": "Notebooks",
-          "catalogSeed": "notebook"
-        }
-      ]
-    },
-    {
-      "name": "NOTEBOOK ACER ASPIRE 3 A325-45 (CELERON N4500/8GB/SSD256GB/15,6\"FHD/FREEDOS)",
-      "category": "Notebooks",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/notebook-acer-aspire-3-a325-45-celeron-n4500-2de376456c076076.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "NOTEBOOK ACER ASPIRE 3 A325-45 (CELERON N4500/8GB/SSD256GB/15,6\"FHD/FREEDOS)",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-acer-aspire-3-a325-45-celeron-n4500-8gb-ssd256gb-156fhd-freedos-23552/",
-          "image": "assets/catalog/notebook-acer-aspire-3-a325-45-celeron-n4500-2de376456c076076.jpg",
-          "stock": true,
-          "amount": 351.21,
-          "currency": "USD",
-          "priceText": "US$ 351,21",
-          "priceUYU": 14048.4,
-          "category": "Notebooks",
-          "catalogSeed": "ssd"
-        }
-      ]
-    },
-    {
-      "name": "Notebook Chuwi Ryzen 5 3.5Ghz, 8GB, 256GB, 15.6\" FHD, Español",
-      "category": "Notebooks",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/notebook-chuwi-ryzen-5-3-5ghz-8gb-256gb-15-6-a8b28912300b7bf2.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Notebook Chuwi Ryzen 5 3.5Ghz, 8GB, 256GB, 15.6\" FHD, Español",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-chuwi-ryzen-5-35ghz-8gb-256gb-156-fhd-espanol-not3505/",
-          "image": "assets/catalog/notebook-chuwi-ryzen-5-3-5ghz-8gb-256gb-15-6-a8b28912300b7bf2.jpg",
-          "stock": false,
-          "amount": 560.97,
-          "currency": "USD",
-          "priceText": "US$ 560,97",
-          "priceUYU": 22438.800000000003,
-          "category": "Notebooks",
-          "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
-      "name": "Notebook Acer Ryzen 3 30 4.1Ghz, 8GB, 128GB SSD, 15.3\" FHD",
-      "category": "Notebooks",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/notebook-acer-ryzen-3-30-4-1ghz-8gb-128gb-ss-af47ac79758e091f.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Notebook Acer Ryzen 3 30 4.1Ghz, 8GB, 128GB SSD, 15.3\" FHD",
-          "url": "https://www.hardpc.com.uy/catalogo/computadoras/notebooks/notebook-acer-ryzen-3-30-41ghz-8gb-128gb-ssd-153-fhd-not3533/",
-          "image": "assets/catalog/notebook-acer-ryzen-3-30-4-1ghz-8gb-128gb-ss-af47ac79758e091f.jpg",
-          "stock": false,
-          "amount": 583.81,
-          "currency": "USD",
-          "priceText": "US$ 583,81",
-          "priceUYU": 23352.399999999998,
-          "category": "Notebooks",
-          "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
       "name": "Notebook Lenovo 15AMN7 82VG00WXUS R5 7520U/8Gb DDR5/256Gb NVMe/15,6/W11",
       "category": "Notebooks",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -5131,90 +3934,6 @@
       ]
     },
     {
-      "name": "MOUSE LOGITECH M170 WS BLANCO",
-      "category": "Perifericos",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/mouse-logitech-m170-ws-blanco-hard-pc-46bb8096e30f6dca.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS BLANCO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-blanco-21250/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-blanco-hard-pc-46bb8096e30f6dca.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
-      "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
-      "category": "Perifericos",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/mouse-logitech-m170-ws-gris-azulado-hard-pc-ee908a450f6171f9.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS GRIS AZULADO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-gris-azulado-19596/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-gris-azulado-hard-pc-ee908a450f6171f9.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
-      "name": "MOUSE LOGITECH M170 WS NEGRO",
-      "category": "Perifericos",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/mouse-logitech-m170-ws-negro-hard-pc-65917d7267dc50a4.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS NEGRO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-negro-13001/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-negro-hard-pc-65917d7267dc50a4.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
-      "name": "MOUSE LOGITECH M170 WS ROSA",
-      "category": "Perifericos",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/mouse-logitech-m170-ws-rosa-hard-pc-abbb8f164091654c.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M170 WS ROSA",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m170-ws-rosa-19595/",
-          "image": "assets/catalog/mouse-logitech-m170-ws-rosa-hard-pc-abbb8f164091654c.jpg",
-          "stock": true,
-          "amount": 10.03,
-          "currency": "USD",
-          "priceText": "US$ 10,03",
-          "priceUYU": 401.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
       "name": "Mouse Pad Redragon Flick L",
       "category": "Perifericos",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -5230,69 +3949,6 @@
           "currency": "USD",
           "priceText": "US$ 12",
           "priceUYU": 480,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
-      "name": "MOUSE LOGITECH M185 WS NEGRO",
-      "category": "Perifericos",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/mouse-logitech-m185-ws-negro-hard-pc-8cc996f4a39f8098.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M185 WS NEGRO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-ws-negro-7484/",
-          "image": "assets/catalog/mouse-logitech-m185-ws-negro-hard-pc-8cc996f4a39f8098.jpg",
-          "stock": true,
-          "amount": 13.33,
-          "currency": "USD",
-          "priceText": "US$ 13,33",
-          "priceUYU": 533.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
-      "name": "MOUSE LOGITECH M185 ROJO",
-      "category": "Perifericos",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/mouse-logitech-m185-rojo-hard-pc-bb7d8e6b7e8ee5e4.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M185 ROJO",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-rojo-17593/",
-          "image": "assets/catalog/mouse-logitech-m185-rojo-hard-pc-bb7d8e6b7e8ee5e4.jpg",
-          "stock": true,
-          "amount": 13.38,
-          "currency": "USD",
-          "priceText": "US$ 13,38",
-          "priceUYU": 535.2,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
-      "name": "MOUSE LOGITECH M185 WS AZUL",
-      "category": "Perifericos",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/mouse-logitech-m185-ws-azul-hard-pc-f0e8ccbd928943fd.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOUSE LOGITECH M185 WS AZUL",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/mouse/mouse-logitech-m185-ws-azul-11696/",
-          "image": "assets/catalog/mouse-logitech-m185-ws-azul-hard-pc-f0e8ccbd928943fd.jpg",
-          "stock": true,
-          "amount": 13.38,
-          "currency": "USD",
-          "priceText": "US$ 13,38",
-          "priceUYU": 535.2,
           "category": "Perifericos",
           "catalogSeed": "mouse"
         }
@@ -5320,27 +3976,6 @@
       ]
     },
     {
-      "name": "Mouse X-Lizzard Gamer RGB USB 4800 DPI",
-      "category": "Perifericos",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/mouse-x-lizzard-gamer-rgb-usb-4800-dpi-hard--6aadfe0dd6dda481.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Mouse X-Lizzard Gamer RGB USB 4800 DPI",
-          "url": "https://www.hardpc.com.uy/catalogo/gaming/juegos/mouse-x-lizzard-gamer-rgb-usb-4800-dpi-mou228/",
-          "image": "assets/catalog/mouse-x-lizzard-gamer-rgb-usb-4800-dpi-hard--6aadfe0dd6dda481.jpg",
-          "stock": true,
-          "amount": 15.7,
-          "currency": "USD",
-          "priceText": "US$ 15,7",
-          "priceUYU": 628,
-          "category": "Perifericos",
-          "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
       "name": "Mouse Redragon Impact M908 RGB",
       "category": "Perifericos",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -5358,27 +3993,6 @@
           "priceUYU": 960,
           "category": "Perifericos",
           "catalogSeed": "mouse"
-        }
-      ]
-    },
-    {
-      "name": "Teclado Logitech K380S Pebble Keys 2 Bluetooth Grafito",
-      "category": "Perifericos",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/teclado-logitech-k380s-pebble-keys-2-bluetoo-8d42b0ee892b021b.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Teclado Logitech K380S Pebble Keys 2 Bluetooth Grafito",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-logitech-k380s-pebble-keys-2-bluetooth-grafito-tec164/",
-          "image": "assets/catalog/teclado-logitech-k380s-pebble-keys-2-bluetoo-8d42b0ee892b021b.jpg",
-          "stock": false,
-          "amount": 39.4,
-          "currency": "USD",
-          "priceText": "US$ 39,4",
-          "priceUYU": 1576,
-          "category": "Perifericos",
-          "catalogSeed": "teclado"
         }
       ]
     },
@@ -5419,27 +4033,6 @@
           "currency": "USD",
           "priceText": "US$ 44,99",
           "priceUYU": 1799.6000000000001,
-          "category": "Perifericos",
-          "catalogSeed": "teclado"
-        }
-      ]
-    },
-    {
-      "name": "TECLADO LOGITECH K650 GRAPHITE WS + BT",
-      "category": "Perifericos",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/teclado-logitech-k650-graphite-ws-bt-hard-pc-fe83047941fbc6e9.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "TECLADO LOGITECH K650 GRAPHITE WS + BT",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-logitech-k650-graphite-ws-bt-19522/",
-          "image": "assets/catalog/teclado-logitech-k650-graphite-ws-bt-hard-pc-fe83047941fbc6e9.jpg",
-          "stock": false,
-          "amount": 49.02,
-          "currency": "USD",
-          "priceText": "US$ 49,02",
-          "priceUYU": 1960.8000000000002,
           "category": "Perifericos",
           "catalogSeed": "teclado"
         }
@@ -5530,27 +4123,6 @@
       ]
     },
     {
-      "name": "Teclado con HUB USB-C Unitek 9 en 1 PD 100W HDMI 4K",
-      "category": "Perifericos",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w--752db29a9f07a5e2.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Teclado con HUB USB-C Unitek 9 en 1 PD 100W HDMI 4K",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w-hdmi-4k-tec168/",
-          "image": "assets/catalog/teclado-con-hub-usb-c-unitek-9-en-1-pd-100w--752db29a9f07a5e2.jpg",
-          "stock": false,
-          "amount": 100.49,
-          "currency": "USD",
-          "priceText": "US$ 100,49",
-          "priceUYU": 4019.6,
-          "category": "Perifericos",
-          "catalogSeed": "teclado"
-        }
-      ]
-    },
-    {
       "name": "Teclado Razer Huntsman Mini – Opto-Mechanical Switch",
       "category": "Perifericos",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
@@ -5635,163 +4207,16 @@
       ]
     },
     {
-      "name": "Teclado be quiet! Light Mount Silent Linear US ANSI Mecánico",
-      "category": "Perifericos",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/teclado-be-quiet-light-mount-silent-linear-u-aac89450e13238e3.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Teclado be quiet! Light Mount Silent Linear US ANSI Mecánico",
-          "url": "https://www.hardpc.com.uy/catalogo/perifericos/teclados/teclado-be-quiet-light-mount-silent-linear-us-ansi-mecanico-tec180/",
-          "image": "assets/catalog/teclado-be-quiet-light-mount-silent-linear-u-aac89450e13238e3.jpg",
-          "stock": false,
-          "amount": 181.85,
-          "currency": "USD",
-          "priceText": "US$ 181,85",
-          "priceUYU": 7274,
-          "category": "Perifericos",
-          "catalogSeed": "teclado"
-        }
-      ]
-    },
-    {
-      "name": "MOTHERBOARD ASROCK J4005M (INCLUYE PROCESADOR J4005M)",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/motherboard-asrock-j4005m-incluye-procesador-304d4f9b170da4ff.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "MOTHERBOARD ASROCK J4005M (INCLUYE PROCESADOR J4005M)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/motherboard/motherboard-asrock-j4005m-incluye-procesador-j4005m-16338/",
-          "image": "assets/catalog/motherboard-asrock-j4005m-incluye-procesador-304d4f9b170da4ff.jpg",
-          "stock": true,
-          "amount": 111.23,
-          "currency": "USD",
-          "priceText": "US$ 111,23",
-          "priceUYU": 4449.2,
-          "category": "Procesadores",
-          "catalogSeed": "motherboard"
-        }
-      ]
-    },
-    {
-      "name": "PROCESADOR INTEL I3 12100 (1700)",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/procesador-intel-i3-12100-1700-hard-pc-e567dec42116dbdd.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I3 12100 (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i3-12100-1700-17906/",
-          "image": "assets/catalog/procesador-intel-i3-12100-1700-hard-pc-e567dec42116dbdd.jpg",
-          "stock": true,
-          "amount": 200.4,
-          "currency": "USD",
-          "priceText": "US$ 200,4",
-          "priceUYU": 8016,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "PROCESADOR INTEL I3 14100 (1700)",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/procesador-intel-i3-14100-1700-hard-pc-21164e16a7e59872.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I3 14100 (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i3-14100-1700-19967/",
-          "image": "assets/catalog/procesador-intel-i3-14100-1700-hard-pc-21164e16a7e59872.jpg",
-          "stock": true,
-          "amount": 214.44,
-          "currency": "USD",
-          "priceText": "US$ 214,44",
-          "priceUYU": 8577.6,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "PROCESADOR INTEL I5 12400F (1700)",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/procesador-intel-i5-12400f-1700-hard-pc-7b3ba79feb0589d0.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I5 12400F (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-12400f-1700-17669/",
-          "image": "assets/catalog/procesador-intel-i5-12400f-1700-hard-pc-7b3ba79feb0589d0.jpg",
-          "stock": true,
-          "amount": 225.69,
-          "currency": "USD",
-          "priceText": "US$ 225,69",
-          "priceUYU": 9027.6,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "PROCESADOR INTEL ULTRA 5 225F 4.9 GHZ (1851)",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "assets/catalog/procesador-intel-ultra-5-225f-4-9-ghz-1851-h-de3fd970425a43e7.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL ULTRA 5 225F 4.9 GHZ (1851)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-ultra-5-225f-49-ghz-1851-23640/",
-          "image": "assets/catalog/procesador-intel-ultra-5-225f-4-9-ghz-1851-h-de3fd970425a43e7.jpg",
-          "stock": true,
-          "amount": 229.42,
-          "currency": "USD",
-          "priceText": "US$ 229,42",
-          "priceUYU": 9176.8,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "Intel Core i5 i5-14400F - 2.5 GHz - 10 núcleos - 16 hilos - 20 MB caché - FCLGA1700 Socket - Caja",
-      "category": "Procesadores",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "assets/catalog/intel-core-i5-i5-14400f-2-5-ghz-10-nucleos-1-6577d692ec859bb0.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Intel Core i5 i5-14400F - 2.5 GHz - 10 núcleos - 16 hilos - 20 MB caché - FCLGA1700 Socket - Caja",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/intel-core-i5-i5-14400f-25-ghz-10-nucleos-16-hilos-20-mb-cache-fclga1700-socket-caja-cp144itl01/",
-          "image": "assets/catalog/intel-core-i5-i5-14400f-2-5-ghz-10-nucleos-1-6577d692ec859bb0.jpg",
-          "stock": false,
-          "amount": 249.72,
-          "currency": "USD",
-          "priceText": "US$ 249,72",
-          "priceUYU": 9988.8,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
       "name": "CPU Intel Core i5 14400f Raptor Lake",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/05/CPU_Intel_Core_i5_14400f_Raptor_Lake_1.jpg",
+      "image": "assets/catalog/cpu-intel-core-i5-14400f-raptor-lake-thot-co-7ad833ceec52e642.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "CPU Intel Core i5 14400f Raptor Lake",
           "url": "https://thotcomputacion.com.uy/producto/cpu-intel-core-i5-14400f-raptor-lake/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/05/CPU_Intel_Core_i5_14400f_Raptor_Lake_1.jpg",
+          "image": "assets/catalog/cpu-intel-core-i5-14400f-raptor-lake-thot-co-7ad833ceec52e642.jpg",
           "stock": true,
           "amount": 265,
           "currency": "USD",
@@ -5803,58 +4228,16 @@
       ]
     },
     {
-      "name": "PROCESADOR INTEL I5 12400 (1700)",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4061.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I5 12400 (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-12400-1700-17606/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_4061.jpg",
-          "stock": true,
-          "amount": 271.95,
-          "currency": "USD",
-          "priceText": "US$ 271,95",
-          "priceUYU": 10878,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
-      "name": "PROCESADOR INTEL I5 14400F (1700)",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_73024.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "PROCESADOR INTEL I5 14400F (1700)",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/procesador-intel-i5-14400f-1700-20596/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_73024.jpg",
-          "stock": true,
-          "amount": 273.79,
-          "currency": "USD",
-          "priceText": "US$ 273,79",
-          "priceUYU": 10951.6,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
       "name": "CPU Intel Core Ultra 5 250KF Plus Arrow Lake 1851",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/08/CPU_Intel_Core_Ultra_5_250KF_Plus_Arrow_Lake_1851_1.jpg",
+      "image": "assets/catalog/cpu-intel-core-ultra-5-250kf-plus-arrow-lake-155b37b60d18ef16.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "CPU Intel Core Ultra 5 250KF Plus Arrow Lake 1851",
           "url": "https://thotcomputacion.com.uy/producto/cpu-intel-core-ultra-5-250kf-plus-arrow-lake-1851/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/08/CPU_Intel_Core_Ultra_5_250KF_Plus_Arrow_Lake_1851_1.jpg",
+          "image": "assets/catalog/cpu-intel-core-ultra-5-250kf-plus-arrow-lake-155b37b60d18ef16.jpg",
           "stock": true,
           "amount": 279.99,
           "currency": "USD",
@@ -5866,37 +4249,16 @@
       ]
     },
     {
-      "name": "Intel Core i5 i5-14400 - 2.5 GHz - 10 núcleos - 16 hilos - 20 MB caché - FCLGA1700 Socket - Caja",
-      "category": "Procesadores",
-      "specs": "Hard PC - Sin stock - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70379.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Intel Core i5 i5-14400 - 2.5 GHz - 10 núcleos - 16 hilos - 20 MB caché - FCLGA1700 Socket - Caja",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/intel-core-i5-i5-14400-25-ghz-10-nucleos-16-hilos-20-mb-cache-fclga1700-socket-caja-cp144itl00/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_70379.jpg",
-          "stock": false,
-          "amount": 292.85,
-          "currency": "USD",
-          "priceText": "US$ 292,85",
-          "priceUYU": 11714,
-          "category": "Procesadores",
-          "catalogSeed": "intel"
-        }
-      ]
-    },
-    {
       "name": "CPU Intel Core Ultra 7 270K Plus Arrow Lake 1851",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/08/CPU_Intel_Core_Ultra_7_270K_Plus_Arrow_Lake_1851_1.jpg",
+      "image": "assets/catalog/cpu-intel-core-ultra-7-270k-plus-arrow-lake--098f699f0a9426c8.jpg",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "CPU Intel Core Ultra 7 270K Plus Arrow Lake 1851",
           "url": "https://thotcomputacion.com.uy/producto/cpu-intel-core-ultra-7-270k-plus-arrow-lake-1851/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/08/CPU_Intel_Core_Ultra_7_270K_Plus_Arrow_Lake_1851_1.jpg",
+          "image": "assets/catalog/cpu-intel-core-ultra-7-270k-plus-arrow-lake--098f699f0a9426c8.jpg",
           "stock": true,
           "amount": 439.99,
           "currency": "USD",
@@ -5908,79 +4270,16 @@
       ]
     },
     {
-      "name": "Cpu Amd Ryzen 9 7900 Am5 Box Sin/fan",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_73086.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Cpu Amd Ryzen 9 7900 Am5 Box Sin/fan",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/cpu-amd-ryzen-9-7900-am5-box-sin/fan-0108r97900/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_73086.jpg",
-          "stock": true,
-          "amount": 545.55,
-          "currency": "USD",
-          "priceText": "US$ 545,55",
-          "priceUYU": 21822,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
-      "name": "Cpu Amd Ryzen 7 7800x3d Am5 Box S/fan",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_42398.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Cpu Amd Ryzen 7 7800x3d Am5 Box S/fan",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/cpu-amd-ryzen-7-7800x3d-am5-box-s-fan-car77800x3d/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_42398.jpg",
-          "stock": true,
-          "amount": 553.4,
-          "currency": "USD",
-          "priceText": "US$ 553,4",
-          "priceUYU": 22136,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
-      "name": "Cpu Amd Ryzen 9 7900x Am5 Box S/fan",
-      "category": "Procesadores",
-      "specs": "Hard PC - Disponible - Catalogo conectado",
-      "image": "https://www.hardpc.com.uy/imgs/productos/productos30_53960.jpg",
-      "offers": [
-        {
-          "store": "Hard PC",
-          "name": "Cpu Amd Ryzen 9 7900x Am5 Box S/fan",
-          "url": "https://www.hardpc.com.uy/catalogo/componentes/procesadores/cpu-amd-ryzen-9-7900x-am5-box-s/fan-car97900x/",
-          "image": "https://www.hardpc.com.uy/imgs/productos/productos30_53960.jpg",
-          "stock": true,
-          "amount": 596.8,
-          "currency": "USD",
-          "priceText": "US$ 596,8",
-          "priceUYU": 23872,
-          "category": "Procesadores",
-          "catalogSeed": "ryzen"
-        }
-      ]
-    },
-    {
       "name": "Equipo Intel Core I7 12700 Alder Lake – 16Gb – SSD",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/GENERICO-CORE.png",
+      "image": "assets/catalog/equipo-intel-core-i7-12700-alder-lake-16gb-s-b4b28e48c289b285.png",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I7 12700 Alder Lake – 16Gb – SSD",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i7-12700-alder-lake-16gb-ssd/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/GENERICO-CORE.png",
+          "image": "assets/catalog/equipo-intel-core-i7-12700-alder-lake-16gb-s-b4b28e48c289b285.png",
           "stock": true,
           "amount": 925,
           "currency": "USD",
@@ -5995,13 +4294,13 @@
       "name": "Equipo AMD Ryzen 5 5500 Full Gamer – 16gb – SSD – RX9060XT 8GB",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/MX110-RGB-RYZEN-RADEON1.png",
+      "image": "assets/catalog/equipo-amd-ryzen-5-5500-full-gamer-16gb-ssd--d122d690c6e92376.png",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "Equipo AMD Ryzen 5 5500 Full Gamer – 16gb – SSD – RX9060XT 8GB",
           "url": "https://thotcomputacion.com.uy/producto/equipo-amd-ryzen-5-5500-full-gamer-16gb-ssd-rtx7600/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2023/05/MX110-RGB-RYZEN-RADEON1.png",
+          "image": "assets/catalog/equipo-amd-ryzen-5-5500-full-gamer-16gb-ssd--d122d690c6e92376.png",
           "stock": true,
           "amount": 1225,
           "currency": "USD",
@@ -6016,13 +4315,13 @@
       "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5050 8Gb",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+      "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--29fc0ffb0784a147.png",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5050 8Gb",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i5-14400f-full-gamer-16gb-ssd-rtx5050-8gb/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+          "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--29fc0ffb0784a147.png",
           "stock": true,
           "amount": 1225,
           "currency": "USD",
@@ -6037,13 +4336,13 @@
       "name": "Equipo AMD Ryzen 5 5600XT Full Gamer – 16gb – SSD – RTX5060",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2024/08/MX110-RGB-RYZEN-RTX.png",
+      "image": "assets/catalog/equipo-amd-ryzen-5-5600xt-full-gamer-16gb-ss-3911b6091864a398.png",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "Equipo AMD Ryzen 5 5600XT Full Gamer – 16gb – SSD – RTX5060",
           "url": "https://thotcomputacion.com.uy/producto/equipo-amd-ryzen-5-5600xt-full-gamer-16gb-ssd-rtx5060/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2024/08/MX110-RGB-RYZEN-RTX.png",
+          "image": "assets/catalog/equipo-amd-ryzen-5-5600xt-full-gamer-16gb-ss-3911b6091864a398.png",
           "stock": true,
           "amount": 1300,
           "currency": "USD",
@@ -6058,13 +4357,13 @@
       "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5060 8Gb",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+      "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--e6afa17d3fe5b1ed.png",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5060 8Gb",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i5-14400f-full-gamer-16gb-ssd-rtx5060-8gb/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+          "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--e6afa17d3fe5b1ed.png",
           "stock": true,
           "amount": 1400,
           "currency": "USD",
@@ -6079,13 +4378,13 @@
       "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RX9060XT 8Gb",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RADEON.png",
+      "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--07da5bfdef481055.png",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RX9060XT 8Gb",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i5-14400f-full-gamer-16gb-ssd-rx9060xt-8gb/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RADEON.png",
+          "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--07da5bfdef481055.png",
           "stock": true,
           "amount": 1425,
           "currency": "USD",
@@ -6100,13 +4399,13 @@
       "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5060 Ti 8Gb",
       "category": "Procesadores",
       "specs": "Thot Computacion - Disponible - Catalogo conectado",
-      "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+      "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--78ccb43628a260c7.png",
       "offers": [
         {
           "store": "Thot Computacion",
           "name": "Equipo Intel Core I5 14400F Full Gamer – 16Gb – SSD – RTX5060 Ti 8Gb",
           "url": "https://thotcomputacion.com.uy/producto/equipo-intel-core-i5-14400f-full-gamer-16gb-ssd-rtx5060-ti-8gb/",
-          "image": "https://thotcomputacion.com.uy/wp-content/uploads/2026/04/MX110-RGB-INTEL-CORE-RTX.png",
+          "image": "assets/catalog/equipo-intel-core-i5-14400f-full-gamer-16gb--78ccb43628a260c7.png",
           "stock": true,
           "amount": 1475,
           "currency": "USD",
